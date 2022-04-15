@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN:
     <li>r_logentry(p=1)->[INITIATOR_definite] [damaged_past] [at] [RECIPIENT_definite] in the [recipient_part0_label] [deflected_result].</li>
     <li>r_logentry(p=0.3)->[INITIATOR_definite], wielding [INITIATOR_possessive] [WEAPON_label] [expertly], [damaged_past] [RECIPIENT_definite] in the [recipient_part0_label] [deflected_result].</li>
@@ -24,7 +24,7 @@
     <li>scraped_past->slid</li>
   -->
   <Combat_Deflect.rulePack.rulesStrings>TODO</Combat_Deflect.rulePack.rulesStrings>
-  
+
   <!-- EN:
     <li>scraped_present->glancing</li>
     <li>scraped_present->bouncing</li>
@@ -40,7 +40,7 @@
     <li>scraped_past->skated</li>
   -->
   <Combat_DeflectIncludes.rulePack.rulesStrings>TODO</Combat_DeflectIncludes.rulePack.rulesStrings>
-  
+
   <!-- EN:
     <li>r_logentry(p=0.2)->[RECIPIENT_definite] dodged [INITIATOR_definite]'s [damaged_inf] from [implement].</li>
     <li>r_logentry(p=0.2)->[RECIPIENT_definite] dodged [INITIATOR_definite]'s [damaged_inf].</li>
@@ -49,7 +49,7 @@
     <li>result->but the attack was cleverly avoided</li>
   -->
   <Combat_Dodge.rulePack.rulesStrings>TODO</Combat_Dodge.rulePack.rulesStrings>
-  
+
   <!-- EN:
     <li>prefix->The [blast] [fromof] [INITIATOR_definite]'s [WEAPON_projectile_label]</li>
     <li>prefix->The [blast] [fromof] [INITIATOR_definite]'s [WEAPON_label]</li>
@@ -83,7 +83,7 @@
     <li>fromof->of</li>
   -->
   <Combat_ExplosionImpact.rulePack.rulesStrings>TODO</Combat_ExplosionImpact.rulePack.rulesStrings>
-  
+
   <!-- EN:
     <li>action->[INITIATOR_definite] [tried] to [damaged_inf] [RECIPIENT_definite]</li>
     <li>action->[INITIATOR_definite] [tried] to [damaged_inf] [RECIPIENT_definite] with [implement]</li>
@@ -101,7 +101,7 @@
     <li>tried->attempted</li>
   -->
   <Combat_FailIncludes.rulePack.rulesStrings>TODO</Combat_FailIncludes.rulePack.rulesStrings>
-  
+
   <!-- EN:
     <li>r_logentry(p=0.3)->[INITIATOR_definite] [damaged_past] [RECIPIENT_definite] in the [recipient_part0_label].</li>
     <li>r_logentry(p=0.1)->[INITIATOR_definite] [damaged_past] [RECIPIENT_definite] in the [recipient_part0_label] [adverb_flavortext].</li>
@@ -122,7 +122,7 @@
     <li>action(p=0.6)->[INITIATOR_definite] [damaged_past] [RECIPIENT_definite]</li>
   -->
   <Combat_Hit.rulePack.rulesStrings>TODO</Combat_Hit.rulePack.rulesStrings>
-  
+
   <!-- EN:
     <li>result(p=0.5)->[damaged_present] [RECIPIENT_possessive] [targetlist]</li>
     <li>result(p=0.1)->[damaged_present] [RECIPIENT_possessive] [targetlist] [adverb_flavortext]</li>
@@ -153,7 +153,7 @@
     <li>flavortext_consequence(p=0.2)->throwing [RECIPIENT_objective] off balance</li>
   -->
   <Combat_MeleeDamageIncludes.rulePack.rulesStrings>TODO</Combat_MeleeDamageIncludes.rulePack.rulesStrings>
-  
+
   <!-- EN:
     <li>r_logentry->[action], [result].</li>
     <li>r_logentry(p=0.2)->[action].</li>
@@ -208,7 +208,7 @@
     <li>to->into</li>
   -->
   <Combat_MeleeIncludes.rulePack.rulesStrings>TODO</Combat_MeleeIncludes.rulePack.rulesStrings>
-  
+
   <!-- EN:
     <li>r_logentry(p=0.2)->[RECIPIENT_definite] avoided [INITIATOR_definite]'s [WEAPON_label] [damaged_inf].</li>
     <li>r_logentry(p=0.2)->[INITIATOR_definite] missed [RECIPIENT_definite] with a [damaged_inf] from [implement].</li>
@@ -227,7 +227,7 @@
     <li>result(initiator_flesh!=Mechanoid)->but hesitated at the last second</li>
   -->
   <Combat_Miss.rulePack.rulesStrings>TODO</Combat_Miss.rulePack.rulesStrings>
-  
+
   <!-- EN:
     <li>r_logentry->[INITIATOR_definite]'s [WEAPON_projectile_label] [destroyed_past] [RECIPIENT_definite]'s [destroyed_targets].</li>
     <li>r_logentry->[INITIATOR_definite]'s [WEAPON_projectile_label] [destroyed_past] [RECIPIENT_definite]'s [destroyed_targets] [to] [destroyed_suffix].</li>
@@ -290,7 +290,7 @@
     <li>missed->narrowly missed</li>
   -->
   <Combat_RangedDamage.rulePack.rulesStrings>TODO</Combat_RangedDamage.rulePack.rulesStrings>
-  
+
   <!-- EN:
     <li>r_logentry->[INITIATOR_definite]'s [WEAPON_projectile_label] [damaged_past] [RECIPIENT_definite][damaged_target] [deflected_result].</li>
     <li>r_logentry(p=2)->[INITIATOR_definite]'s [WEAPON_projectile_label] [missed] [ORIGINALTARGET_definite] and [damaged_past] [RECIPIENT_definite][damaged_target_possessive_opt] [deflected_result].</li>
@@ -317,7 +317,7 @@
     <li>missed->narrowly missed</li>
   -->
   <Combat_RangedDeflect.rulePack.rulesStrings>TODO</Combat_RangedDeflect.rulePack.rulesStrings>
-  
+
   <!-- EN:
     <li>r_logentry->[INITIATOR_definite] [shotat] [RECIPIENT_definite] with [INITIATOR_possessive] [WEAPON_label].</li>
     <li>r_logentry->[INITIATOR_definite] [shot] [INITIATOR_possessive] [WEAPON_label] at [RECIPIENT_definite].</li>
@@ -359,7 +359,7 @@
     <li>adjective_shot(initiator_flesh!=Mechanoid)->wary</li>
   -->
   <Combat_RangedFire.rulePack.rulesStrings>TODO</Combat_RangedFire.rulePack.rulesStrings>
-  
+
   <!-- EN:
     <li>r_logentry->[INITIATOR_definite] [threw] [INITIATOR_possessive] [WEAPON_projectile_label] at [RECIPIENT_definite].</li>
     <li>r_logentry->[INITIATOR_definite] [threw_a] [WEAPON_projectile_label] at [RECIPIENT_definite].</li>
@@ -386,7 +386,7 @@
     <li>adjective_threw(initiator_flesh!=Mechanoid)->wary</li>
   -->
   <Combat_RangedFire_Thrown.rulePack.rulesStrings>TODO</Combat_RangedFire_Thrown.rulePack.rulesStrings>
-  
+
   <!-- EN:
     <li>r_logentry->[INITIATOR_definite]'s [WEAPON_projectile_label] [missed].</li>
     <li>r_logentry->[INITIATOR_definite] missed [ORIGINALTARGET_definite].</li>
@@ -424,7 +424,7 @@
     <li>avoidance(ORIGINALTARGET_mobile==True,p=0.3)->leaped behind [COVER_definite]</li>
   -->
   <Combat_RangedMiss.rulePack.rulesStrings>TODO</Combat_RangedMiss.rulePack.rulesStrings>
-  
+
   <!-- EN:
     <li>destroyed_targets(recipient_part_destroyed_count==1)->[recipient_part_destroyed0_label]</li>
     <li>destroyed_targets(recipient_part_destroyed_count==2)->[recipient_part_destroyed0_label] and [recipient_part_destroyed1_label]</li>
@@ -476,5 +476,5 @@
     <li>expert->artistic</li>
   -->
   <Combat_WoundIncludes.rulePack.rulesStrings>TODO</Combat_WoundIncludes.rulePack.rulesStrings>
-  
+
 </LanguageData>

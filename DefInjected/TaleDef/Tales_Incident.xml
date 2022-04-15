@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: aurora -->
   <Aurora.label>TODO</Aurora.label>
   <!-- EN:
@@ -24,7 +24,7 @@
     <li>desc_sentence->There is no [Enemy] in sight.</li>
   -->
   <Aurora.rulePack.rulesStrings>TODO</Aurora.rulePack.rulesStrings>
-  
+
   <!-- EN: caravan ambushed -->
   <CaravanAmbushedByHumanlike.label>TODO</CaravanAmbushedByHumanlike.label>
   <!-- EN:
@@ -49,7 +49,7 @@
     <li>desc_sentence->In the distance, a [PersonJob] observes.</li>
   -->
   <CaravanAmbushedByHumanlike.rulePack.rulesStrings>TODO</CaravanAmbushedByHumanlike.rulePack.rulesStrings>
-  
+
   <!-- EN: caravan ambushed by manhunter -->
   <CaravanAmbushedByManhunter.label>TODO</CaravanAmbushedByManhunter.label>
   <!-- EN:
@@ -72,7 +72,7 @@
     <li>desc_sentence->In the distance, a [PersonJob] observes.</li>
   -->
   <CaravanAmbushedByManhunter.rulePack.rulesStrings>TODO</CaravanAmbushedByManhunter.rulePack.rulesStrings>
-  
+
   <!-- EN: caravan demand -->
   <CaravanDemand.label>TODO</CaravanDemand.label>
   <!-- EN:
@@ -100,7 +100,7 @@
     <li>action->taunting [PAWN_nameDef]</li>
   -->
   <CaravanDemand.rulePack.rulesStrings>TODO</CaravanDemand.rulePack.rulesStrings>
-  
+
   <!-- EN: caravan meeting -->
   <CaravanMeeting.label>TODO</CaravanMeeting.label>
   <!-- EN:
@@ -129,7 +129,7 @@
     <li>event->talking hesitantly</li>
   -->
   <CaravanMeeting.rulePack.rulesStrings>TODO</CaravanMeeting.rulePack.rulesStrings>
-  
+
   <!-- EN: eclipse -->
   <Eclipse.label>TODO</Eclipse.label>
   <!-- EN:
@@ -150,7 +150,7 @@
     <li>desc_sentence->There is no [Enemy] in sight.</li>
   -->
   <Eclipse.rulePack.rulesStrings>TODO</Eclipse.rulePack.rulesStrings>
-  
+
   <!-- EN: flashstorm -->
   <Flashstorm.label>TODO</Flashstorm.label>
   <!-- EN:
@@ -176,7 +176,7 @@
     <li>desc_sentence->All animal life has left the area.</li>
   -->
   <Flashstorm.rulePack.rulesStrings>TODO</Flashstorm.rulePack.rulesStrings>
-  
+
   <!-- EN: infestation -->
   <Infestation.label>TODO</Infestation.label>
   <!-- EN:
@@ -202,7 +202,7 @@
     <li>desc_sentence->All animal life has left the area.</li>
   -->
   <Infestation.rulePack.rulesStrings>TODO</Infestation.rulePack.rulesStrings>
-  
+
   <!-- EN: journey offer -->
   <JourneyOffer.label>TODO</JourneyOffer.label>
   <!-- EN:
@@ -235,7 +235,7 @@
     <li>desc_sentence->A spaceship is visible in the far distance.</li>
   -->
   <JourneyOffer.rulePack.rulesStrings>TODO</JourneyOffer.rulePack.rulesStrings>
-  
+
   <!-- EN: manhunter pack -->
   <ManhunterPack.label>TODO</ManhunterPack.label>
   <!-- EN:
@@ -266,7 +266,7 @@
     <li>desc_sentence->[Quantity_adjphrase] [Animal]s flee the area.</li>
   -->
   <ManhunterPack.rulePack.rulesStrings>TODO</ManhunterPack.rulePack.rulesStrings>
-  
+
   <!-- EN: meteorite impact -->
   <MeteoriteImpact.label>TODO</MeteoriteImpact.label>
   <!-- EN:
@@ -295,7 +295,7 @@
     <li>desc_sentence->The surroundings are muted and dull.</li>
   -->
   <MeteoriteImpact.rulePack.rulesStrings>TODO</MeteoriteImpact.rulePack.rulesStrings>
-  
+
   <!-- EN: raid -->
   <Raid.label>TODO</Raid.label>
   <!-- EN:
@@ -330,7 +330,7 @@
     <li>defender_circumstance->flexing [PAWN_possessive] muscles</li>
   -->
   <Raid.rulePack.rulesStrings>TODO</Raid.rulePack.rulesStrings>
-  
+
   <!-- EN: ship part crash -->
   <ShipPartCrash.label>TODO</ShipPartCrash.label>
   <!-- EN:
@@ -366,7 +366,7 @@
     <li>defender_circumstance->flexing [PAWN_possessive] muscles</li>
   -->
   <ShipPartCrash.rulePack.rulesStrings>TODO</ShipPartCrash.rulePack.rulesStrings>
-  
+
   <!-- EN: tornado -->
   <Tornado.label>TODO</Tornado.label>
   <!-- EN:
@@ -392,7 +392,7 @@
     <li>desc_sentence->All animal life has left the area.</li>
   -->
   <Tornado.rulePack.rulesStrings>TODO</Tornado.rulePack.rulesStrings>
-  
+
   <!-- EN: tornado -->
   <TornadoFromItem.label>TODO</TornadoFromItem.label>
   <!-- EN:
@@ -420,7 +420,7 @@
     <li>desc_sentence->All animal life has left the area.</li>
   -->
   <TornadoFromItem.rulePack.rulesStrings>TODO</TornadoFromItem.rulePack.rulesStrings>
-  
+
   <!-- EN: toxic fallout -->
   <ToxicFallout.label>TODO</ToxicFallout.label>
   <!-- EN:
@@ -444,7 +444,7 @@
     <li>desc_sentence->[Quantity_adjphrase] [Animal]s mill around uncertainly.</li>
   -->
   <ToxicFallout.rulePack.rulesStrings>TODO</ToxicFallout.rulePack.rulesStrings>
-  
+
   <!-- EN: volcanic winter -->
   <VolcanicWinter.label>TODO</VolcanicWinter.label>
   <!-- EN:
@@ -466,5 +466,5 @@
     <li>desc_sentence->[Quantity_adjphrase] [Animal]s mill around uncertainly.</li>
   -->
   <VolcanicWinter.rulePack.rulesStrings>TODO</VolcanicWinter.rulePack.rulesStrings>
-  
+
 </LanguageData>

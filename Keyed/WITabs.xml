@@ -16,7 +16,7 @@
   <TabCaravanGear>Utrustning</TabCaravanGear>
   <!-- EN: Items -->
   <TabCaravanItems>Föremål</TabCaravanItems>
-  
+
   <!-- Misc -->
   <!-- EN: Abandon {{0}}x {0} -->
   <AbandonSliderText>Överge {{0}}x {0}</AbandonSliderText>
@@ -34,7 +34,7 @@
   <AbandonItemTipExtraText>Övergivna föremål går aldrig att få tillbaka.</AbandonItemTipExtraText>
   <!-- EN: {0} will most likely die. -->
   <BanishTipWillDie>{0} kommer sannolikt att dö.</BanishTipWillDie>
-  
+
   <!-- Caravan inspect -->
   <!-- EN: Colonists -->
   <CaravanColonists>Kolonister</CaravanColonists>
@@ -52,7 +52,7 @@
   <NoneCapable>Ingen är kapabel</NoneCapable>
   <!-- EN: Caravan not moving -->
   <GainingJoyBecauseCaravanNotMoving>Karavanen står still</GainingJoyBecauseCaravanNotMoving>
-  
+
   <!-- Caravan gear -->
   <!-- EN: Drag to rearrange. -->
   <DragToRearrange>Dra för att ordna om.</DragToRearrange>
@@ -64,7 +64,7 @@
   <!-- Caravan health -->
   <!-- EN: Whether this person or animal should be carried by other caravan members when sick.\n\nCarried caravan members can rest even if the caravan is moving, but they slow it down. -->
   <BeCarriedIfSickTip>Huruvida den här personen eller djuret ska bäras av andra karavanmedlemmar när de är sjuka.\n\nBurna karavanmedlemmar kan vila även om karvanen rör på sig, men de saktar ner den.</BeCarriedIfSickTip>
-  
+
   <!-- Planet -->
   <!-- EN: Seed -->
   <PlanetSeed>Frö</PlanetSeed>

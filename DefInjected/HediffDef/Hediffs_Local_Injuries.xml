@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: bite -->
   <Bite.label>bett</Bite.label>
   <!-- EN: set -->
@@ -19,7 +19,7 @@
   <Bite.labelNoun>ett bitsår</Bite.labelNoun>
   <!-- EN: {0} in the {1} -->
   <Bite.labelNounPretty>{0} i {1}</Bite.labelNounPretty>
-  
+
   <!-- EN: bruise -->
   <Bruise.label>blåmärke</Bruise.label>
   <!-- EN: set -->
@@ -34,7 +34,7 @@
   <Bruise.labelNoun>ett blåmärke</Bruise.labelNoun>
   <!-- EN: {0} in the {1} -->
   <Bruise.labelNounPretty>{0} i {1}</Bruise.labelNounPretty>
-  
+
   <!-- EN: burn -->
   <Burn.label>brännskada</Burn.label>
   <!-- EN: set -->
@@ -53,7 +53,7 @@
   <Burn.labelNoun>en brännskada</Burn.labelNoun>
   <!-- EN: {0} in the {1} -->
   <Burn.labelNounPretty>{0} i {1}</Burn.labelNounPretty>
-  
+
   <!-- EN: crack -->
   <Crack.label>benbrott</Crack.label>
   <!-- EN: set -->
@@ -70,7 +70,7 @@
   <Crack.labelNoun>ett benbrott</Crack.labelNoun>
   <!-- EN: {0} in the {1} -->
   <Crack.labelNounPretty>{0} i {1}</Crack.labelNounPretty>
-  
+
   <!-- EN: crush -->
   <Crush.label>krossskada</Crush.label>
   <!-- EN: set -->
@@ -87,7 +87,7 @@
   <Crush.labelNoun>en krossskada</Crush.labelNoun>
   <!-- EN: {0} in the {1} -->
   <Crush.labelNounPretty>{0} i {1}</Crush.labelNounPretty>
-  
+
   <!-- EN: cut -->
   <Cut.label>skärsår</Cut.label>
   <!-- EN: set -->
@@ -106,7 +106,7 @@
   <Cut.labelNoun>ett skärsår</Cut.labelNoun>
   <!-- EN: {0} in the {1} -->
   <Cut.labelNounPretty>{0} i {1}</Cut.labelNounPretty>
-  
+
   <!-- EN: frostbite -->
   <Frostbite.label>köldskada</Frostbite.label>
   <!-- EN: set -->
@@ -121,7 +121,7 @@
   <Frostbite.injuryProps.destroyedLabel>Förlorat pågrund av förfrysning</Frostbite.injuryProps.destroyedLabel>
   <!-- EN: {0} in the {1} -->
   <Frostbite.labelNounPretty>{0} i {1}</Frostbite.labelNounPretty>
-  
+
   <!-- EN: gunshot -->
   <Gunshot.label>skottskada</Gunshot.label>
   <!-- EN: set -->
@@ -142,7 +142,7 @@
   <Gunshot.labelNoun>en skottskada</Gunshot.labelNoun>
   <!-- EN: {0} in the {1} -->
   <Gunshot.labelNounPretty>{0} i {1}</Gunshot.labelNounPretty>
-  
+
   <!-- EN: misc -->
   <Misc.label>diverse</Misc.label>
   <!-- EN: set -->
@@ -157,14 +157,14 @@
   <Misc.labelNoun>en skada</Misc.labelNoun>
   <!-- EN: {0} in the {1} -->
   <Misc.labelNounPretty>{0} i {1}</Misc.labelNounPretty>
-  
+
   <!-- EN: missing body part -->
   <MissingBodyPart.label>saknad kroppsdel</MissingBodyPart.label>
   <!-- EN: a missing body part -->
   <MissingBodyPart.labelNoun>en saknad kroppsdel</MissingBodyPart.labelNoun>
   <!-- EN: missing a {1} -->
   <MissingBodyPart.labelNounPretty>saknar {1}</MissingBodyPart.labelNounPretty>
-  
+
   <!-- EN: scratch -->
   <Scratch.label>rivsår</Scratch.label>
   <!-- EN: set -->
@@ -183,7 +183,7 @@
   <Scratch.labelNoun>ett rivsår</Scratch.labelNoun>
   <!-- EN: {0} in the {1} -->
   <Scratch.labelNounPretty>{0} i {1}</Scratch.labelNounPretty>
-  
+
   <!-- EN: shredded -->
   <Shredded.label>splitterskada</Shredded.label>
   <!-- EN: set -->
@@ -202,7 +202,7 @@
   <Shredded.labelNoun>en splitterskada</Shredded.labelNoun>
   <!-- EN: {0} in the {1} -->
   <Shredded.labelNounPretty>{0} i {1}</Shredded.labelNounPretty>
-  
+
   <!-- EN: stab -->
   <Stab.label>stick</Stab.label>
   <!-- EN: set -->
@@ -221,7 +221,7 @@
   <Stab.labelNoun>ett sticksår</Stab.labelNoun>
   <!-- EN: {0} in the {1} -->
   <Stab.labelNounPretty>{0} i {1}</Stab.labelNounPretty>
-  
+
   <!-- EN: surgical cut -->
   <SurgicalCut.label>kirurgiskt snitt</SurgicalCut.label>
   <!-- EN: set -->
@@ -236,5 +236,5 @@
   <SurgicalCut.labelNoun>ett kirurgiskt snitt</SurgicalCut.labelNoun>
   <!-- EN: {0} in the {1} -->
   <SurgicalCut.labelNounPretty>{0} i {1}</SurgicalCut.labelNounPretty>
-  
+
 </LanguageData>

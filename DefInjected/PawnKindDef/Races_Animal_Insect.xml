@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: megascarab -->
   <Megascarab.label>jätteskarabé</Megascarab.label>
   <Megascarab.labelFemale>jätteskarabé</Megascarab.labelFemale>
@@ -26,7 +26,7 @@
   <Megascarab.lifeStages.2.labelMale>jätteskarabé</Megascarab.lifeStages.2.labelMale>
   <Megascarab.lifeStages.2.labelMalePlural>jätteskarabéer</Megascarab.lifeStages.2.labelMalePlural>
   <Megascarab.lifeStages.2.labelPlural>jätteskarabéer</Megascarab.lifeStages.2.labelPlural>
-  
+
   <!-- EN: megaspider -->
   <Megaspider.label>jättespindel</Megaspider.label>
   <Megaspider.labelFemale>jättespindel</Megaspider.labelFemale>
@@ -52,7 +52,7 @@
   <Megaspider.lifeStages.2.labelMale>jättespindel</Megaspider.lifeStages.2.labelMale>
   <Megaspider.lifeStages.2.labelMalePlural>jättespindlar</Megaspider.lifeStages.2.labelMalePlural>
   <Megaspider.lifeStages.2.labelPlural>jättespindlar</Megaspider.lifeStages.2.labelPlural>
-  
+
   <!-- EN: spelopede -->
   <Spelopede.label>speloped</Spelopede.label>
   <Spelopede.labelFemale>speloped</Spelopede.labelFemale>
@@ -78,5 +78,5 @@
   <Spelopede.lifeStages.2.labelMale>speloped</Spelopede.lifeStages.2.labelMale>
   <Spelopede.lifeStages.2.labelMalePlural>spelopeder</Spelopede.lifeStages.2.labelMalePlural>
   <Spelopede.lifeStages.2.labelPlural>spelopeder</Spelopede.lifeStages.2.labelPlural>
-  
+
 </LanguageData>

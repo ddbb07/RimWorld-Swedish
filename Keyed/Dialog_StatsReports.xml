@@ -6,7 +6,7 @@
   <!-- EN: damage -->
   <DamageLower>skada</DamageLower>
   <!-- EN: seconds per attack -->
-  <SecondsPerAttackLower> slag per sekund</SecondsPerAttackLower>
+  <SecondsPerAttackLower>slag per sekund</SecondsPerAttackLower>
 
   <!-- EN: Base value -->
   <StatsReport_BaseValue>Basvärde</StatsReport_BaseValue>

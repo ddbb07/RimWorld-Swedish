@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: outpost -->
   <Outpost.label>utpost</Outpost.label>
   <!-- EN: A small, guarded outpost. -->
@@ -13,6 +13,6 @@
   <Outpost.arrivedLetter>Fiender har en utpost i detta område.</Outpost.arrivedLetter>
   <!-- EN: there is an enemy outpost at the site guarded by {0} enemies -->
   <Outpost.descriptionDialogue>finder har en utpost i närheten, den bevakas av {0} fiender</Outpost.descriptionDialogue>
-  
-  
+
+
 </LanguageData>

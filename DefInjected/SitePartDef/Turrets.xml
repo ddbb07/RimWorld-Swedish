@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: turrets -->
   <Turrets.label>kanontorn</Turrets.label>
   <!-- EN: A group of turrets. -->
@@ -9,6 +9,6 @@
   <Turrets.arrivedLetter>Det finns fientliga kanontorn i detta område.</Turrets.arrivedLetter>
   <!-- EN: {0} defend the site -->
   <Turrets.descriptionDialogue>{0} försvarar platsen.</Turrets.descriptionDialogue>
-  
-  
+
+
 </LanguageData>

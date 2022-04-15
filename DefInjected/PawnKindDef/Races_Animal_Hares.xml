@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: hare -->
   <Hare.label>hare</Hare.label>
   <Hare.labelFemale>hare</Hare.labelFemale>
@@ -26,7 +26,7 @@
   <Hare.lifeStages.2.labelMale>hare</Hare.lifeStages.2.labelMale>
   <Hare.lifeStages.2.labelMalePlural>harar</Hare.lifeStages.2.labelMalePlural>
   <Hare.lifeStages.2.labelPlural>harar</Hare.lifeStages.2.labelPlural>
-  
+
   <!-- EN: snowhare -->
   <Snowhare.label>snöhare</Snowhare.label>
   <Snowhare.labelFemale>snöhare</Snowhare.labelFemale>
@@ -52,5 +52,5 @@
   <Snowhare.lifeStages.2.labelMale>snöhare</Snowhare.lifeStages.2.labelMale>
   <Snowhare.lifeStages.2.labelMalePlural>snöharar</Snowhare.lifeStages.2.labelMalePlural>
   <Snowhare.lifeStages.2.labelPlural>snöharar</Snowhare.lifeStages.2.labelPlural>
-  
+
 </LanguageData>

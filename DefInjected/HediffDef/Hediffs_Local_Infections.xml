@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: flu -->
   <Animal_Flu.label>influensa</Animal_Flu.label>
   <!-- EN: minor -->
@@ -9,7 +9,7 @@
   <Animal_Flu.stages.major.label>allvarlig</Animal_Flu.stages.major.label>
   <!-- EN: extreme -->
   <Animal_Flu.stages.extreme.label>extrem</Animal_Flu.stages.extreme.label>
-  
+
   <!-- EN: plague -->
   <Animal_Plague.label>pest</Animal_Plague.label>
   <!-- EN: minor -->
@@ -20,14 +20,14 @@
   <Animal_Plague.stages.extreme-0.label>extrem</Animal_Plague.stages.extreme-0.label>
   <!-- EN: extreme -->
   <Animal_Plague.stages.extreme-1.label>extrem</Animal_Plague.stages.extreme-1.label>
-  
+
   <!-- EN: fibrous mechanites -->
   <FibrousMechanites.label>vävnadsmekaniter</FibrousMechanites.label>
   <!-- EN: mild pain -->
   <FibrousMechanites.stages.mild_pain.label>lindrig smärta</FibrousMechanites.stages.mild_pain.label>
   <!-- EN: intense pain -->
   <FibrousMechanites.stages.intense_pain.label>allvarlig smärta</FibrousMechanites.stages.intense_pain.label>
-  
+
   <!-- EN: flu -->
   <Flu.label>influensa</Flu.label>
   <!-- EN: minor -->
@@ -36,7 +36,7 @@
   <Flu.stages.major.label>allvarlig</Flu.stages.major.label>
   <!-- EN: extreme -->
   <Flu.stages.extreme.label>livshotande</Flu.stages.extreme.label>
-  
+
   <!-- EN: gut worms -->
   <GutWorms.label>bandmask</GutWorms.label>
   <!-- EN: malaria -->
@@ -47,10 +47,10 @@
   <Malaria.stages.major.label>allvarlig</Malaria.stages.major.label>
   <!-- EN: extreme -->
   <Malaria.stages.extreme.label>livshotande</Malaria.stages.extreme.label>
-  
+
   <!-- EN: muscle parasites -->
   <MuscleParasites.label>muskelparasiter</MuscleParasites.label>
-  
+
   <!-- EN: plague -->
   <Plague.label>pest</Plague.label>
   <!-- EN: minor -->
@@ -61,14 +61,14 @@
   <Plague.stages.extreme-0.label>extrem</Plague.stages.extreme-0.label>
   <!-- EN: extreme -->
   <Plague.stages.extreme-1.label>extrem</Plague.stages.extreme-1.label>
-  
+
   <!-- EN: sensory mechanites -->
   <SensoryMechanites.label>känselmekaniter</SensoryMechanites.label>
   <!-- EN: mild pain -->
   <SensoryMechanites.stages.mild_pain.label>lindrig smärta</SensoryMechanites.stages.mild_pain.label>
   <!-- EN: intense pain -->
   <SensoryMechanites.stages.intense_pain.label>allvarlig smärta</SensoryMechanites.stages.intense_pain.label>
-  
+
   <!-- EN: sleeping sickness -->
   <SleepingSickness.label>narkolepsi</SleepingSickness.label>
   <!-- EN: minor -->
@@ -81,7 +81,7 @@
   <SleepingSickness.stages.extreme-0.label>extrem</SleepingSickness.stages.extreme-0.label>
   <!-- EN: extreme -->
   <SleepingSickness.stages.extreme-1.label>extrem</SleepingSickness.stages.extreme-1.label>
-  
+
   <!-- EN: infection -->
   <WoundInfection.label>infektion</WoundInfection.label>
   <!-- EN: an infection -->
@@ -94,5 +94,5 @@
   <WoundInfection.stages.extreme-0.label>extrem</WoundInfection.stages.extreme-0.label>
   <!-- EN: extreme -->
   <WoundInfection.stages.extreme-1.label>extrem</WoundInfection.stages.extreme-1.label>
-  
+
 </LanguageData>

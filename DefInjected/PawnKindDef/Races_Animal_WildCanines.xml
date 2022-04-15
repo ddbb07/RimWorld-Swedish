@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: arctic fox -->
   <Fox_Arctic.label>fjällräv</Fox_Arctic.label>
   <Fox_Arctic.labelFemale>fjällräv</Fox_Arctic.labelFemale>
@@ -29,7 +29,7 @@
   <Fox_Arctic.lifeStages.2.labelMale>fjällräv</Fox_Arctic.lifeStages.2.labelMale>
   <Fox_Arctic.lifeStages.2.labelMalePlural>fjällrävar</Fox_Arctic.lifeStages.2.labelMalePlural>
   <Fox_Arctic.lifeStages.2.labelPlural>fjällrävar</Fox_Arctic.lifeStages.2.labelPlural>
-  
+
   <!-- EN: fennec fox -->
   <Fox_Fennec.label>ökenräv</Fox_Fennec.label>
   <Fox_Fennec.labelFemale>ökenräv</Fox_Fennec.labelFemale>
@@ -58,7 +58,7 @@
   <Fox_Fennec.lifeStages.2.labelMale>övenräv</Fox_Fennec.lifeStages.2.labelMale>
   <Fox_Fennec.lifeStages.2.labelMalePlural>ökenrävar</Fox_Fennec.lifeStages.2.labelMalePlural>
   <Fox_Fennec.lifeStages.2.labelPlural>ökenrävar</Fox_Fennec.lifeStages.2.labelPlural>
-  
+
   <!-- EN: red fox -->
   <Fox_Red.label>räv</Fox_Red.label>
   <Fox_Red.labelFemale>räv</Fox_Red.labelFemale>
@@ -87,7 +87,7 @@
   <Fox_Red.lifeStages.2.labelMale>räv</Fox_Red.lifeStages.2.labelMale>
   <Fox_Red.lifeStages.2.labelMalePlural>rävar</Fox_Red.lifeStages.2.labelMalePlural>
   <Fox_Red.lifeStages.2.labelPlural>rävar</Fox_Red.lifeStages.2.labelPlural>
-  
+
   <!-- EN: warg -->
   <Warg.label>jättevarg</Warg.label>
   <Warg.labelFemale>jättevarg</Warg.labelFemale>
@@ -115,7 +115,7 @@
   <Warg.lifeStages.2.labelMale>jättevarg</Warg.lifeStages.2.labelMale>
   <Warg.lifeStages.2.labelMalePlural>jättevargar</Warg.lifeStages.2.labelMalePlural>
   <Warg.lifeStages.2.labelPlural>jättevargar</Warg.lifeStages.2.labelPlural>
-  
+
   <!-- EN: arctic wolf -->
   <Wolf_Arctic.label>polarvarg</Wolf_Arctic.label>
   <Wolf_Arctic.labelFemale>polarvarg</Wolf_Arctic.labelFemale>
@@ -144,7 +144,7 @@
   <Wolf_Arctic.lifeStages.2.labelMale>polarvarg</Wolf_Arctic.lifeStages.2.labelMale>
   <Wolf_Arctic.lifeStages.2.labelMalePlural>polarvargar</Wolf_Arctic.lifeStages.2.labelMalePlural>
   <Wolf_Arctic.lifeStages.2.labelPlural>polarvargar</Wolf_Arctic.lifeStages.2.labelPlural>
-  
+
   <!-- EN: timber wolf -->
   <Wolf_Timber.label>varg</Wolf_Timber.label>
   <Wolf_Timber.labelFemale>varg</Wolf_Timber.labelFemale>
@@ -173,5 +173,5 @@
   <Wolf_Timber.lifeStages.2.labelMale>varg</Wolf_Timber.lifeStages.2.labelMale>
   <Wolf_Timber.lifeStages.2.labelMalePlural>vargar</Wolf_Timber.lifeStages.2.labelMalePlural>
   <Wolf_Timber.lifeStages.2.labelPlural>vargar</Wolf_Timber.lifeStages.2.labelPlural>
-  
+
 </LanguageData>

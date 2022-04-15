@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN:
     <li>image->a solitary [Character] [desc_pawn]</li>
     <li>image->a solitary [Character] [desc_pawn] near a [TerrainFeature]</li>
@@ -68,5 +68,5 @@
     <li>subject_desc->ridande på en [animal] bärandes [apparel]</li>
     <li>subject_desc->tittar [adjective]</li>
   </TalelessImages.rulePack.rulesStrings>
-  
+
 </LanguageData>

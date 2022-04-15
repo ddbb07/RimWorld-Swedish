@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: heatstroke -->
   <Heatstroke.label>värmeslag</Heatstroke.label>
   <!-- EN: initial -->
@@ -13,7 +13,7 @@
   <Heatstroke.stages.serious.label>allvarlig</Heatstroke.stages.serious.label>
   <!-- EN: extreme -->
   <Heatstroke.stages.extreme.label>livshotande</Heatstroke.stages.extreme.label>
-  
+
   <!-- EN: hypothermia -->
   <Hypothermia.label>hypotermi</Hypothermia.label>
   <!-- EN: shivering -->
@@ -26,7 +26,7 @@
   <Hypothermia.stages.serious.label>svår</Hypothermia.stages.serious.label>
   <!-- EN: extreme -->
   <Hypothermia.stages.extreme.label>livshotande</Hypothermia.stages.extreme.label>
-  
+
   <!-- EN: hypothermic slowdown -->
   <HypothermicSlowdown.label>hypotermisk avmattning</HypothermicSlowdown.label>
   <!-- EN: minor -->
@@ -39,5 +39,5 @@
   <HypothermicSlowdown.stages.serious.label>svår</HypothermicSlowdown.stages.serious.label>
   <!-- EN: extreme -->
   <HypothermicSlowdown.stages.extreme.label>extrem</HypothermicSlowdown.stages.extreme.label>
-  
+
 </LanguageData>

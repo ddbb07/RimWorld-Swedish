@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: raw humanlike meat eaten -->
   <AteRawHumanlikeMeat.label>ätit rå människoliknande kött</AteRawHumanlikeMeat.label>
   <!-- EN:
@@ -55,10 +55,10 @@
     <li>desc_sentence->köttet glittrar och verkar väldigt saftigt.</li>
     <li>desc_sentence->köttet spiller överallt över [pawn_nameShortDef]'s kropp.</li>
   </AteRawHumanlikeMeat.rulePack.rulesStrings>
-  
+
   <!-- EN: humanlike corpse butchered -->
   <ButcheredHumanlikeCorpse.label>människolik kropp slaktad</ButcheredHumanlikeCorpse.label>
-  
+
   <!-- EN: art crafted -->
   <CraftedArt.label>konst tillverkad</CraftedArt.label>
   <!-- EN:
@@ -115,7 +115,7 @@
     <li>title_sentence->[thing_labelDefinite] är utsmyckad med sin titel: [thing_title]</li>
     <li>title_sentence->Titeln till [thing_labelDefinite], [thing_title], hänger i bakgrunden</li>
   </CraftedArt.rulePack.rulesStrings>
-  
+
   <!-- EN: drunk -->
   <Drunk.label>fylla</Drunk.label>
   <!-- EN:
@@ -181,7 +181,7 @@
     <li>desc_sentence->[pawn_pronoun] verkar ha förlorat sina skor.</li>
     <li>desc_sentence->[pawn_possessive] har håret är helt förvirrad.</li>
   </Drunk.rulePack.rulesStrings>
-  
+
   <!-- EN: research project finished -->
   <FinishedResearchProject.label>forskningsprojekt klart</FinishedResearchProject.label>
   <!-- EN:
@@ -212,7 +212,7 @@
     <li>desc_sentence->[pawn_nameShortDef] är helt omgiven av en rad verktyg och apparater.</li>
     <li>desc_sentence->[pawn_nameShortDef] stirrar på [pawn_possessive] upptäckt med en känsla av underverk.</li>
   </FinishedResearchProject.rulePack.rulesStrings>
-  
+
   <!-- EN: landed in pod -->
   <LandedInPod.label>lander i en kapsen</LandedInPod.label>
   <!-- EN:
@@ -261,7 +261,7 @@
     <li>desc_sentence->Det är en [terrainfeature] i bakgrunden.</li>
     <li>desc_sentence->En [outlander] tittar tyst i fjärran.</li>
   </LandedInPod.rulePack.rulesStrings>
-  
+
   <!-- EN: berserk rage -->
   <MentalStateBerserk.label>bärsärk ilska</MentalStateBerserk.label>
   <!-- EN:
@@ -314,7 +314,7 @@
     <li>desc_sentence->[pawn_possessive] ansiktet verkar fast i en blick av vridet lugn.</li>
     <li>desc_sentence->En ensam tår droppar ifrån [pawn_possessive] kind.</li>
   </MentalStateBerserk.rulePack.rulesStrings>
-  
+
   <!-- EN: gave up -->
   <MentalStateGaveUp.label>ger upp</MentalStateGaveUp.label>
   <!-- EN:
@@ -359,7 +359,7 @@
     <li>desc_sentence->[pawn_pronoun] verkar ha förlorat en sko.</li>
     <li>desc_sentence->[pawn_possessive] har håret är helt förvirrad.</li>
   </MentalStateGaveUp.rulePack.rulesStrings>
-  
+
   <!-- EN: struck mineable -->
   <StruckMineable.label>hittade mineraler</StruckMineable.label>
   <!-- EN:
@@ -394,7 +394,7 @@
     <li>desc_sentence->[pawn_nameShortDef] är svettig och smutsig från arbetet.</li>
     <li>desc_sentence->[pawn_nameShortDef] är svettig och smutsig från arbetet.</li>
   </StruckMineable.rulePack.rulesStrings>
-  
+
   <!-- EN: vomited -->
   <Vomited.label>kräks</Vomited.label>
   <!-- EN:
@@ -435,7 +435,7 @@
     <li>desc_sentence->[pawn_pronoun] är omgiven av en konstnärligt utförda gloria av smuts.</li>
     <li>desc_sentence->En [animal] äter från rännilen av spya i bakgrunden.</li>
   </Vomited.rulePack.rulesStrings>
-  
+
   <!-- EN: walked naked -->
   <WalkedNaked.label>går naken</WalkedNaked.label>
   <!-- EN:
@@ -488,7 +488,7 @@
     <li>desc_sentence->[pawn_nameShortDef] andas tungt utan uppenbar anledning.</li>
     <li>desc_sentence->[pawn_nameShortDef] smeker en buske.</li>
   </WalkedNaked.rulePack.rulesStrings>
-  
+
   <!-- EN: on fire -->
   <WasOnFire.label>brinner</WasOnFire.label>
   <!-- EN:
@@ -531,5 +531,5 @@
     <li>desc_sentence->En plym av rök stiger ifrån [pawn_objective].</li>
     <li>desc_sentence->[pawn_pronoun] görs konstnärligt på ett likformigt sätt.</li>
   </WasOnFire.rulePack.rulesStrings>
-  
+
 </LanguageData>

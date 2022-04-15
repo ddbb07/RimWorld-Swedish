@@ -33,7 +33,7 @@
   <!-- EN: {PAWN_titleIndef} named {PAWN_nameDef} is crashing in a transport pod nearby. If {PAWN_pronoun} survives the impact, {PAWN_pronoun} will be badly wounded. -->
   <RefugeePodCrash>{PAWN_titleIndef} med namnet {PAWN_nameDef} har kraschat med en transportkapsel i närheten. Om {PAWN_pronoun} överlever nedslaget kommer {PAWN_pronoun} vara svårt skadad.</RefugeePodCrash>
   <!-- EN: {PAWN_nameDef} is not affiliated with any faction. You can rescue {PAWN_objective} and hope {PAWN_pronoun} joins freely, or capture {PAWN_objective} for recruitment or slavery purposes. -->
-  <RefugeePodCrash_Factionless>{PAWN_nameDef} är inte ansluten till någon fraktion. Du kan rädda {PAWN_objective} och hoppas på att {PAWN_pronoun} ansluter frivilligt, eller tillfångata {PAWN_objective} för rekrytering eller slaveri. </RefugeePodCrash_Factionless>
+  <RefugeePodCrash_Factionless>{PAWN_nameDef} är inte ansluten till någon fraktion. Du kan rädda {PAWN_objective} och hoppas på att {PAWN_pronoun} ansluter frivilligt, eller tillfångata {PAWN_objective} för rekrytering eller slaveri.</RefugeePodCrash_Factionless>
   <!-- EN: {PAWN_nameDef} is from your enemy {PAWN_factionName}. You can capture {PAWN_objective} for recruitment or slavery purposes. -->
   <RefugeePodCrash_Hostile>{PAWN_nameDef} tillhör din fiende {PAWN_factionName}. Du kan fånga {PAWN_objective} för rekrytering eller slaveri.</RefugeePodCrash_Hostile>
   <!-- EN: {PAWN_nameDef} is from {PAWN_factionName}. If you rescue {PAWN_objective}, {PAWN_pronoun} may join freely. Otherwise, {PAWN_pronoun} will return home and spread goodwill between your factions.\n\nYou can also capture {PAWN_objective} for recruitment or slavery purposes, but this will anger {PAWN_possessive} faction. -->
@@ -53,7 +53,7 @@
   <!-- EN: All {0} Wd of energy in the connected batteries has been discharged in an electrical explosion. -->
   <ShortCircuitDischargedEnergy>All {0} Wd energi i de anslutna batterierna har laddats ur i en elektrisk explosion.</ShortCircuitDischargedEnergy>
   <!-- EN: This large amount of power has created an explosion of considerable size. -->
-  <ShortCircuitWasLarge>Denna  stora mängd ström har skapat en stor explosion.</ShortCircuitWasLarge>
+  <ShortCircuitWasLarge>Denna stora mängd ström har skapat en stor explosion.</ShortCircuitWasLarge>
   <!-- EN: That really is a huge explosion. Wow. -->
   <ShortCircuitWasHuge>Det där är verkligen en stor explosion. Wow.</ShortCircuitWasHuge>
 
@@ -88,7 +88,7 @@
   <LetterLabelManhunterPackArrived>Människojagande flock</LetterLabelManhunterPackArrived>
   <!-- EN: A pack of man-hunting {0} have entered the area. They will roam the region, hunting for humanoid flesh.\n\nThey won't attack doors unless they see someone go through the door. Hide inside and you'll be safe. They also won't attack turrets that are powered down, so turn your turrets off to save them.\n\nThe {0} will leave the area in one or two days. You can hide and wait them out, or fight them. -->
   <ManhunterPackArrived>En flock människojagande {0} har siktas i området. De kommer att stanna i området och jaga människor.\n\nDe kommer inte attackera dörrar, om inte någon går igenom den. Om ni gömmer er innomhus är ni säkra. De kommer inte heller att attackera inaktiva kanontorn, så se till att stäng av dessa för att spara dem.\n\n{0} kommer att lämna området om några dagar. Du kan gömma dig och vänta ut dem, eller fightas.</ManhunterPackArrived>
-  
+
   <!-- Crashed ship part-->
   <!-- EN: The ancient structure has emitted a psychic pulse that has driven nearby animals mad. -->
   <MessageAnimalInsanityPulse>Den antika strukturen har avgett en psykisk puls som har drivit djur i närheten till galenskap.</MessageAnimalInsanityPulse>
@@ -102,7 +102,7 @@
   <LetterLabelPsychicDroneLevelIncreased>Drönarens nivå ökar</LetterLabelPsychicDroneLevelIncreased>
   <!-- EN: The crashed ship part is now emanating a more powerful kind of psychic drone. Every humanlike in the area now feels more disturbed, terrified, and paranoid. -->
   <LetterPsychicDroneLevelIncreased>Den krashade skeppsdelen skickar nu ut en kraftigare sorts psykisk puls. Alla mänskliga varelser i närheten känner sig nu mer störda, skrämda och paranoida.</LetterPsychicDroneLevelIncreased>
-  
+
   <!-- Agent revealed -->
   <!-- EN: Agent -->
   <LetterLabelAgentRevealed>Agent</LetterLabelAgentRevealed>
@@ -125,7 +125,7 @@
   <LetterLabelBeaversArrived>Bävrar!</LetterLabelBeaversArrived>
   <!-- EN: A group of hungry alphabeavers has just arrived.\n\nTry to eliminate them before they decimate every last source of wood in the region. -->
   <BeaversArrived>En grupp hungriga alfabävrar har precis anlänt.\n\nFörsök eliminra dem innan dom äter upp varje spår av trä i regionen.</BeaversArrived>
-  
+
   <!-- Refugee chased -->
   <!-- EN: Refugee chased at {0} -->
   <RefugeeChasedTitle>Flykting jagad av {0}</RefugeeChasedTitle>
@@ -153,29 +153,29 @@
   <LetterLabelFarmAnimalsWanderIn>{0} ansluter</LetterLabelFarmAnimalsWanderIn>
   <!-- EN: A group of {0}, abandoned or lost, have wandered into the area.\n\nThey seem accustomed to human contact and are joining the colony. -->
   <LetterFarmAnimalsWanderIn>En grupp {0}, övergivna eller vilse, har vandrat in i området.\n\nDe verkar vana vid mänsklig kontakt och ansluter sig till kolonin.</LetterFarmAnimalsWanderIn>
-  
+
   <!-- Thrumbo passes -->
   <!-- EN: Rare thrumbos -->
   <LetterLabelThrumboPasses>Sällsynta thrumbos</LetterLabelThrumboPasses>
   <!-- EN: A small herd of thrumbos have wandered into the area.\n\nPeaceful by nature, these rare creatures are extremely dangerous when confronted. Some traders are willing to pay a lot of money for their precious leather and horn.\n\nThrumbos will leave the area in a few days. -->
   <LetterThrumboPasses>En mindre flock Thrumbos har vandrat in i området.\n\nTrots att de är fredfulla djur kan dessa väldigt ovanliga djur vara extremt farliga om de konfronteras. Vissa handlare är villiga att betala mycket pengar för deras dyrbara horn och päls.\n\Trumbona kommer lämna området inom några dagar.</LetterThrumboPasses>
-  
+
   <!-- Trader caravan -->
   <!-- EN: {1} from {0} -->
   <LetterLabelTraderCaravanArrival>{1} från {0}</LetterLabelTraderCaravanArrival>
   <!-- EN: A caravan from {0} is approaching. They are a {1}.\n\nThey will hang around the colony for a few days before leaving. You can attack them - but this will anger their faction! -->
   <LetterTraderCaravanArrival>En karavan från {0} närmar sig.\n\nDe är en {1} och kommer att röra sig runt kolonin nåra dagar innan dom beger sig vidare. Du kan attackera dem - med detta kommer förarga deras fraktion!</LetterTraderCaravanArrival>
-  
+
   <!-- Ransom demand -->
   <!-- EN: Ransom demand at {0} -->
   <RansomDemandTitle>Lösensumma begärd {0}</RansomDemandTitle>
   <!-- EN: {1} contacts you on radio. They are holding former colonist {PAWN_labelShort} for ransom.\n\nThey're willing to release {PAWN_objective} back to you in exchange for {2} silver. -->
-  <RansomDemand>{1} kontaktar er via radio. De håller en föredetta kolonist {PAWN_labelShort} gisslan.\n\nDe är villiga att frige {PAWN_objective}  i utbyte mot {2} silver.</RansomDemand>
+  <RansomDemand>{1} kontaktar er via radio. De håller en föredetta kolonist {PAWN_labelShort} gisslan.\n\nDe är villiga att frige {PAWN_objective} i utbyte mot {2} silver.</RansomDemand>
   <!-- EN: Accept -->
   <RansomDemand_Accept>Acceptera</RansomDemand_Accept>
   <!-- EN: Reject -->
   <RansomDemand_Reject>Avvisa</RansomDemand_Reject>
-  
+
   <!-- Journey-related -->
   <!-- EN: A friendly AI from your past named Charlon Whitestone has sent you a message!\n\nHe reveals that he has a starship hidden on this planet, and sends you its world coordinates.\n\nThe starship is currently in deep hibernation mode. You'll have to start it up when you arrive, then defend it from raiders trying to steal it until the startup sequence completes.\n\nIf you can get the ship off the ground, Charlon will take you off this rimworld, to the stars. -->
   <JourneyOffer>En vänlig AI från ditt förflutna som heter Charlon Whitestone har skickat ett meddelande!\n\nHan avslöjar att han har ett rymdskepp gömt på den här planeten och skickar dess koordinater.\n\nSkeppet är i nuläget i ett djupt viloläge. Du kommer behöva starta det när du kommer fram och sedan försvara det från banditer som försöker att stjäla det fram tills dess att startsekvensen är färdig.\n\n Om du får skeppet från marken kommer Charlon ta dig utanför denna rimworld, till stjärnorna.</JourneyOffer>
@@ -201,12 +201,12 @@
   <CaravanMeeting_MoveOn>Gå vidare</CaravanMeeting_MoveOn>
   <!-- EN: no caravan members capable of trading -->
   <CaravanMeeting_TradeIncapable>Inga karavanmedlemmar kan förhandla</CaravanMeeting_TradeIncapable>
-  
+
   <!-- Caravan request -->
   <!-- EN: Caravan request -->
   <LetterLabelCaravanRequest>Karavanförfrågan</LetterLabelCaravanRequest>
   <!-- EN: A nearby settlement, {0}, contacts you with a special trade request. They would like to purchase:\n\n  {1} (worth {2})\n\nIn return, they offer:\n\n  {3} (worth {4})\n\nThis request expires after: {5}\n\nIf you want to make the trade, send a caravan with the requested supplies. The estimated travel time is {6}. You can review this offer by selecting {0} on the world map. -->
-  <LetterCaravanRequest>En bosättning i närheten, {0}, kontaktar dig gällande en handelsförfrågan. De skulle vilja köpa :\n\n  {1} (värt {2})\n\nI utbyte erbjuder de:\n\n  {3} (värt{4})\n\nDen här förfrågan förfaller om: {5}\n\nOm du vill utöra hadeln, skicka en karavan med de önskade varorna. Den förväntade restiden är {6}. Du kan granska det här erbjudandet genom att välja {0} på världskartan.</LetterCaravanRequest>
+  <LetterCaravanRequest>En bosättning i närheten, {0}, kontaktar dig gällande en handelsförfrågan. De skulle vilja köpa :\n\n {1} (värt {2})\n\nI utbyte erbjuder de:\n\n {3} (värt{4})\n\nDen här förfrågan förfaller om: {5}\n\nOm du vill utöra hadeln, skicka en karavan med de önskade varorna. Den förväntade restiden är {6}. Du kan granska det här erbjudandet genom att välja {0} på världskartan.</LetterCaravanRequest>
   <!-- EN: Requesting: {0} ({3}), Reward: {1} ({4}) ({2} left) -->
   <CaravanRequestInfo>Förfrågan: {0} ({3}), Belöning: {1} ({4}) ({2} kvar)</CaravanRequestInfo>
   <!-- EN: normal quality or better -->

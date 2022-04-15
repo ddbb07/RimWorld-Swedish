@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: elephant -->
   <Elephant.label>elefant</Elephant.label>
   <Elephant.labelFemale>elefanthona</Elephant.labelFemale>
@@ -27,7 +27,7 @@
   <Elephant.lifeStages.2.labelMale>elefant</Elephant.lifeStages.2.labelMale>
   <Elephant.lifeStages.2.labelMalePlural>elefanter</Elephant.lifeStages.2.labelMalePlural>
   <Elephant.lifeStages.2.labelPlural>elefanter</Elephant.lifeStages.2.labelPlural>
-  
+
   <!-- EN: megasloth -->
   <Megasloth.label>jättesengångare</Megasloth.label>
   <Megasloth.labelFemale>jättesengångare</Megasloth.labelFemale>
@@ -53,7 +53,7 @@
   <Megasloth.lifeStages.2.labelMale>jättesengångare</Megasloth.lifeStages.2.labelMale>
   <Megasloth.lifeStages.2.labelMalePlural>jättesengångare</Megasloth.lifeStages.2.labelMalePlural>
   <Megasloth.lifeStages.2.labelPlural>jättesengångare</Megasloth.lifeStages.2.labelPlural>
-  
+
   <!-- EN: rhinoceros -->
   <Rhinoceros.label>noshörning</Rhinoceros.label>
   <Rhinoceros.labelFemale>noshörning</Rhinoceros.labelFemale>
@@ -80,7 +80,7 @@
   <Rhinoceros.lifeStages.2.labelMale>noshörning</Rhinoceros.lifeStages.2.labelMale>
   <Rhinoceros.lifeStages.2.labelMalePlural>noshörningar</Rhinoceros.lifeStages.2.labelMalePlural>
   <Rhinoceros.lifeStages.2.labelPlural>noshörningar</Rhinoceros.lifeStages.2.labelPlural>
-  
+
   <!-- EN: thrumbo -->
   <Thrumbo.label>thrumbo</Thrumbo.label>
   <Thrumbo.labelFemale>thrumbo</Thrumbo.labelFemale>
@@ -108,5 +108,5 @@
   <Thrumbo.lifeStages.2.labelMale>thrumbo</Thrumbo.lifeStages.2.labelMale>
   <Thrumbo.lifeStages.2.labelMalePlural>thrumbos</Thrumbo.lifeStages.2.labelMalePlural>
   <Thrumbo.lifeStages.2.labelPlural>thrumbos</Thrumbo.lifeStages.2.labelPlural>
-  
+
 </LanguageData>

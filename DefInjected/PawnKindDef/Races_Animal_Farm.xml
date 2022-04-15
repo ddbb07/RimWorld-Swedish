@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: alpaca -->
   <Alpaca.label>alpacka</Alpaca.label>
   <Alpaca.labelFemale>alpacka</Alpaca.labelFemale>
@@ -26,7 +26,7 @@
   <Alpaca.lifeStages.2.labelMale>alpacka</Alpaca.lifeStages.2.labelMale>
   <Alpaca.lifeStages.2.labelMalePlural>alpacka</Alpaca.lifeStages.2.labelMalePlural>
   <Alpaca.lifeStages.2.labelPlural>alpackor</Alpaca.lifeStages.2.labelPlural>
-  
+
   <!-- EN: chicken -->
   <Chicken.label>höns</Chicken.label>
   <!-- EN: hen -->
@@ -56,7 +56,7 @@
   <Chicken.lifeStages.2.labelMale>tupp</Chicken.lifeStages.2.labelMale>
   <Chicken.lifeStages.2.labelMalePlural>tuppar</Chicken.lifeStages.2.labelMalePlural>
   <Chicken.lifeStages.2.labelPlural>höns</Chicken.lifeStages.2.labelPlural>
-  
+
   <!-- EN: cow -->
   <Cow.label>ko</Cow.label>
   <!-- EN: cow -->
@@ -86,7 +86,7 @@
   <Cow.lifeStages.2.labelMale>tjur</Cow.lifeStages.2.labelMale>
   <Cow.lifeStages.2.labelMalePlural>tjurar</Cow.lifeStages.2.labelMalePlural>
   <Cow.lifeStages.2.labelPlural>kor</Cow.lifeStages.2.labelPlural>
-  
+
   <!-- EN: pig -->
   <Pig.label>gris</Pig.label>
   <!-- EN: sow -->
@@ -114,5 +114,5 @@
   <Pig.lifeStages.2.labelMale>galt</Pig.lifeStages.2.labelMale>
   <Pig.lifeStages.2.labelMalePlural>galtar</Pig.lifeStages.2.labelMalePlural>
   <Pig.lifeStages.2.labelPlural>grisar</Pig.lifeStages.2.labelPlural>
-  
+
 </LanguageData>

@@ -1,31 +1,31 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: bridgeable -->
   <Bridgeable.label>brobygge möjligt</Bridgeable.label>
-  
+
   <!-- EN: diggable -->
   <Diggable.label>brytbar</Diggable.label>
-  
+
   <!-- EN: growable -->
   <GrowSoil.label>odlingsbar</GrowSoil.label>
-  
+
   <!-- EN: heavy -->
   <Heavy.label>tung</Heavy.label>
-  
+
   <!-- EN: light -->
   <Light.label>lätt</Light.label>
-  
+
   <!-- EN: medium -->
   <Medium.label>medium</Medium.label>
-  
+
   <!-- EN: moving water -->
   <MovingFluid.label>vatten i rörelse</MovingFluid.label>
-  
+
   <!-- EN: shallow water -->
   <ShallowWater.label>grunt vatten</ShallowWater.label>
-  
+
   <!-- EN: smoothable -->
   <SmoothableStone.label>utjämningsbar</SmoothableStone.label>
-  
+
 </LanguageData>

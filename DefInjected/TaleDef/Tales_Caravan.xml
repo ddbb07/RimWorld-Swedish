@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: caravan ambush defeated -->
   <CaravanAmbushDefeated.label>TODO</CaravanAmbushDefeated.label>
   <!-- EN:
@@ -28,7 +28,7 @@
     <li>desc_sentence->[Quantity_adjphrase] [Animal]s flee the area.</li>
   -->
   <CaravanAmbushDefeated.rulePack.rulesStrings>TODO</CaravanAmbushDefeated.rulePack.rulesStrings>
-  
+
   <!-- EN: caravan assault successful -->
   <CaravanAssaultSuccessful.label>TODO</CaravanAssaultSuccessful.label>
   <!-- EN:
@@ -51,7 +51,7 @@
     <li>desc_sentence->[Quantity_adjphrase] [Animal]s flee the area.</li>
   -->
   <CaravanAssaultSuccessful.rulePack.rulesStrings>TODO</CaravanAssaultSuccessful.rulePack.rulesStrings>
-  
+
   <!-- EN: caravan fled -->
   <CaravanFled.label>TODO</CaravanFled.label>
   <!-- EN:
@@ -77,7 +77,7 @@
     <li>desc_sentence->[PAWN_nameDef] is gasping for breath.</li>
   -->
   <CaravanFled.rulePack.rulesStrings>TODO</CaravanFled.rulePack.rulesStrings>
-  
+
   <!-- EN: caravan formed -->
   <CaravanFormed.label>TODO</CaravanFormed.label>
   <!-- EN:
@@ -100,7 +100,7 @@
     <li>desc_sentence->[Quantity_adjphrase] [Animal]s wander peacefully.</li>
   -->
   <CaravanFormed.rulePack.rulesStrings>TODO</CaravanFormed.rulePack.rulesStrings>
-  
+
   <!-- EN: caravan remote mining -->
   <CaravanRemoteMining.label>TODO</CaravanRemoteMining.label>
   <!-- EN:
@@ -123,5 +123,5 @@
     <li>desc_sentence->[PAWN_nameDef] is sweaty and dirty from work.</li>
   -->
   <CaravanRemoteMining.rulePack.rulesStrings>TODO</CaravanRemoteMining.rulePack.rulesStrings>
-  
+
 </LanguageData>

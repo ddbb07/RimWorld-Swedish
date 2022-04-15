@@ -18,9 +18,9 @@
   <BreakRiskExtremeDesc>Dessa kolonister är mycket stressade och kan få ett extremt (och möjligen våldsamt) nervsammanbrott när som helst:\n\n{0}</BreakRiskExtremeDesc>
   <!-- EN: Check these colonists' Needs tab to see what's bothering them.\n\nTo make colonists feel better, you can do things like make them fancy meals, give them more recreation hours per day and nicer recreation objects, place them in beautiful environments, have them drink and smoke, and much more. -->
   <BreakRiskDescEnding>Se efter vad som stör dessa kolonister i deras Behovsflik för att se vad som besvärar dom.\n\nFör att förbättra deras humör kan du erbjuda saker som fina måltider, mer tid för fritidsaktivitet per dag tillsammans med finare föremål för aktivitet och placera dem i fina miljöer. Låt de dricka och röka m.m.</BreakRiskDescEnding>
-  
+
   <!-- EN: Colonist needs rescue -->
-  <ColonistNeedsRescue> En kolonist behöver räddas</ColonistNeedsRescue>
+  <ColonistNeedsRescue>En kolonist behöver räddas</ColonistNeedsRescue>
   <!-- EN: Colonists need rescue -->
   <ColonistsNeedRescue>Flera kolonister behöver räddas</ColonistsNeedRescue>
   <!-- EN: These colonists are incapacitated on the ground:\n\n{0}\nSend another colonist to rescue them and carry them back to bed.\n\n(To rescue, select another colonist, then right click on the victim and select Rescue. -->
@@ -34,7 +34,7 @@
   <!-- EN: Need doctor -->
   <NeedDoctor>Behov av läkare</NeedDoctor>
   <!-- EN: These colonists need medical care, but you have no healthy colonists assigned as doctors.\n\n{0}\nAssign a healthy colonist to the Doctor work type. If left untreated, wounds may never heal properly and may become permanent. -->
-  <NeedDoctorDesc> Dessa kolonister behöver läkarvård, i nuläget finns inga friska läkare att tillgå.\n\n{0}\nTilldela arbetsuppgiften Läkare till någon av dina friska kolonister. Om skadorna förblir obehandlade kan de inte läka helt, eller bli permanenta.</NeedDoctorDesc>
+  <NeedDoctorDesc>Dessa kolonister behöver läkarvård, i nuläget finns inga friska läkare att tillgå.\n\n{0}\nTilldela arbetsuppgiften Läkare till någon av dina friska kolonister. Om skadorna förblir obehandlade kan de inte läka helt, eller bli permanenta.</NeedDoctorDesc>
 
   <!-- EN: Need miner -->
   <NeedMiner>Behov av gruvarbetare</NeedMiner>
@@ -49,15 +49,15 @@
   <!-- EN: Low food -->
   <LowFood>Förlite mat</LowFood>
   <!-- EN: You are dangerously low on food.\n\n    Full bars worth of food in storage: {0}\n    Colonists and prisoners getting food: {1}\n    Days worth of food in storage: {2}\n\nGrow, buy, find, or kill some food. -->
-  <LowFoodDesc>Du har mycket ont om mat.\n\n    Fulla mätare av mat kvar i ditt förråd: {0}\n   Kolonister och tillfångatagna som får mat: {1}\n    Dagar kvar av mat i förrådet: {2}\n\nOdla, köp, leta eller jaga för att få mat.</LowFoodDesc>
+  <LowFoodDesc>Du har mycket ont om mat.\n\n Fulla mätare av mat kvar i ditt förråd: {0}\n Kolonister och tillfångatagna som får mat: {1}\n Dagar kvar av mat i förrådet: {2}\n\nOdla, köp, leta eller jaga för att få mat.</LowFoodDesc>
 
   <!-- EN: Low medicine -->
   <LowMedicine>Trytande läkemedelsförråd</LowMedicine>
   <!-- EN: You only have {0} medications left in storage.\n\nBuy more medicine from traders. -->
   <LowMedicineDesc>Du har bara {0} läkemedel kvar i förråden.\n\nKöp mer läkemedel från handelsmän.</LowMedicineDesc>
   <!-- EN: You have no medicine left in storage.\n\nBuy more medicine from traders. -->
-  <NoMedicineDesc> Du har inga läkemedel kvar i förråden.\n\nKöp mer läkedel från handelsmän.</NoMedicineDesc>
-  
+  <NoMedicineDesc>Du har inga läkemedel kvar i förråden.\n\nKöp mer läkedel från handelsmän.</NoMedicineDesc>
+
   <!-- EN: Need colonist beds -->
   <NeedColonistBeds>Kolonister behöver sängar</NeedColonistBeds>
   <!-- EN: You have more colonists than you have colonist beds. Someone will lack a place to sleep.\n\nEither make more beds, or change a prisoner bed to a colonist bed.\n\nIf you have no resources, sleeping spots are free and can be placed instantly. -->
@@ -81,7 +81,7 @@
   <!-- EN: Starvation -->
   <Starvation>Svält</Starvation>
   <!-- EN: These colonists are starving:\n\n{0}\nGet them some food. -->
-  <StarvationDesc> Dessa kolonister svälter:\n\n{0}\nSkaffa fram mat åt dem.</StarvationDesc>
+  <StarvationDesc>Dessa kolonister svälter:\n\n{0}\nSkaffa fram mat åt dem.</StarvationDesc>
 
   <!-- EN: Animal starvation -->
   <StarvationAnimals>Djursvält</StarvationAnimals>
@@ -91,10 +91,10 @@
   <!-- EN: Exhaustion -->
   <Exhaustion>Utmattning</Exhaustion>
   <!-- EN: These colonists are exhausted and need rest:\n\n{0}\nGet them some rest. They'll need a bed marked for colonist use. Also, make sure they're not drafted. -->
-  <ExhaustionDesc> Dessa kolonister är utmattade och behöver vila:\n\n{0}\nLåt dem vila. Se till att det finns en säng tilldelad till varje kolonist. Se också till att de inte är kommenderade.</ExhaustionDesc>
+  <ExhaustionDesc>Dessa kolonister är utmattade och behöver vila:\n\n{0}\nLåt dem vila. Se till att det finns en säng tilldelad till varje kolonist. Se också till att de inte är kommenderade.</ExhaustionDesc>
 
   <!-- EN: Need food hopper -->
-  <NeedFoodHopper> Det behövs en matbehållare</NeedFoodHopper>
+  <NeedFoodHopper>Det behövs en matbehållare</NeedFoodHopper>
   <!-- EN: You have a nutrient dispenser with no hopper next to it.\n\nTo work, paste dispensers must draw from an adjacent hopper filled with raw food.\n\nBuild a hopper adjacent to the dispenser. -->
   <NeedFoodHopperDesc>Du har en Näringsautomat som saknar matbehållare bredvid sig.\n\nFör att fungera måste näringsautomaten ha tillgång till en matbehållare fylld med råa livsmedel.\n\nBygg en matbehållare jbredvid näringsautomaten.</NeedFoodHopperDesc>
 
@@ -104,7 +104,7 @@
   <NeedMealSourceDesc>Du saknar möjlighet att laga riktiga måltider från råa livsmedel.\n\nBygg en spis, lägereld, eller en näringsautomat.\n\n(De får inte vara i en fängelsecell, annars kan inte kolonisterna använda den.)</NeedMealSourceDesc>
 
   <!-- EN: Need recreation variety -->
-  <NeedJoySource> En varriation av fritidsaktiviteter behövs</NeedJoySource>
+  <NeedJoySource>En varriation av fritidsaktiviteter behövs</NeedJoySource>
   <!-- EN: There are only {0} different recreation types available in {1}, but at the current expectations level ({2}), colonists need {3} different kinds of recreation to remain satisfied. Provide recreation variety supplying a new, different kind of recreation.\n\n{4}\n\n{5}\n\nNote: You can check the recreation type of any item in its stats page, accessible with the 'i' button. -->
   <NeedJoySourceDesc>Det finns bara {0} olika fritidsaktiviteter tillgängliga i {1}. Vid nuvarande förväntningar ({2}) behöver kolonisterna {3} olika former av aktivitet för att vara tillfreds. Bygg ett nytt fritidsföremål som främjar en annan typ av aktivitet.\n\n{4}\n\n{5}\n\nNotera: Du kan kontrollera reaktivitetstypen på alla föremål på status-sidan, via 'i' knappen.</NeedJoySourceDesc>
   <!-- EN: Available recreation types -->
@@ -122,7 +122,7 @@
   <BoredomDesc>Dessa kolonister har antingen behov av rekreation eller är beordrade till rektreation, men är uttråkad av alla tillgängliga rekreationsformer:\n\n{0}\n\nSkaffa dem lite mer varierade rekreation.\n\nNuvarande tillgängliga rekreationsområden för {PAWN_labelShort}:\n\n{2}</BoredomDesc>
 
   <!-- EN: Need batteries -->
-  <NeedBatteries> Det behövs batterier</NeedBatteries>
+  <NeedBatteries>Det behövs batterier</NeedBatteries>
   <!-- EN: You have a solar or wind generator, but no batteries. This means you'll lose power every time the sun goes down or the wind calms.\n\nBuild a battery or two to guarantee sustained power. -->
   <NeedBatteriesDesc>Du har bara solpaneler, inga batterier. Detta betyder att du kommer att drabbas av strömavbrott varje gång solen går ner.\n\nBygg ett batteri eller två som kan försörja dig över natten.</NeedBatteriesDesc>
 
@@ -140,7 +140,7 @@
   <NeedResearchProject>Behöver forskningsprojekt</NeedResearchProject>
   <!-- EN: You have the equipment to do research but have not selected a project.\n\nOpen the research menu and select a project. -->
   <NeedResearchProjectDesc>Du har utrustning för att kunna forska men inget valt projekt.\n\nÖppna forskningsmenyn och välj ett projekt.</NeedResearchProjectDesc>
-  
+
   <!-- EN: {0} colonists idle -->
   <ColonistsIdle>{0} kolonister är syssolösa</ColonistsIdle>
   <!-- EN: These colonists are wandering idly:\n\n{0}\nYou should probably find them something productive to do. -->
@@ -155,7 +155,7 @@
   <AlertHypothermia>Hypotermi</AlertHypothermia>
   <!-- EN: These colonists are suffering from hypothermia.\n\n{0}\nMake sure their clothing is appropriate for the season and that indoor spaces are properly heated. -->
   <AlertHypothermiaDesc>Dessa kolonister lider av hypotermi.\n\n{0}\nSe till att deras kläder är lämpliga för årstiden och att rummen innomhus är tillräckligt uppvärmda.</AlertHypothermiaDesc>
-  
+
   <!-- EN: {0} patients await medical operation -->
   <PatientsAwaitingMedicalOperation>{0} patienter väntar på opereration</PatientsAwaitingMedicalOperation>
   <!-- EN: These patients await medical operation:\n\n{0}\nMake sure you have all necessary medical tools and a free doctor available. -->
@@ -191,10 +191,10 @@
   <NeedWarmClothesDesc1All>Alla dina kolonister kommer sakna varma kläder när den kalla årstiden börjar.</NeedWarmClothesDesc1All>
   <!-- EN: The outdoor temperature is going to reach {0}.\n\nYou can tailor warm clothes at the tailoring bench, or buy them from traders. -->
   <NeedWarmClothesDesc2>Utomhustemperaturen kommer nå {0}.\n\nDu kan sy varma kläder vid sömnadsbänken, eller köpa det från handelsmän.</NeedWarmClothesDesc2>
-  
+
   <!-- EN: Immobile caravan -->
   <ImmobileCaravan>Orörlig karavan</ImmobileCaravan>
   <!-- EN: One of your caravans is immobile because it carries too much.\n\nYou can make the caravan mobile again by abandoning some items in the ITEMS tab. -->
   <ImmobileCaravanDesc>En av dina karavaner är orörlig eftersom den är överlastad.\n\nDu kan göra karavanen mobil igen genom att överge vissa föremål i fliken Föremål.</ImmobileCaravanDesc>
-  
+
 </LanguageData>

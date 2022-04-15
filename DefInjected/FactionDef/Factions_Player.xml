@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: New Arrivals -->
   <PlayerColony.label>Ny-ländare</PlayerColony.label>
   <!-- EN: A colony of recently-arrived off-worlders. -->
@@ -9,7 +9,7 @@
   <PlayerColony.pawnSingular>kolonist</PlayerColony.pawnSingular>
   <!-- EN: colonists -->
   <PlayerColony.pawnsPlural>kolonister</PlayerColony.pawnsPlural>
-  
+
   <!-- EN: New Tribe -->
   <PlayerTribe.label>Ny folkstam</PlayerTribe.label>
   <!-- EN: A small tribe. -->
@@ -18,5 +18,5 @@
   <PlayerTribe.pawnSingular>stammedlem</PlayerTribe.pawnSingular>
   <!-- EN: tribespeople -->
   <PlayerTribe.pawnsPlural>stammfolk</PlayerTribe.pawnsPlural>
-  
+
 </LanguageData>

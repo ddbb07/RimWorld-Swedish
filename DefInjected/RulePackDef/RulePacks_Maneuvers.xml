@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN:
     <li>damaged_inf->bite</li>
     <li>damaged_inf->chomp</li>
@@ -34,24 +34,24 @@
     <li>destroyed_suffix(recipient_flesh!=Mechanoid)->[to] an unrecognizable mess</li>
   -->
   <Maneuver_Bite.rulePack.rulesStrings>TODO</Maneuver_Bite.rulePack.rulesStrings>
-  
+
   <!-- EN:
     <li>r_logentry->[INITIATOR_definite] tried to kick [TOOL_label] in [RECIPIENT_definite]'s eyes, but [RECIPIENT_definite] dodged out of the way.</li>
     <li>r_logentry->[INITIATOR_definite] tried to kick [TOOL_label] in [RECIPIENT_definite]'s eyes, but [RECIPIENT_definite] blocked it.</li>
   -->
   <Maneuver_KickMaterialInEyes_MeleeDodge.rulePack.rulesStrings>TODO</Maneuver_KickMaterialInEyes_MeleeDodge.rulePack.rulesStrings>
-  
+
   <!-- EN:
     <li>r_logentry->[INITIATOR_definite] kicked [TOOL_label] in [RECIPIENT_definite]'s eyes.</li>
     <li>r_logentry(p=0.2)->[INITIATOR_definite] kicked a spray of [TOOL_label] in [RECIPIENT_definite]'s eyes.</li>
   -->
   <Maneuver_KickMaterialInEyes_MeleeHit.rulePack.rulesStrings>TODO</Maneuver_KickMaterialInEyes_MeleeHit.rulePack.rulesStrings>
-  
+
   <!-- EN:
     <li>r_logentry->[INITIATOR_definite] tried to kick [TOOL_label] in [RECIPIENT_definite]'s eyes, but missed.</li>
   -->
   <Maneuver_KickMaterialInEyes_MeleeMiss.rulePack.rulesStrings>TODO</Maneuver_KickMaterialInEyes_MeleeMiss.rulePack.rulesStrings>
-  
+
   <!-- EN:
     <li>damaged_inf(p=2)->poke</li>
     <li>damaged_inf(p=2)->jab</li>
@@ -88,7 +88,7 @@
     <li>destroyed_suffix->[to] fragments</li>
   -->
   <Maneuver_Poke.rulePack.rulesStrings>TODO</Maneuver_Poke.rulePack.rulesStrings>
-  
+
   <!-- EN:
     <li>woundname->wound</li>
     <li>woundname(p=0.3)->opening</li>
@@ -105,7 +105,7 @@
     <li>destroyed_suffix(recipient_flesh!=Mechanoid)->[to] a pile of gore</li>
   -->
   <Maneuver_Scratch.rulePack.rulesStrings>TODO</Maneuver_Scratch.rulePack.rulesStrings>
-  
+
   <!-- EN:
     <li>damaged_inf(p=4)->scratch</li>
     <li>damaged_inf(deflected!=True)->lacerate</li>
@@ -131,7 +131,7 @@
     <li>destroyed_present->ripping</li>
   -->
   <Maneuver_Scratch_Damage.rulePack.rulesStrings>TODO</Maneuver_Scratch_Damage.rulePack.rulesStrings>
-  
+
   <!-- EN:
     <li>damaged_inf(p=4)->slash</li>
     <li>damaged_inf->cut</li>
@@ -174,7 +174,7 @@
     <li>destroyed_suffix(target_part_destroyed_count==1)->slicing it in twain</li>
   -->
   <Maneuver_Slash.rulePack.rulesStrings>TODO</Maneuver_Slash.rulePack.rulesStrings>
-  
+
   <!-- EN:
     <li>flavortext_consequence(recipient_flesh!=Mechanoid)->leaving an enormous bruise</li>
     <li>flavortext_consequence->leaving the area visibly deformed</li>
@@ -186,7 +186,7 @@
     <li>destroyed_suffix->[to] fragments</li>
   -->
   <Maneuver_Smash.rulePack.rulesStrings>TODO</Maneuver_Smash.rulePack.rulesStrings>
-  
+
   <!-- EN:
     <li>damaged_inf(p=4)->smash</li>
     <li>damaged_inf->bash</li>
@@ -215,7 +215,7 @@
     <li>destroyed_present->breaking</li>
   -->
   <Maneuver_Smash_Damage.rulePack.rulesStrings>TODO</Maneuver_Smash_Damage.rulePack.rulesStrings>
-  
+
   <!-- EN:
     <li>damaged_inf(p=4)->stab</li>
     <li>damaged_inf->jab</li>
@@ -249,5 +249,5 @@
     <li>destroyed_suffix(target_part_destroyed_count==1)->leaving it leaking unrecognizable fluids</li>
   -->
   <Maneuver_Stab.rulePack.rulesStrings>TODO</Maneuver_Stab.rulePack.rulesStrings>
-  
+
 </LanguageData>

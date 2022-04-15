@@ -1,51 +1,51 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: floors -->
   <Floors.label>golv</Floors.label>
   <Floors.description>Golvtyper.</Floors.description>
-  
+
   <!-- EN: furniture -->
   <Furniture.label>möbler</Furniture.label>
   <Furniture.description>Stolar, bord och sängar t.ex.</Furniture.description>
-  
+
   <!-- EN: recreation -->
   <Joy.label>fridtid</Joy.label>
   <Joy.description>Aktiviteter ämnade för nöje och rekreation.</Joy.description>
-  
+
   <!-- EN: misc -->
   <Misc.label>diverse</Misc.label>
-  
+
   <!-- EN: orders -->
   <Orders.label>uppdrag</Orders.label>
   <Orders.description>Beordra specifika uppgifter och handlingar.</Orders.description>
-  
+
   <!-- EN: power -->
   <Power.label>el</Power.label>
   <Power.description>Produktion, överföring och underhåll av elnät.</Power.description>
-  
+
   <!-- EN: production -->
   <Production.label>produktion</Production.label>
   <Production.description>Arbetsplatser och verktyg som används för att producera både råmaterial och föremål.</Production.description>
-  
+
   <!-- EN: security -->
   <Security.label>säkerhet</Security.label>
   <Security.description>Försvar och säkerhet.</Security.description>
-  
+
   <!-- EN: ship -->
   <Ship.label>skepp</Ship.label>
   <Ship.description>Komponenter och delar till ditt rymdskepp.</Ship.description>
-  
+
   <!-- EN: structure -->
   <Structure.label>konstruktion</Structure.label>
   <Structure.description>Konstruktioner som t.ex. väggar, dörrar och broar</Structure.description>
-  
+
   <!-- EN: temperature -->
   <Temperature.label>temperatur</Temperature.label>
   <Temperature.description>Föremål för att hålla temperaturen i schack innomhus.</Temperature.description>
-  
+
   <!-- EN: zone -->
   <Zone.label>områden</Zone.label>
   <Zone.description>Bestäm områden för lagerhållning, odling, kolonister och djur m.m.</Zone.description>
-  
+
 </LanguageData>

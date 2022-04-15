@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: alphabeaver -->
   <Alphabeaver.label>alfabäver</Alphabeaver.label>
   <Alphabeaver.labelFemale>alfabäver</Alphabeaver.labelFemale>
@@ -26,7 +26,7 @@
   <Alphabeaver.lifeStages.2.labelMale>alfabäve</Alphabeaver.lifeStages.2.labelMale>
   <Alphabeaver.lifeStages.2.labelMalePlural>alfabävrar</Alphabeaver.lifeStages.2.labelMalePlural>
   <Alphabeaver.lifeStages.2.labelPlural>alfabävrar</Alphabeaver.lifeStages.2.labelPlural>
-  
+
   <!-- EN: boomrat -->
   <Boomrat.label>eldråtta</Boomrat.label>
   <Boomrat.labelFemale>eldråtta</Boomrat.labelFemale>
@@ -52,7 +52,7 @@
   <Boomrat.lifeStages.2.labelMale>eldråtta</Boomrat.lifeStages.2.labelMale>
   <Boomrat.lifeStages.2.labelMalePlural>eldråttor</Boomrat.lifeStages.2.labelMalePlural>
   <Boomrat.lifeStages.2.labelPlural>eldråttor</Boomrat.lifeStages.2.labelPlural>
-  
+
   <!-- EN: capybara -->
   <Capybara.label>kapybara</Capybara.label>
   <Capybara.labelFemale>kapybara</Capybara.labelFemale>
@@ -78,7 +78,7 @@
   <Capybara.lifeStages.2.labelMale>kapybara</Capybara.lifeStages.2.labelMale>
   <Capybara.lifeStages.2.labelMalePlural>kapybaras</Capybara.lifeStages.2.labelMalePlural>
   <Capybara.lifeStages.2.labelPlural>kapybaras</Capybara.lifeStages.2.labelPlural>
-  
+
   <!-- EN: chinchilla -->
   <Chinchilla.label>chinchilla</Chinchilla.label>
   <Chinchilla.labelFemale>chinchilla</Chinchilla.labelFemale>
@@ -104,7 +104,7 @@
   <Chinchilla.lifeStages.2.labelMale>chinchillor</Chinchilla.lifeStages.2.labelMale>
   <Chinchilla.lifeStages.2.labelMalePlural>chinchillor</Chinchilla.lifeStages.2.labelMalePlural>
   <Chinchilla.lifeStages.2.labelPlural>chinchillor</Chinchilla.lifeStages.2.labelPlural>
-  
+
   <!-- EN: raccoon -->
   <Raccoon.label>tvättbjörn</Raccoon.label>
   <Raccoon.labelFemale>tvättbjörn</Raccoon.labelFemale>
@@ -130,7 +130,7 @@
   <Raccoon.lifeStages.2.labelMale>tvättbjörn</Raccoon.lifeStages.2.labelMale>
   <Raccoon.lifeStages.2.labelMalePlural>tvättbjörnar</Raccoon.lifeStages.2.labelMalePlural>
   <Raccoon.lifeStages.2.labelPlural>tvättbjörnar</Raccoon.lifeStages.2.labelPlural>
-  
+
   <!-- EN: rat -->
   <Rat.label>råtta</Rat.label>
   <Rat.labelFemale>råtta</Rat.labelFemale>
@@ -156,7 +156,7 @@
   <Rat.lifeStages.2.labelMale>råtta</Rat.lifeStages.2.labelMale>
   <Rat.lifeStages.2.labelMalePlural>råttor</Rat.lifeStages.2.labelMalePlural>
   <Rat.lifeStages.2.labelPlural>råttor</Rat.lifeStages.2.labelPlural>
-  
+
   <!-- EN: squirrel -->
   <Squirrel.label>ekorre</Squirrel.label>
   <Squirrel.labelFemale>ekorre</Squirrel.labelFemale>
@@ -182,5 +182,5 @@
   <Squirrel.lifeStages.2.labelMale>ekorre</Squirrel.lifeStages.2.labelMale>
   <Squirrel.lifeStages.2.labelMalePlural>ekorrar</Squirrel.lifeStages.2.labelMalePlural>
   <Squirrel.lifeStages.2.labelPlural>ekorrar</Squirrel.lifeStages.2.labelPlural>
-  
+
 </LanguageData>

@@ -106,7 +106,7 @@
   <WorldChooseButton>Välj</WorldChooseButton>
   <!-- EN: No world files found. Create a world first. -->
   <NoWorldsFilesFound>Ingen världsfil hittad. Skapa en värld först.</NoWorldsFilesFound>
-  
+
   <!-- Version info -->
   <!-- EN: Version {0} is now available. Check ludeon.com for more info. -->
   <BuildNowAvailable>Version {0} finns nu tillgänglig. Kolla ludeon.com för mer information.</BuildNowAvailable>
@@ -164,7 +164,7 @@
   <MessageModNeedsWellFormattedTargetVersion>Modden behöver en välformatterad målversion i About.xml. Liknande denna: {0}.</MessageModNeedsWellFormattedTargetVersion>
   <!-- EN: Drag to reorder -->
   <DragToReorder>Dra för att ändra ordning</DragToReorder>
-  
+
   <!-- Select scenario -->
   <!-- EN: Choose scenario -->
   <ChooseScenario>Välj scenario</ChooseScenario>
@@ -176,7 +176,7 @@
   <ScenarioEditor>Scenarioskaparen</ScenarioEditor>
   <!-- EN: Delete -->
   <Delete>Radera</Delete>
-  
+
   <!-- Scenario editor -->
   <!-- EN: seed -->
   <Seed>frö</Seed>
@@ -193,14 +193,14 @@
   <!-- EN: Are you sure you want to upload this to the Steam Workshop?\n\nYou must agree to the Steam Workshop terms of service. Find the full terms here:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement -->
   <ConfirmSteamWorkshopUpload>Är du säker på att du vill ladda upp detta till Steam Workshop?\n\nDu måste godkänna Steam Workshops användarevillkor. Se villkoren här:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
   <!-- EN: Obviously you should only upload content that you created yourself.\n\nDid you create this content yourself? -->
-  <ConfirmContentAuthor> Självklart ska du enbart ladda upp saker du skapat själv.\n\nSkapade du detta innehåll själv?</ConfirmContentAuthor>
+  <ConfirmContentAuthor>Självklart ska du enbart ladda upp saker du skapat själv.\n\nSkapade du detta innehåll själv?</ConfirmContentAuthor>
   <!-- EN: Incompatible -->
   <Incompatible>Inkompatibelt</Incompatible>
   <!-- EN: Too many (max {0}):  -->
-  <TooMany>För många (max {0}): </TooMany>
+  <TooMany>För många (max {0}):</TooMany>
   <!-- EN: Can be updated on Workshop, since you are the author. -->
   <CanBeUpdatedOnWorkshop>Kan bli uppdaterat i Workshop, eftersom du är ägaren.</CanBeUpdatedOnWorkshop>
-  
+
   <!-- Select storyteller -->
   <!-- EN: Choose AI Storyteller -->
   <ChooseAIStoryteller>Välj AI berättare</ChooseAIStoryteller>
@@ -309,7 +309,7 @@
   <!-- EN: Backstory -->
   <Backstory>Bakgrundshistoria</Backstory>
   <!-- EN: Incapable of -->
-  <IncapableOf>Inkapabel till </IncapableOf>
+  <IncapableOf>Inkapabel till</IncapableOf>
   <!-- EN: Traits -->
   <Traits>Persondrag</Traits>
   <!-- EN: Permanent mood effect -->
@@ -344,7 +344,7 @@
   <StartingPawnsSelected>Vald</StartingPawnsSelected>
   <!-- EN: Left behind -->
   <StartingPawnsLeftBehind>Lämnad kvar</StartingPawnsLeftBehind>
-  
+
   <!-- Misc -->
   <!-- EN: Start -->
   <Start>Börja</Start>
@@ -366,7 +366,7 @@
   <Quit>Avsluta</Quit>
   <!-- EN: Ignore -->
   <Ignore>Ignorera</Ignore>
-  
+
   <!-- Progress bar -->
   <!-- EN: Generating world -->
   <GeneratingWorld>Genererar värld</GeneratingWorld>

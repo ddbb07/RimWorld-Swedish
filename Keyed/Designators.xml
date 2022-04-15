@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: Cancel -->
   <DesignatorCancel>Arbryt</DesignatorCancel>
   <!-- EN: Cancel designated building, mining, hauling, harvesting, and all other designations. -->
@@ -135,7 +135,7 @@
 
   <!-- EN: Expand zone -->
   <DesignatorZoneExpand>Expandera zoner</DesignatorZoneExpand>
-  
+
   <!-- EN: Claim -->
   <DesignatorClaim>Annektera</DesignatorClaim>
   <!-- EN: Claim neutral structures for the colony, including ancient ruins and abandoned siege bases. Claimed structures can be repaired and maintained by your colonists. -->
@@ -160,7 +160,7 @@
   <DesignatorOpen>Öppna</DesignatorOpen>
   <!-- EN: Open containers. -->
   <DesignatorOpenDesc>Öppna behållare.</DesignatorOpenDesc>
-  
+
   <!-- EN: Slaughter -->
   <DesignatorSlaughter>Slakta</DesignatorSlaughter>
   <!-- EN: Slaughter a tame animal. -->
@@ -208,13 +208,13 @@
   <TerrainMustBeRemovable>Markera ett golv som går att ta bort.</TerrainMustBeRemovable>
   <!-- EN: The waterwheel must be on moving water. -->
   <MustBeOnMovingWater>Vattenhjulet måste placeras i strömmande.</MustBeOnMovingWater>
-  
+
   <!-- Mouse attachments -->
   <!-- EN: Expand {0} or\nCreate new {1} -->
   <ExpandOrCreateZone>Expandera {0} eller\nSkapa ny {1}</ExpandOrCreateZone>
   <!-- EN: Create new {0} -->
   <CreateNewZone>Skapa ny {0}</CreateNewZone>
-  
+
   <!-- Desc helpers -->
   <!-- EN: Transmits power -->
   <TransmitsPower>Förmedlar ström</TransmitsPower>

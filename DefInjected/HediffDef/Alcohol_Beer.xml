@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: alcohol addiction -->
   <AlcoholAddiction.label>alkoholberoende</AlcoholAddiction.label>
   <!-- EN: withdrawal -->
   <AlcoholAddiction.stages.withdrawal.label>abstinens</AlcoholAddiction.stages.withdrawal.label>
-  
+
   <!-- EN: alcohol -->
   <AlcoholHigh.label>alkohol</AlcoholHigh.label>
   <!-- EN: drunkenness -->
@@ -20,18 +20,16 @@
   <AlcoholHigh.stages.hammered.label>berusad</AlcoholHigh.stages.hammered.label>
   <!-- EN: blackout -->
   <AlcoholHigh.stages.blackout.label>medvetslös</AlcoholHigh.stages.blackout.label>
-  
+
   <!-- EN: alcohol tolerance -->
   <AlcoholTolerance.label>alkoholtolerans</AlcoholTolerance.label>
   <!-- EN: small -->
-  <AlcoholTolerance.stages.small-0.label>liten</AlcoholTolerance.stages.small-0.label>
-  <!-- EN: small -->
-  <AlcoholTolerance.stages.small-1.label>liten</AlcoholTolerance.stages.small-1.label>
+  <AlcoholTolerance.stages.small.label>liten</AlcoholTolerance.stages.small.label>
   <!-- EN: large -->
   <AlcoholTolerance.stages.large.label>stor</AlcoholTolerance.stages.large.label>
   <!-- EN: massive -->
   <AlcoholTolerance.stages.massive.label>enorm</AlcoholTolerance.stages.massive.label>
-  
+
   <!-- EN: hangover -->
   <Hangover.label>bakfull</Hangover.label>
   <!-- EN: a hangover -->
@@ -42,5 +40,5 @@
   <Hangover.stages.strong.label>kraftig</Hangover.stages.strong.label>
   <!-- EN: pounding -->
   <Hangover.stages.pounding.label>bultande</Hangover.stages.pounding.label>
-  
+
 </LanguageData>

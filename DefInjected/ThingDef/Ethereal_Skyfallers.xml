@@ -1,19 +1,19 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: crashed ship part (incoming) -->
   <CrashedShipPartIncoming.label>kraschad skeppsdel (inkommande)</CrashedShipPartIncoming.label>
-  
+
   <!-- EN: drop pod (incoming) -->
   <DropPodIncoming.label>transportkapsel (inkommande)</DropPodIncoming.label>
-  
+
   <!-- EN: drop pod (leaving) -->
   <DropPodLeaving.label>transportkapsel (lämnar)</DropPodLeaving.label>
-  
+
   <!-- EN: meteorite (incoming) -->
   <MeteoriteIncoming.label>meteorit (inkommande)</MeteoriteIncoming.label>
-  
+
   <!-- EN: ship chunk (incoming) -->
   <ShipChunkIncoming.label>skeppsbit (inkommande)</ShipChunkIncoming.label>
-  
+
 </LanguageData>

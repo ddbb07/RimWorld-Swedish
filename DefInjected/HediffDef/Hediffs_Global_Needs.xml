@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: malnutrition -->
   <Malnutrition.label>undernäring</Malnutrition.label>
   <!-- EN: trivial -->
@@ -13,5 +13,5 @@
   <Malnutrition.stages.severe.label>allvarlig</Malnutrition.stages.severe.label>
   <!-- EN: extreme -->
   <Malnutrition.stages.extreme.label>livshotande</Malnutrition.stages.extreme.label>
-  
+
 </LanguageData>

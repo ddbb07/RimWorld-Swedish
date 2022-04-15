@@ -22,7 +22,7 @@
   <EmergencyWorkMarker>E</EmergencyWorkMarker>
   <!-- EN: Warning: The average of relevant skills is very low. -->
   <SelectedWorkTypeWithVeryBadSkill>Varning: Medelvärdet av relevanta färdigheter är väldigt lågt.</SelectedWorkTypeWithVeryBadSkill>
-  
+
   <!-- Assign tab -->
   <!-- EN: Manage outfits -->
   <ManageOutfits>Hantera utstyrsel</ManageOutfits>
@@ -36,7 +36,7 @@
   <AssignTabEdit>Redigera...</AssignTabEdit>
   <!-- EN: Manage drug policies -->
   <ManageDrugPolicies>Hantera drogpolicy</ManageDrugPolicies>
-  
+
   <!-- Restrictions tab -->
   <!-- EN: Copy -->
   <Copy>Kopiera</Copy>
@@ -44,7 +44,7 @@
   <Paste>Klistra</Paste>
   <!-- EN: Allowed area -->
   <AllowedArea>Tillåtet område</AllowedArea>
-  
+
   <!-- Animals tab -->
   <!-- EN: Master -->
   <Master>Ägare</Master>
@@ -52,11 +52,11 @@
   <PregnantIconDesc>Gravid ({0} / {1})</PregnantIconDesc>
   <!-- EN: Bonded to -->
   <BondedTo>Är kärt till</BondedTo>
-  
+
   <!-- Wildlife tab -->
   <!-- EN: This creature is a predator. When hungry, it will hunt smaller creatures - possibly including people. -->
   <IsPredator>Denna varelse är en rovdjur. När det är hungrigt kommer den att jaga mindre varelser - eventuellt även människor.</IsPredator>
-  
+
   <!-- Factions tab -->
   <!-- EN: Hostile -->
   <Hostile>Fientlig</Hostile>
@@ -78,7 +78,7 @@
   <CurrentGoodwillTip_Hostile>Denna grupp är fientlig. De kommer ibland attackera dina bosättningar och karavaner. Om relationerna stiger över {0} blir de neutrala.</CurrentGoodwillTip_Hostile>
   <!-- EN: This faction has a natural goodwill range from {0} to {1}. If goodwill is over {1}, it will fall by {3} per day. If goodwill is under {0}, it will rise by {2} per day. -->
   <CurrentGoodwillTip_NaturalGoodwill>Denna grupp har ett neutralt välviljeintervall från {0} till {1}. Om era relationer är över {1} kommer den att falla med {3} varje dag. Om era relationer är under {0}, kommer den att stiga med {2} per dag.</CurrentGoodwillTip_NaturalGoodwill>
-  
+
   <!-- Social tab -->
   <!-- EN: Friend -->
   <Friend>Vän</Friend>
@@ -86,7 +86,7 @@
   <Rival>Rival</Rival>
   <!-- EN: Acquaintance -->
   <Acquaintance>Bekant</Acquaintance>
-  
+
   <!-- History tab - subtabs -->
   <!-- EN: Graph -->
   <Graph>Graf</Graph>
@@ -94,7 +94,7 @@
   <Messages>Meddelanden</Messages>
   <!-- EN: Statistics -->
   <Statistics>Statistik</Statistics>
-  
+
   <!-- History tab - Graphs -->
   <!-- EN: Select graph -->
   <SelectGraph>Välj graf</SelectGraph>

@@ -160,7 +160,7 @@
   <SelfTend>Självbehandla</SelfTend>
   <!-- EN: {0} with self-tend enabled will automatically tend to themselves on the spot at {1} the normal efficiency. -->
   <SelfTendTip>{0} med självbehandla aktiverat kommer automatiskt ta hand om sina egna sår med {1} av normal effektivitet.</SelfTendTip>
-  
+
   <!-- Medical - Body and activities condition -->
   <!-- EN: None -->
   <None>Ingen</None>
@@ -201,7 +201,7 @@
 
   <!-- EN: Prerequisite needed: {0} -->
   <TrainingNeedsPrerequisite>Förutsättning behövs: {0}</TrainingNeedsPrerequisite>
-  
+
   <!-- Social tab -->
   <!-- EN: (no relationships) -->
   <NoRelationships>(ingen relation)</NoRelationships>
@@ -221,7 +221,7 @@
   <IAmDead>Jag är död</IAmDead>
   <!-- EN: I'm a psychopath -->
   <IAmPsychopath>Jag är en psykopat</IAmPsychopath>
-  
+
   <!-- Gear tab -->
   <!-- EN: Overall armor -->
   <OverallArmor>Total rustning</OverallArmor>
@@ -235,7 +235,7 @@
   <ArmorSharp>Vass</ArmorSharp>
   <!-- EN: Heat -->
   <ArmorHeat>Hetta</ArmorHeat>
-  
+
   <!-- Log tab -->
   <!-- EN: Show all -->
   <ShowAll>Visa allt</ShowAll>

@@ -1,16 +1,16 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: Frakta -->
   <Trainable_Haul.headerTip>Frakta</Trainable_Haul.headerTip>
-  
+
   <!-- EN: Lydnad -->
   <Trainable_Obedience.headerTip>Lydnad</Trainable_Obedience.headerTip>
-  
+
   <!-- EN: Släpp loss -->
   <Trainable_Release.headerTip>Släppa lös</Trainable_Release.headerTip>
-  
+
   <!-- EN: Rädda -->
   <Trainable_Rescue.headerTip>Rädda</Trainable_Rescue.headerTip>
-  
+
 </LanguageData>

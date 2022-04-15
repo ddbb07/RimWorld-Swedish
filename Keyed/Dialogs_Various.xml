@@ -9,7 +9,7 @@
   <OK>OK</OK>
   <!-- EN: Close -->
   <Close>Stäng</Close>
-  
+
   <!-- Game updated to new version -->
   <!-- EN: RimWorld has been updated from version {0} to version {1}. -->
   <GameUpdatedToNewVersionInitial>RimWorld har uppdaterats från version {0} till version {1}.</GameUpdatedToNewVersionInitial>
@@ -20,14 +20,14 @@
   <!-- EN: Since this is a DRM-free copy, you can install the game twice in two different folders, to be able to play both old and new versions. -->
   <GameUpdatedToNewVersionNonSteam>Eftersom detta är en DRM-fri kopia, så kan du installera spelet två gånger i olika mappar för att kunna spela både den gamla och den nya versionen samtidigt.</GameUpdatedToNewVersionNonSteam>
   <!-- EN: If you wish to continue with the old version, you can opt in using Steam's "Betas" feature.\n\n  1. In the Steam library, right-click RimWorld.\n  2. Click Properties.\n  3. Click the Betas tab.\n  4. Select the version you want from the drop-down menu.\n\nOld versions will be likely removed from this list eventually - we just didn't want to cut off games in progress.\n\nNote that if mod authors update their mods for a new game version, they'll probably stop working on an old version. You may want to turn off automatic updates to prevent this. -->
-  <GameUpdatedToNewVersionSteam>Om du vill fortsätta att använda den gamla versionen så kan du välja Steam's "Beta"-funktion.\n\n  1. I Steambiblioteket, högerklicka på RimWorld.\n  2. Välj Egenskaper.\n  3. Klicka på Betaversioner-fliken.\n  4. Välj den version du vill använda från listan.\n\nGamla versioner kommer antagligen tas bort från listan till slut - vi ville bara inte hindra dig från att spela klart spel du redan påbörjat.\n\nNotera att om en modskapare uppdaterar sin mod till en ny spelversion, så kommer de antaglien sluta fungera på en äldre version. Du vill eventuellt stänga av automatiska uppdateringar för att förhindra detta.</GameUpdatedToNewVersionSteam>
-  
+  <GameUpdatedToNewVersionSteam>Om du vill fortsätta att använda den gamla versionen så kan du välja Steam's "Beta"-funktion.\n\n 1. I Steambiblioteket, högerklicka på RimWorld.\n 2. Välj Egenskaper.\n 3. Klicka på Betaversioner-fliken.\n 4. Välj den version du vill använda från listan.\n\nGamla versioner kommer antagligen tas bort från listan till slut - vi ville bara inte hindra dig från att spela klart spel du redan påbörjat.\n\nNotera att om en modskapare uppdaterar sin mod till en ny spelversion, så kommer de antaglien sluta fungera på en äldre version. Du vill eventuellt stänga av automatiska uppdateringar för att förhindra detta.</GameUpdatedToNewVersionSteam>
+
   <!-- Recovered from errors caused by mods -->
   <!-- EN: Recovered from incompatible or corrupted mods errors -->
   <RecoveredFromErrorsDialogTitle>Åtherhämtning från fel i inkompatibla eller korrupta moddar</RecoveredFromErrorsDialogTitle>
   <!-- EN: It seems that some of the active mods were causing errors.\n\nThey were incompatible with each other, designed for a different version of RimWorld, or corrupted.\n\nAll mods have been disabled and can be activated again in the mods dialog. -->
   <RecoveredFromErrorsText>Det verkar som några av de aktiva moddarna orsakade fel.\n\nDe kan ha varit inkompatibla med varandra, skapade för olika versioner av RimWorld, eller korrupta.\n\nAlla moddar har blivit tillfälligt deaktiverade och kan aktiveras igen via menyn.</RecoveredFromErrorsText>
-  
+
   <!-- Errors during loading -->
   <!-- EN: Error while loading assets -->
   <ErrorWhileLoadingAssetsTitle>Fel när tillgångar laddades</ErrorWhileLoadingAssetsTitle>
@@ -43,7 +43,7 @@
   <ErrorWhileLoadingMapTitle>Fel när en karta laddades</ErrorWhileLoadingMapTitle>
   <!-- EN: An error occurred while loading a map. See error log for more information. -->
   <ErrorWhileLoadingMap>Ett fel uppstod när en karta laddades. Se felloggen för mer information.</ErrorWhileLoadingMap>
-  
+
   <!-- Unloaded mod with an assembly -->
   <!-- EN: The mod list has changed. The game will now restart automatically. -->
   <ModsChanged>Moddlistan har ändras. Spelet kommer nu att startas om automatiskt.</ModsChanged>
@@ -51,11 +51,11 @@
   <FailedToRestart>Något gick fel när spelet startades om. Spelet kan inte helt deaktivera modifierad kod ifrån deaktiverade moddar, så kod ifrån deaktiverade moddar kan fortfarande vara aktiv.\n\nDet är rekommenderat att du stänger ner och startar om speler nu så att moddarna kan laddas på nytt.</FailedToRestart>
   <!-- EN: Restarting -->
   <Restarting>Startar om</Restarting>
-  
+
   <!-- Missing Steam -->
   <!-- EN: Could not initialize Steam API. Possible causes:\n\n-Steam is not running.\n-Launched from outside Steam without steam_appid.txt in place.\n-Running with different privileges than Steam client (e.g. "as administrator").\n\nIn most cases, rebooting your computer will fix this problem.\n\nYou can play anyway, but no Steam stats will be recorded and Steam features won't be available. -->
   <SteamClientMissing>Kunde inte initialisera Steam's API. Möjliga orsaker:\n\n-Steam är inte startat.\n-Startades utanför Steam utan att steam_appid.txt är på plats.\n-Startades med andra användarprivilegier än Steamklienten (t.ex. "som administratör").\n\nI de flesta fall räcker det med att starta om din dator för att lösa detta problem\n\nSteamversionen av det här spelet behöver Steam för att köras, och kommer nu stängas av.</SteamClientMissing>
-  
+
   <!-- Long events -->
   <!-- EN: Initializing interface -->
   <InitializingInterface>Initialiserar gränssnitt</InitializingInterface>
@@ -79,7 +79,7 @@
   <SpawningAllThings>Frambringar föremål</SpawningAllThings>
   <!-- EN: Spawning colonists -->
   <SpawningColonists>Frambringar kolonister</SpawningColonists>
-  
+
   <!-- Save/load -->
   <!-- EN: Save -->
   <SaveGameButton>Spara</SaveGameButton>
@@ -117,7 +117,7 @@
   <ChangeLoadedMods>Ladda mod-lista från sparfilen</ChangeLoadedMods>
   <!-- EN: Some mods are unavailable, and need to be installed -->
   <MissingMods>Vissa moddar är inte tillgängliga och måste installeras</MissingMods>
-  
+
   <!-- Player faction naming -->
   <!-- EN: Since it looks like you'll be here for a while, {0} thinks that you should give your faction a name. What should your faction be called? -->
   <NamePlayerFactionMessage>{0} föreslår att du ger din fraktion ett namn. Vad skall din fraktion heta?</NamePlayerFactionMessage>
@@ -133,13 +133,13 @@
   <PlayerFactionBaseGainsName>Den här kolonin är numera känd som {0}.</PlayerFactionBaseGainsName>
   <!-- EN: That name isn't valid. -->
   <PlayerFactionBaseNameIsInvalid>Det namnet är ogiltigt.</PlayerFactionBaseNameIsInvalid>
-  
+
   <!-- Player faction and faction base naming -->
   <!-- EN: {0} also thinks that you should give this settlement a name. What should this local settlement be called? -->
   <NamePlayerFactionBaseMessage_NameFactionContinuation>Det verkar som du kommer vara tvungen att stanna här ett tag. {0} föreslår också att du skall ge kolonin ett namn.Vad ska vi döpa den här lokala kolonin till?</NamePlayerFactionBaseMessage_NameFactionContinuation>
   <!-- EN: Your faction is now known as {0}, and this community is now known as {1}. -->
   <PlayerFactionAndBaseGainsName>Din fraktion är numera känd som {0} och denna kolonin är numera känd som {1}.</PlayerFactionAndBaseGainsName>
-  
+
   <!-- Renaming -->
   <!-- EN: Please enter a valid name. -->
   <NameIsInvalid>Ange ett giltigt namn.</NameIsInvalid>
@@ -147,7 +147,7 @@
   <NameIsInUse>Namnet används redan.</NameIsInUse>
   <!-- EN: The zone is now called {0}. -->
   <ZoneGainsName>Zonen kallas numera {0}.</ZoneGainsName>
-  
+
   <!-- Pawn naming -->
   <!-- EN: This person's nickname is now {0}. {PAWN_possessive} title is {PAWN_title}. -->
   <PawnGainsName>Kolonistens smeknamn är numera {0}.</PawnGainsName>
@@ -201,12 +201,12 @@
   <RequiredResearchBench>Forskningsbänk som krävs</RequiredResearchBench>
   <!-- EN: Required research bench facilities -->
   <RequiredResearchBenchFacilities>Faciliteter som forskningsbänken kräver</RequiredResearchBenchFacilities>
-  
+
   <!-- Advanced game start options -->
   <!-- EN: Warning: You will be landing in a frozen environment. It may be hard or nearly impossible to survive. If you are not intending to face an extreme challenge, choose a different site or season. -->
   <MapTemperatureDangerWarning>VARNING: Du kommer att landa i en frusen omgivning. Det kan bli svårt eller nästan omöjligt att överleva. Om du inte är ute efter en extrem utmaning bör du välja en ny plats eller årstid.</MapTemperatureDangerWarning>
   <!-- EN: The game is designed to play on medium map sizes. These sizes provide plenty of space!\n\nLarge map sizes don't just degrade performance - they actually break the game design. The AI will make stupid decisions, and game balance will be badly affected in various ways. These sizes are included for tradition and testing reasons only, please do not use them without a specific reason. -->
-  <MapSizePerformanceWarning>Spelet är skapat för att spelas på medium kartor. Dessa storlekar erbjuder gott om plats!\n\nStora kartor kommer inte bara sänka prestandan - de kommer faktiskt förstöra speldesignen. AIn kommer göra dumma val och balansen i spelet kommer påverkas på många olika sätt. Storlekarna är inkluderade för tradition och testning enbart, var snäll och använd dem inte utan att ha en speciell anledning. </MapSizePerformanceWarning>
+  <MapSizePerformanceWarning>Spelet är skapat för att spelas på medium kartor. Dessa storlekar erbjuder gott om plats!\n\nStora kartor kommer inte bara sänka prestandan - de kommer faktiskt förstöra speldesignen. AIn kommer göra dumma val och balansen i spelet kommer påverkas på många olika sätt. Storlekarna är inkluderade för tradition och testning enbart, var snäll och använd dem inte utan att ha en speciell anledning.</MapSizePerformanceWarning>
   <!-- EN: Map size -->
   <MapSize>Kartstorlek</MapSize>
   <!-- EN: {0}x{0} ({1} cells) -->
@@ -255,7 +255,7 @@
   <AnyWorker>Alla arberate</AnyWorker>
   <!-- EN: Unlimited -->
   <Unlimited>Obegränsat</Unlimited>
-  
+
   <!-- EN: (This recipe cannot have a target count because it has multiple or unpredictable products.) -->
   <RecipeCannotHaveTargetCount>(Detta recept kan inte ha ett mål eftersom den har flera eller oförutsägbara produkter.)</RecipeCannotHaveTargetCount>
   <!-- EN: Work amount -->
@@ -294,7 +294,7 @@
   <IncludeFromAll>Leta överallt</IncludeFromAll>
   <!-- EN: Look in {0} -->
   <IncludeSpecific>Leta i {0}</IncludeSpecific>
-  
+
   <!-- Info card -->
   <!-- EN: Damage -->
   <Damage>Skada</Damage>
@@ -520,7 +520,7 @@
   <SellableItemsTitle>Saker den här handlaren kommer att köpa</SellableItemsTitle>
   <!-- EN: Creatures -->
   <PawnsTabShort>Varelser</PawnsTabShort>
-  
+
   <!-- Form caravan -->
   <!-- EN: Form caravan -->
   <FormCaravan>Bilda karavan</FormCaravan>
@@ -557,7 +557,7 @@
   <!-- EN: Unlimited -->
   <InfiniteDaysWorthOfFoodInfo>Obegränsat</InfiniteDaysWorthOfFoodInfo>
   <!-- EN: The approximate number of days before at least one person or animal will be out of food. Different species have different diets, so one may run out of food before others. This value is calculated more accurately after the route is chosen.\n\nAffected by:\n  - Carried food type and amount\n  - Caravan members and their diets\n  - Foraging rate\n  - Whether animals can graze\n  - Time until food rots\n  - Hot weather rots food faster -->
-  <DaysWorthOfFoodTooltip>Det ungefärliga antaet dagar innan åtminstonde en person eller ett djur kommer ha slut på mat. Olika arter har olika dieter så en kan få slut på mat innan andra. Värdet kalkyleras bättre efter att en väg har valts,\n\nPåverkat av:\n  - Medhavd typ av mat och antal\n  - Karavanmedlemmar och deras dieter\n  - hastighet som mat insamlas\n  - Om djur kan beta\n  Tid till att mat ruttnar\n  - I varmt väder ruttnar mat snabbare</DaysWorthOfFoodTooltip>
+  <DaysWorthOfFoodTooltip>Det ungefärliga antaet dagar innan åtminstonde en person eller ett djur kommer ha slut på mat. Olika arter har olika dieter så en kan få slut på mat innan andra. Värdet kalkyleras bättre efter att en väg har valts,\n\nPåverkat av:\n - Medhavd typ av mat och antal\n - Karavanmedlemmar och deras dieter\n - hastighet som mat insamlas\n - Om djur kan beta\n Tid till att mat ruttnar\n - I varmt väder ruttnar mat snabbare</DaysWorthOfFoodTooltip>
   <!-- EN: (only the first waypoint is taken into account) -->
   <DaysWorthOfFoodTooltip_OnlyFirstWaypoint>\n(endast den första vägpunkten beaktas)</DaysWorthOfFoodTooltip_OnlyFirstWaypoint>
   <!-- EN: Your caravan only has {0} days worth of food and will become hungry quickly. -->
@@ -635,7 +635,7 @@
   <!-- EN: (forever) -->
   <PossibleToGrazeForever>(föralltid)</PossibleToGrazeForever>
   <!-- EN: ({0}) -->
-  <CantGrazeBecauseOfBiome>({0}) </CantGrazeBecauseOfBiome>
+  <CantGrazeBecauseOfBiome>({0})</CantGrazeBecauseOfBiome>
   <!-- EN: (too cold for {0} more days) -->
   <CantGrazeBecauseOfTemp>(för kallt under {0} dagar)</CantGrazeBecauseOfTemp>
   <!-- EN: Total nutrition -->
@@ -656,7 +656,7 @@
   <SourceCaravanMustHaveAtLeastOneColonist>Du måste lämna åtminstone en ej avsvimmad kolonist.</SourceCaravanMustHaveAtLeastOneColonist>
   <!-- EN: How many of this item the caravan has ready to give to the new caravan. -->
   <SplitCaravanThingCountTip>Hur många av dessa föremål karavanen har redo att ge till den nya karavanen.</SplitCaravanThingCountTip>
-  
+
   <!-- Load transporters -->
   <!-- EN: Load {0} -->
   <LoadTransporters>Lasta {0}</LoadTransporters>
@@ -670,17 +670,17 @@
   <TransporterItemIsUnreachableSingle>Det finns ingen väg mellan transportkapseln och {0}.</TransporterItemIsUnreachableSingle>
   <!-- EN: There is no path between the transport pods and {0}x {1}. -->
   <TransporterItemIsUnreachableMulti>Det finns ingen väg mellan transportkapseln och {0}x {1}.</TransporterItemIsUnreachableMulti>
-  
+
   <!-- Comms -->
   <!-- EN: Social skill: {0} -->
   <SocialSkillIs>Sociala färdigheter: {0}</SocialSkillIs>
-  
+
   <!--Research-->
   <!-- EN: Research finished: {0} -->
   <ResearchFinished>Förskning färdig: {0}</ResearchFinished>
   <!-- EN: Research Screen -->
   <ResearchScreen>Forskningsflik</ResearchScreen>
-  
+
   <!--HistoryUpload-->
   <!-- EN: Do you want to upload your gameplay data records to RimWorld server in order to help developers balance the game? If you agree, your data will be uploaded every {0} days (and in some other rare cases like the end of the game). Privacy preferences can be changed later in the options menu. -->
   <HistoryUploadMessage>Vill du ladda upp data angående ditt spel till RimWorlds servrar för att hjälpa utvecklarna att balansera spelet? Om du accepterar kommer din data att laddas upp var {0} dag (och under vissa andra sällsynta fall som t.ex. när spelet är slut). Sekretessinställningar kan ställas in senare under Instälnningar.</HistoryUploadMessage>
@@ -694,7 +694,7 @@
   <HistoryUploadYesOnce>Ladda endast upp denna gång</HistoryUploadYesOnce>
   <!-- EN: Do not upload this time, ask me later -->
   <HistoryUploadNoOnce>Ladda inte upp denna gång, fråga mig senare</HistoryUploadNoOnce>
-  
+
   <!-- Outfit management -->
   <!-- EN: Outfit -->
   <Outfit>Utstyrsel</Outfit>
@@ -708,7 +708,7 @@
   <OutfitInUse>Utstyrsel används av {0}.</OutfitInUse>
   <!-- EN: No outfit selected -->
   <NoOutfitSelected>Ingen utstyrsel vald</NoOutfitSelected>
-  
+
   <!-- Drug policy management -->
   <!-- EN: Drug policy -->
   <DrugPolicy>Riktlinjer för droger</DrugPolicy>
@@ -816,7 +816,7 @@
   <MedGroupNeutralFaction>Neutral fraktion</MedGroupNeutralFaction>
   <!-- EN: Hostile faction -->
   <MedGroupHostileFaction>Fientlig fraktion</MedGroupHostileFaction>
-  
+
   <!-- Growing -->
   <!-- EN: {0} requires {1} skill in Growing to sow.\n\nNone of your non-downed growers have this skill, so this plant will not be sown. -->
   <NoGrowerCanPlant>{0} kräver {1} i Odlingssfärdighet för att plantera.\n\nIngen av dina friska odlare har den här färdigheten, så den här växten kommer inte planteras.</NoGrowerCanPlant>
@@ -828,11 +828,11 @@
   <ConfirmAbandonHomeNegativeThoughts>Om du överger {0} kommer följande personer få dessa tankar:</ConfirmAbandonHomeNegativeThoughts>
   <!-- EN: Everyone: -->
   <ConfirmAbandonHomeNegativeThoughts_Everyone>Alla:</ConfirmAbandonHomeNegativeThoughts_Everyone>
-  
+
   <!-- Move caravan and leave prisoners and animals behind -->
   <!-- EN: Some animals or prisoners are trying to join this caravan. If you move it, they won't be able to anymore.\n\nAnimals, prisoners, and downed colonists left behind in a map without any non-downed colonists are considered abandoned and can be captured by the enemies.\n\nAre you sure you want to move your caravan? -->
   <ConfirmMoveAutoJoinableCaravan>Vissa djur eller fångar försöker gå med i denna karavan. Om du flyttar den, kommer de inte att kunna längre.\n\nDjur, fångar och nekade kolonister som lämnas kvar i en karta utan några ej däckad kolonister anses vara övergivna och kan fångas av fienderna.\n\nÄr du säker på att du vill flytta din karavan?</ConfirmMoveAutoJoinableCaravan>
-  
+
   <!-- Abandon pawn -->
   <!-- EN: Do you really want to banish {1_label}? -->
   <ConfirmBanishPawnDialog>Vill du verkligen förvisa {1_label}?</ConfirmBanishPawnDialog>
@@ -852,7 +852,7 @@
   <!-- Settle near a faction base -->
   <!-- EN: Since this location is within {0} tiles of another faction base, they will feel you are encroaching on their land and relations with those factions will worsen every {1} days.\n\nSettle here anyways? -->
   <ConfirmSettleNearFactionBase>Eftersom denna plats ligger inom {0} områden från en annan fraktionsbas kommer de känna att du inkräktar på deras mark och förbindelserna med dessa fraktioner kommer att försämras varje {1} dar.\n\nBygg här ändå?</ConfirmSettleNearFactionBase>
-  
+
   <!-- Cleanup translation files -->
   <!-- EN: Are you sure you want to cleanup all translation files for language {0}?\n\nThis will:\n  - Add placeholders for missing keyed translations, def-injected translations, and backstories\n  - Add or update comments containing the original, untranslated text\n  - Move all keyed and def-injected translations to the appropriate XML files\n  - Apply automatic formatting to all XML files\n  - Update back-compatible def names\n  - Remove all existing XML comments (except in full-list injections)\n\nNon-XML files will not be removed or modified.\n\nRemember to restart the game after modifying the language files before running this tool in order to reload all data.\n\nMake sure to back up all translation files before using this tool. -->
   <ConfirmCleanupTranslationFiles>Är du säker på att du vill städa upp alla översättningsfiler för språk {0}?\n\nDetta kommer att:\n - Lägga till markeringar för saknade keyed översättningar, def-injected översättningar och bakgrunder\n - Lägga till eller uppdatera kommentarer som innehåller den original oöversatta texten\n - Flytta alla keyed och def-injected översättningar till lämpliga XML-filer\n - Använda automatiska formateringar till alla XML-filer\n - Uppdatera bakåtkompatibla def namn\n - Ta bort alla befintliga XML-kommentarer (utom i full-list injektioner)\n\nIcke XML-filer kommer inte att tas bort eller ändras.\n\nKom ihåg att starta om spelet efter att du har ändrat språkfilerna innan du kör det här verktyget för att ladda om alla data.\n\nKontrollera att du säkerhetskopierat alla översättningsfiler innan du använder det här verktyget.</ConfirmCleanupTranslationFiles>

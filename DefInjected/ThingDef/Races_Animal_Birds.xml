@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: cassowary -->
   <Cassowary.label>kasuar</Cassowary.label>
   <!-- EN: A large flightless bird with brightly-colored feathers. While it looks beautiful, its kick is vicious. It's known for being quick to aggression when harmed by violence or confronted by incompetent animal tamers. -->
@@ -13,7 +13,7 @@
   <Cassowary.tools.beak.label>näbb</Cassowary.tools.beak.label>
   <!-- EN: head -->
   <Cassowary.tools.head.label>huvud</Cassowary.tools.head.label>
-  
+
   <!-- EN: emu -->
   <Emu.label>emu</Emu.label>
   <!-- EN: A large flightless bird with beady eyes on its ugly face. With its bad attitude, it is the jerk of the natural world. Bother it, and it is guaranteed to seek revenge. -->
@@ -24,18 +24,18 @@
   <Emu.tools.beak.label>näbb</Emu.tools.beak.label>
   <!-- EN: head -->
   <Emu.tools.head.label>huvud</Emu.tools.head.label>
-  
+
   <!-- EN: ostrich -->
   <Ostrich.label>struts</Ostrich.label>
   <!-- EN: The largest unmodified bird species, ostriches are known for their fast run, huge eggs, and powerful kick. It is easily angered. -->
-  <Ostrich.description>Den största omodifierade fågelarten, strutsar är kända för sin snabba sprint, stora ägg och  kraftfulla spark. Blir lätt uppretad.</Ostrich.description>
+  <Ostrich.description>Den största omodifierade fågelarten, strutsar är kända för sin snabba sprint, stora ägg och kraftfulla spark. Blir lätt uppretad.</Ostrich.description>
   <!-- EN: claws -->
   <Ostrich.tools.claws.label>klor</Ostrich.tools.claws.label>
   <!-- EN: beak -->
   <Ostrich.tools.beak.label>näbb</Ostrich.tools.beak.label>
   <!-- EN: head -->
   <Ostrich.tools.head.label>huvud</Ostrich.tools.head.label>
-  
+
   <!-- EN: turkey -->
   <Turkey.label>kalkon</Turkey.label>
   <!-- EN: A short, fat, flightless bird known for its hilarious 'gobbling' call. It has been long domesticated, but also lives in the wild. -->
@@ -46,5 +46,5 @@
   <Turkey.tools.beak.label>näbb</Turkey.tools.beak.label>
   <!-- EN: head -->
   <Turkey.tools.head.label>huvud</Turkey.tools.head.label>
-  
+
 </LanguageData>

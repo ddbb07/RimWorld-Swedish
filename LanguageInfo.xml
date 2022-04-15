@@ -11,36 +11,36 @@
       <roleKey>Credit_Translator</roleKey>
       <creditee>Kevin Ericson</creditee>
     </li>
-	<li Class="CreditRecord_Role">
+    <li Class="CreditRecord_Role">
       <!-- Contributed 2016-10-27 to ... -->
       <roleKey>Credit_Translator</roleKey>
       <creditee>Patrik Bohlin</creditee>
     </li>
 
-	<li Class="CreditRecord_Role">
+    <li Class="CreditRecord_Role">
       <!-- Contributed 2018-09- to ... -->
       <roleKey>Credit_Translator</roleKey>
       <creditee>Charlie Wester</creditee>
     </li>
 
     <!-- "Archived translators" -->
-    
+
     <li Class="CreditRecord_Role">
       <!-- Contributed 2016-04-24 to 2016-05-03 -->
       <roleKey>Credit_Translator</roleKey>
       <creditee>Christoffer Rydström</creditee>
     </li>
-	  	<li Class="CreditRecord_Role">
-  	  <!-- Contributed 2016-09-06 to 2016-09-10 -->
+    <li Class="CreditRecord_Role">
+      <!-- Contributed 2016-09-06 to 2016-09-10 -->
       <roleKey>Credit_Translator</roleKey>
       <creditee>Rocksummit</creditee>
     </li>
-	<li Class="CreditRecord_Role">
+    <li Class="CreditRecord_Role">
       <!-- Contributed 2016-08-21 to 2017-02-27 -->
       <roleKey>Credit_Translator</roleKey>
       <creditee>Joel Ahlgren</creditee>
     </li>
-    
+
     <!-- The original group, contributed during July 2014. -->
     <li Class="CreditRecord_Role">
       <!-- Contributed 2014-07-07 to 2014-07-08 -->
@@ -52,13 +52,13 @@
       <roleKey>Credit_Translator</roleKey>
       <creditee>TreSxNine</creditee>
     </li>
-	<li Class="CreditRecord_Role">
-	  <!-- Contributed unknown to unknown (no commits found). -->
+    <li Class="CreditRecord_Role">
+      <!-- Contributed unknown to unknown (no commits found). -->
       <roleKey>Credit_Translator</roleKey>
       <creditee>Ricande</creditee>
     </li>
-	<li Class="CreditRecord_Role">
-	  <!-- Contributed 2014-07-10 to 2014-07-31. -->
+    <li Class="CreditRecord_Role">
+      <!-- Contributed 2014-07-10 to 2014-07-31. -->
       <roleKey>Credit_Translator</roleKey>
       <creditee>Zacka</creditee>
     </li>

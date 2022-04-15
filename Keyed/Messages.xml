@@ -31,22 +31,22 @@
   <MessageVisitorsTrappedLeaving>{0} från {1} har fastnat och försöker gräver sig fria.</MessageVisitorsTrappedLeaving>
   <!-- EN: {0} from {1} are leaving the map because of dangerous temperature. -->
   <MessageVisitorsDangerousTemperature>{0} från {1} lämnar kartan för att undfly farlig temperatur.</MessageVisitorsDangerousTemperature>
-  
+
   <!-- EN: {0} worn by {1} deteriorated away to nothing. -->
   <MessageWornApparelDeterioratedAway>{0} som bärs av {1} vittrar sönder till smulor.</MessageWornApparelDeterioratedAway>
-  
+
   <!-- EN: {0} has begun. -->
   <MessageSeasonBegun>{0}säsongen är här.</MessageSeasonBegun>
 
   <!-- EN: {0} has left comms range. -->
   <MessageShipHasLeftCommsRange>{0} har lämnat kommunikationräckvidden.</MessageShipHasLeftCommsRange>
-  
+
   <!-- EN: You need a powered orbital trade beacon to trade with a ship. -->
   <MessageNeedBeaconToTradeWithShip>Du behöver en planetär handelsfyr för att handla med ett skepp.</MessageNeedBeaconToTradeWithShip>
-  
+
   <!-- EN: Bill complete: {0}. -->
   <MessageBillComplete>Beställning avklarad: {0}.</MessageBillComplete>
-  
+
   <!-- EN: {0} is fully healed. -->
   <MessageFullyHealed>{0} är nu fullt frisk.</MessageFullyHealed>
 
@@ -60,7 +60,7 @@
   <MessageAnimalsGoPsychoHunted>Varning: En {0} attakerar ofta när den skadas ({1} chans inom vapnets räckvidd, högre om närmre.</MessageAnimalsGoPsychoHunted>
   <!-- EN: Warning: {0} often attack upon failed taming attempts ({1} chance). -->
   <MessageAnimalManhuntsOnTameFailed>Varning: {0} attakerar ofta om tämjningsfösöket misslyckas ({1} chans).</MessageAnimalManhuntsOnTameFailed>
-  
+
   <!-- EN: New recruit -->
   <LetterLabelMessageRecruitSuccess>Ny rekryt</LetterLabelMessageRecruitSuccess>
   <!-- EN: {0} successfully recruited {1} ({2} chance). -->
@@ -113,14 +113,14 @@
 
   <!-- EN: {0} has refused to be arrested! -->
   <MessageRefusedArrest>{0} vägrar bli arresterad!</MessageRefusedArrest>
-  
+
   <!-- EN: There are no medical beds available. -->
   <MessageNoMedicalBeds>Det finns inga sjukhussängar tillgängliga.</MessageNoMedicalBeds>
   <!-- EN: There are no animal beds available. -->
   <MessageNoAnimalBeds>Det finns inga djurbäddar tillgängliga.</MessageNoAnimalBeds>
   <!-- EN: Operation requires {0} or better, but {1}'s current medical care mode is "{2}". -->
   <MessageTooLowMedCare>Operationen kräver {0} eller bättre, men {1}'s nuvarande medecinska nivå är "{2}".</MessageTooLowMedCare>
-  
+
   <!-- EN: {0} has died. Cause: {1}. -->
   <PawnDiedBecauseOf>{0} har dött på grund utav {1}.</PawnDiedBecauseOf>
   <!-- EN: {0} has died. -->
@@ -156,26 +156,26 @@
 
   <!-- EN: No handler can tame {0} (requires level {1} in {2}, best handler {3} has {4}). -->
   <MessageNoHandlerSkilledEnough>Ingen hanterare kan tämja {0} (det kräver nivå {1} i {2}, den bästa hanteraren {3} har {4}).</MessageNoHandlerSkilledEnough>
-  
+
   <!-- EN: {0} has been eaten by {1}. -->
   <MessageEatenByPredator>{0} har blivit uppäten av {1}.</MessageEatenByPredator>
   <!-- EN: {0} is being attacked by {1}! -->
   <MessageAttackedByPredator>{0} blir attackerad av {1}!</MessageAttackedByPredator>
-  
+
   <!-- EN: A bug hive has reproduced itself. -->
   <MessageHiveReproduced>En insektsvärm har reproducerat sig.</MessageHiveReproduced>
-  
+
   <!-- EN: The trade caravan from {0} is leaving. -->
   <MessageTraderCaravanLeaving>Handelskaravanen ifrån {0} börjar lämna.</MessageTraderCaravanLeaving>
-  
+
   <!-- EN: {0} is dead. -->
   <MessageCantSelectDeadPawn>{0} är död.</MessageCantSelectDeadPawn>
   <!-- EN: {0} is off the map. -->
   <MessageCantSelectOffMapPawn>{0} är utanför kartan.</MessageCantSelectOffMapPawn>
-  
+
   <!-- EN: {0} started a social fight with {1}. -->
   <MessageSocialFight>{0} startade ett slagsmål med {1}.</MessageSocialFight>
-  
+
   <!-- EN: Colonists are gathering to celebrate {0} and {1}’s marriage. -->
   <MessageNewMarriageCeremony>Kolonisterna samlas för att fira bröllpet mellan {0} och {1}.</MessageNewMarriageCeremony>
   <!-- EN: {0} and {1} are beginning their marriage ceremony! -->
@@ -186,42 +186,42 @@
   <MessageNewlyMarried>{0} och {1} har gift sig. Kolonisterna kommer nu att fira.</MessageNewlyMarried>
   <!-- EN: The marriage ceremony for {0} and {1} has finished. -->
   <MessageMarriageCeremonyAfterPartyFinished>Bröllopscemonin för {0} och {1} har nu avslutats.</MessageMarriageCeremonyAfterPartyFinished>
-  
+
   <!-- EN: {0} and {1} have formed a bond. -->
   <MessageNewBondRelation>{0} och {1} har format ett band.</MessageNewBondRelation>
   <!-- EN: {0} and {1} have formed a bond. {0} has named [PAWN_objective] {2}. -->
   <MessageNewBondRelationNewName>{0} och {1} har format ett band. {0} har namngett {1} {2}.</MessageNewBondRelationNewName>
-  
+
   <!-- EN: {0} has a mental break because of {1}'s death. -->
   <MessageBondedAnimalMentalBreak>{0} har fått ett mentalt sammanbrott på grund utav {1}'s dödsfall.</MessageBondedAnimalMentalBreak>
   <!-- EN: {0} named {1} has a mental break because of {2}'s death. -->
   <MessageNamedBondedAnimalMentalBreak>{0} vid namn {1} har fått ett mentalt sammanbrott på grund utav {2}'s dödsfall.</MessageNamedBondedAnimalMentalBreak>
   <!-- EN: {0} animals have a mental break because of {1}'s death. -->
   <MessageBondedAnimalsMentalBreak>{0} djur har fått ett mentalt sammanbrott på grund utav {1}'s dödsfall.</MessageBondedAnimalsMentalBreak>
-  
+
   <!-- EN: {0} has successfully removed {1}'s {2}. -->
   <MessageSuccessfullyRemovedHediff>{0} har lyckats ta bort {1}'s {2}.</MessageSuccessfullyRemovedHediff>
-  
+
   <!-- EN: Chunks of a spacecraft have impacted nearby. You can deconstruct them to yield resources. -->
   <MessageShipChunkDrop>En rymskeppsbit har fallit ner ifrån himlen och landat i närheten. Du kan ta isär den för att få resurser.</MessageShipChunkDrop>
-  
+
   <!-- EN: The party has been called off. -->
   <MessagePartyCalledOff>Festen har avblåsts.</MessagePartyCalledOff>
   <!-- EN: The party has finished. -->
   <MessagePartyFinished>Festen är slut.</MessagePartyFinished>
 
   <!-- EN: Some items cannot be traded because of:  -->
-  <MessageCannotSellItemsReason>Några föremål kan inte bytas på grund av: </MessageCannotSellItemsReason>
+  <MessageCannotSellItemsReason>Några föremål kan inte bytas på grund av:</MessageCannotSellItemsReason>
 
   <!-- EN: {1} failed while constructing {0}. Some resources have been wasted. -->
   <MessageConstructionFailed>{1} misslyckades med att bygga {0}. Några resurser har blivit förlorade.</MessageConstructionFailed>
 
   <!-- EN: Screenshot saved as: {0} -->
   <MessageScreenshotSavedAs>Skärmdump sparad som: {0}</MessageScreenshotSavedAs>
-  
+
   <!-- EN: {0} and {1} are no longer social fighting. -->
   <MessageNoLongerSocialFighting>{0} och {1} slåss inte längre.</MessageNoLongerSocialFighting>
-  
+
   <!-- EN: {0} is no longer binging on {1}. -->
   <MessageNoLongerBingingOnDrug>{0} frossar inte längre på {1}.</MessageNoLongerBingingOnDrug>
 
@@ -230,10 +230,10 @@
 
   <!-- EN: {0} has rotted away in storage. -->
   <MessageRottedAwayInStorage>{0} har ruttnat bort i förrådet.</MessageRottedAwayInStorage>
-  
+
   <!-- EN: {0} has gotten food poisoning from: {1}. Cause: {2}. -->
   <MessageFoodPoisoning>{0} har fått matförgiftning från: {1}.</MessageFoodPoisoning>
-  
+
   <!-- EN: {0} has been removed from the caravan. -->
   <MessagePawnLostWhileFormingCaravan>{0} har tagits bort från karavanen.</MessagePawnLostWhileFormingCaravan>
   <!-- EN: The caravan formation process has been terminated. -->
@@ -242,10 +242,10 @@
   <MessageCaravanFormationPaused>Karavanens bildningsprocessen kommer att fortsätta när alla återhämtar sig från sina mentala sammanbrott.</MessageCaravanFormationPaused>
   <!-- EN: Your colonists will now continue forming a caravan. -->
   <MessageCaravanFormationUnpaused>Dina kolonister fortsätter nu att bilda en karavan.</MessageCaravanFormationUnpaused>
-  
+
   <!-- EN: One of the caravan members has a mental break. -->
   <MessageCaravanMemberHasExtremeMentalBreak>En av karavanmedlemmarna har fått ett mentalt sammanbrott.</MessageCaravanMemberHasExtremeMentalBreak>
-  
+
   <!-- EN: Warning: It can take a very long time to generate an entire planet. -->
   <MessageMaxPlanetCoveragePerformanceWarning>Varning: Det kan ta en väldigt lång tid att generera en hel planet.</MessageMaxPlanetCoveragePerformanceWarning>
 
@@ -267,75 +267,75 @@
 
   <!-- EN: {0} has accidentally overdosed while consuming {1}! -->
   <MessageAccidentalOverdose>{0} har av misstag överdoserat när [PAWN_pronoun] använde {1}!</MessageAccidentalOverdose>
-  
+
   <!-- EN: {0} has arrived at its destination. -->
   <MessageCaravanArrivedAtDestination>{0} har anlänt vid sin destination.</MessageCaravanArrivedAtDestination>
-  
+
   <!-- EN: {0} has arrived in {1}. -->
   <MessageCaravanIsVisitingSettlement>{0} har anlänt om {1}.</MessageCaravanIsVisitingSettlement>
-  
+
   <!-- EN: {0} has arrived in {1}. -->
   <MessageCaravanEnteredWorldObject>{0} har anlänt vid {1}.</MessageCaravanEnteredWorldObject>
-  
+
   <!-- EN: {0} has left the area and formed a caravan. -->
   <MessagePawnLeftMapAndCreatedCaravan>{0} har lämnat området och format en karavan.</MessagePawnLeftMapAndCreatedCaravan>
   <!-- EN: Your animals are moving to join it. -->
   <MessagePawnLeftMapAndCreatedCaravan_AnimalsWantToJoin>Dina djur förflyttar sig för att gå med i den.</MessagePawnLeftMapAndCreatedCaravan_AnimalsWantToJoin>
-  
+
   <!-- EN: You have successfully settled in a new area. -->
   <MessageSettledInExistingMap>Du har bosatt ett nytt område.</MessageSettledInExistingMap>
-  
+
   <!-- EN: {1}'s {2} has healed. Cause: {0} -->
   <MessagePermanentWoundHealed>{1}s {2} har läkt sig. Orsak: {0}</MessagePermanentWoundHealed>
 
   <!-- EN: Since you rescued [PAWN_objective], {0} has joined your group! -->
   <MessageRescueeJoined>Eftersom du räddade [PAWN_objective], har {0} gått med i din grupp!</MessageRescueeJoined>
-  
+
   <!-- EN: Some transport pods are unreachable. -->
   <MessageTransporterUnreachable>Vissa transportkapslar inte kan nås.</MessageTransporterUnreachable>
   <!-- EN: All pod launchers connected to the selected transport pods must be adjacent. -->
   <MessageTransportersNotAdjacent>Alla kapselutskjutare som är anslutna till de utvalda transportkapslarna måste ligga intill varandra.</MessageTransportersNotAdjacent>
-  
+
   <!-- EN: The loading process has been canceled because one of the transport pods has been destroyed. -->
   <MessageTransportersLoadCanceled_TransporterDestroyed>Lastningen har avbrutits eftersom en av transportkapslarna har förstörts.</MessageTransportersLoadCanceled_TransporterDestroyed>
   <!-- EN: The loading process has been canceled because one of the pod launchers has been destroyed. -->
   <MessageTransportersLoadCanceled_FuelingPortGiverDeSpawned>Lastningen har avbrutits eftersom en av kapselutskjutarna har förstörts.</MessageTransportersLoadCanceled_FuelingPortGiverDeSpawned>
-  
+
   <!-- EN: Your colonists will now load the assigned items into the transport pods. -->
   <MessageTransportersLoadingProcessStarted>Dina kolonister kommer nu lasta de tilldelade föremålen i transportkapslarna.</MessageTransportersLoadingProcessStarted>
-  
+
   <!-- EN: Your transport pods have arrived. -->
   <MessageTransportPodsArrived>Dina transportkapslar har anlänt.</MessageTransportPodsArrived>
   <!-- EN: Your transport pods have arrived, but since there were no colonists inside, the contents are lost. -->
   <MessageTransportPodsArrivedAndLost>Dina transportkapslar har anlänt men eftersom det inte fanns några kolonister med, är innehållet förlorat.</MessageTransportPodsArrivedAndLost>
   <!-- EN: Your transport pods have arrived. The contents have been added to {0}. -->
   <MessageTransportPodsArrivedAndAddedToCaravan>Dina transportkapslar har anlänt. Innehållet har lagts till i din karavan.</MessageTransportPodsArrivedAndAddedToCaravan>
-  
+
   <!-- EN: The loading process has been canceled because one of the colonists has been lost. -->
   <MessageFailedToLoadTransportersBecauseColonistLost>Lastningen har avbrutits eftersom en av kolonisterna har försvunnit.</MessageFailedToLoadTransportersBecauseColonistLost>
-  
+
   <!-- EN: Your colonists have finished loading the transport pods. -->
   <MessageFinishedLoadingTransporters>Dina kolonister har lastat färdigt transportkapslarna.</MessageFinishedLoadingTransporters>
-  
+
   <!-- EN: Selected destination is invalid. -->
   <MessageTransportPodsDestinationIsInvalid>Den valda destinationen är ogiltig.</MessageTransportPodsDestinationIsInvalid>
   <!-- EN: Each pod launcher would need at least {0}x chemfuel to send transport pods that far. -->
   <MessageTransportPodsDestinationIsTooFar>Varje kapselutskjutare skulle behöva minst {0}x kemiskt bränsle för att skicka transportkapseln så långt.</MessageTransportPodsDestinationIsTooFar>
-  
+
   <!-- EN: The caravan has been reformed. -->
   <MessageReformedCaravan>Karavanen har ombildats.</MessageReformedCaravan>
-  
+
   <!-- EN: You can't banish the last colonist. -->
   <MessageCantBanishLastColonist>Du kan inte förvisa den sista kolonisten.</MessageCantBanishLastColonist>
-  
+
   <!-- EN: Cannot equip: {0} is incapable of violence. -->
   <MessageCantEquipIncapableOfViolence>Det går inte att utrusta: {0} är inkapabel till våld.</MessageCantEquipIncapableOfViolence>
   <!-- EN: Cannot equip: incapable. -->
   <MessageCantEquipIncapableOfManipulation>Det går inte att utrusta: inkapabel.</MessageCantEquipIncapableOfManipulation>
-  
+
   <!-- EN: Because they are bonded, slaughtering {0} will make {1} unhappy. -->
   <MessageSlaughteringBondedAnimal>Eftersom de är kära varandre, kommer slakt av {0} göra {1} olycklig.</MessageSlaughteringBondedAnimal>
-  
+
   <!-- EN: {0} has run out of food ({1}). -->
   <MessageCaravanRanOutOfFood>{0} har fått slut på mat ({1}).</MessageCaravanRanOutOfFood>
 
@@ -344,10 +344,10 @@
 
   <!-- EN: At this resolution and UI scale, the game interface would not fit on-screen. Please reduce UI scale or increase resolution. -->
   <MessageScreenResTooSmallForUIScale>Vid denna upplösning och gränsnittsskala, skulle spelets eget gränssnitt inte få plats på skärmen. Minska gränsnittsskalan eller öka upplösningen.</MessageScreenResTooSmallForUIScale>
-  
+
   <!-- EN: You have to reform the caravan now. Everyone left behind will be abandoned. -->
   <MessageYouHaveToReformCaravanNow>Du behöver ombilda karavanen nu. Alla som blir lämnade kommer bli övergivna</MessageYouHaveToReformCaravanNow>
-  
+
   <!-- EN: {0} from {1} are attacking your {2}. -->
   <MessageDefendersAttacking>{0} från {1} attackerar din {2}.</MessageDefendersAttacking>
 
@@ -355,7 +355,7 @@
   <MessageSelfTendUnsatisfied>För att kunna självbehandla måste {0} vara tilldelad som Doktor.</MessageSelfTendUnsatisfied>
   <!-- EN: {0} is incapable of doing Doctor work, and so cannot ever self-tend. -->
   <MessageCannotSelfTendEver>{0} är ej kapabel till att göra Doktorsabete och kan därmed inte självbehandla sig.</MessageCannotSelfTendEver>
-  
+
   <!-- EN: This tile is impassable. -->
   <MessageCantAddWaypointBecauseImpassable>Du kan inte ta dig igenom denna ruta.</MessageCantAddWaypointBecauseImpassable>
   <!-- EN: It's not possible to reach this tile from the last waypoint. -->
@@ -364,10 +364,10 @@
   <MessageCantAddWaypointBecauseLimit>Du kan inte lägga till mer än {0} vägpunkter.</MessageCantAddWaypointBecauseLimit>
   <!-- EN: You can't remove this waypoint. -->
   <MessageCantRemoveWaypointBecauseFirst>Du kan inte ta bort den här vägpunkten.</MessageCantRemoveWaypointBecauseFirst>
-  
+
   <!-- EN: None of your wardens is capable of violence. The execution won't be performed. -->
   <MessageCantDoExecutionBecauseNoWardenCapableOfViolence>Ingen av era förhandlare är kapabla till våld. Avrättningen kommer inte att utföras.</MessageCantDoExecutionBecauseNoWardenCapableOfViolence>
-  
+
   <!-- EN: You have defeated all enemies. In {0}, the caravan will automatically be reformed. -->
   <MessageSiteCountdownBecauseNoMoreEnemies>Ni har besegrat alla fiender. Om {0} kommer karavanen automatiskt omformeras.</MessageSiteCountdownBecauseNoMoreEnemies>
   <!-- EN: In {0}, the caravan will automatically be reformed. You can reform the caravan now in the World screen. -->

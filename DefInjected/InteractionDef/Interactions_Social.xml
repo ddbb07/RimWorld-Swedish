@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: chitchat -->
   <Chitchat.label>småprat</Chitchat.label>
   <!-- EN:
@@ -37,7 +37,7 @@
     <li>commentedabout->kommenterade</li>
     <li>commentedabout->berättade ett skämt om</li>
   </Chitchat.logRulesInitiator.rulesStrings>
-  
+
   <!-- EN: deep talk -->
   <DeepTalk.label>djupt samtal</DeepTalk.label>
   <!-- EN:
@@ -70,7 +70,7 @@
     <li>talkedabout->lierade över ämnet</li>
     <li>subject->[TalkTopicHeavy]</li>
   </DeepTalk.logRulesInitiator.rulesStrings>
-  
+
   <!-- EN: insult -->
   <Insult.label>förolämpa</Insult.label>
   <!-- EN:
@@ -111,7 +111,7 @@
     <li>insultcomparison(p=2)->[Animal]</li>
     <li>insultcomparison->[Enemy]</li>
   </Insult.logRulesInitiator.rulesStrings>
-  
+
   <!-- EN: kind words -->
   <KindWords.label>vänliga ord</KindWords.label>
   <!-- EN:
@@ -146,7 +146,7 @@
     <li>complimented->uttryckte uppskattning för</li>
     <li>complimented->sa snälla saker om</li>
   </KindWords.logRulesInitiator.rulesStrings>
-  
+
   <!-- EN: slight -->
   <Slight.label>skymf</Slight.label>
   <!-- EN:
@@ -184,5 +184,5 @@
     <li>madefunof->gav en sarkastisk komplemang till</li>
   </Slight.logRulesInitiator.rulesStrings>
 
-  
+
 </LanguageData>

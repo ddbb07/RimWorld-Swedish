@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: alcohol withdrawal -->
   <AlcoholWithdrawal.stages.alcohol_withdrawal.label>alkoholabstinens</AlcoholWithdrawal.stages.alcohol_withdrawal.label>
   <!-- EN: Feeling shaky. Everything pisses me off. I keep thinking of drinking. -->
   <AlcoholWithdrawal.stages.alcohol_withdrawal.description>Känns skakigt. Allt retar mig. Jag tänker bara på att få dricka.</AlcoholWithdrawal.stages.alcohol_withdrawal.description>
-  
+
   <!-- EN: mild hangover -->
   <Hungover.stages.mild_hangover.label>Bakfull (lätt)</Hungover.stages.mild_hangover.label>
   <!-- EN: The headache is almost gone. -->
@@ -20,7 +20,7 @@
   <Hungover.stages.pounding_hangover.description>Det känns som en skock gäss pickar på skallen.</Hungover.stages.pounding_hangover.description>
   <!-- EN: hung over (hidden) -->
   <Hungover.stages.hung_over_hidden.label>Bakfull (dold)</Hungover.stages.hung_over_hidden.label>
-  
+
   <!-- EN: alcohol warmth -->
   <Inebriated.stages.alcohol_warmth.label>Surrig (dold)</Inebriated.stages.alcohol_warmth.label>
   <!-- EN: I just feel a bit more relaxed after that drink. That's good. -->
@@ -37,6 +37,6 @@
   <Inebriated.stages.hammered.label>Berusad (full)</Inebriated.stages.hammered.label>
   <!-- EN: Wooo! What's going on? -->
   <Inebriated.stages.hammered.description>Jag känner mig totalt ohämmat och orädd! Dethär är ju helt lysande!</Inebriated.stages.hammered.description>
-  
-  
+
+
 </LanguageData>

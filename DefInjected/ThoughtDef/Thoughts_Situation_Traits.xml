@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: ascetic has awful bedroom -->
   <Ascetic.stages.ascetic_has_awful_bedroom.label>asket med ohyggligt sovrum</Ascetic.stages.ascetic_has_awful_bedroom.label>
   <!-- EN: My bedroom is just how I want it to be. Very humble and simple. -->
@@ -41,17 +41,17 @@
   <Ascetic.stages.ascetic_has_impressive_bedroom-6.label>asket med imponerande sovrum</Ascetic.stages.ascetic_has_impressive_bedroom-6.label>
   <!-- EN: I don't like having an impressive bedroom. -->
   <Ascetic.stages.ascetic_has_impressive_bedroom-6.description>Jag tycker inte om att ha ett imponerande sovrum.</Ascetic.stages.ascetic_has_impressive_bedroom-6.description>
-  
+
   <!-- EN: brawler has ranged weapon -->
   <BrawlerUnhappy.stages.brawler_has_ranged_weapon.label>slagskämpe har ett avståndsvapen</BrawlerUnhappy.stages.brawler_has_ranged_weapon.label>
   <!-- EN: I hate shooting from a distance. I want to get up close and personal! -->
   <BrawlerUnhappy.stages.brawler_has_ranged_weapon.description>Jag hatar att skjuta från avstånd. Jag vill komma upp nära och personligt!</BrawlerUnhappy.stages.brawler_has_ranged_weapon.description>
-  
+
   <!-- EN: constraining clothes -->
   <ClothedNudist.stages.constraining_clothes.label>begränsande kläder</ClothedNudist.stages.constraining_clothes.label>
   <!-- EN: I'm a nudist but I have to wear these clothes. It's not unbearable - but I still feel constrained and uncomfortable. -->
   <ClothedNudist.stages.constraining_clothes.description>Jag är en nudist men jag måste bära dessa kläder. Det är inte outhärdlig - men jag känner fortfarande begränsad och obekväm.</ClothedNudist.stages.constraining_clothes.description>
-  
+
   <!-- EN: greedy for impressive bedroom -->
   <Greedy.stages.greedy_for_impressive_bedroom-0.label>vill ha imponerande sovrum</Greedy.stages.greedy_for_impressive_bedroom-0.label>
   <!-- EN: I'm greedy. I want a really impressive bedroom. -->
@@ -72,17 +72,17 @@
   <Greedy.stages.greedy_for_impressive_bedroom-4.label>vill ha imponerande sovrum</Greedy.stages.greedy_for_impressive_bedroom-4.label>
   <!-- EN: I'm greedy. My room isn't quite good enough. I want a really impressive bedroom. -->
   <Greedy.stages.greedy_for_impressive_bedroom-4.description>Jag är girig. Mitt rum är inte riktigt bra nog. Jag vill ha en riktigt imponerande sovrum.</Greedy.stages.greedy_for_impressive_bedroom-4.description>
-  
+
   <!-- EN: happily nude -->
   <HappyNude.stages.happily_nude.label>glatt naken</HappyNude.stages.happily_nude.label>
   <!-- EN: I'm nude and loving it! I feel so free and unconstrained and in touch with my surroundings! -->
   <HappyNude.stages.happily_nude.description>Jag är naken och älska det! Jag känner mig så fri och i kontakt med naturen och min omgivning!</HappyNude.stages.happily_nude.description>
-  
+
   <!-- EN: jealous of {0}'s bedroom -->
   <Jealous.stages.jealous_of_s_bedroom.label>avundsjuk på {0}s sovrum</Jealous.stages.jealous_of_s_bedroom.label>
   <!-- EN: I need to have the best one! -->
   <Jealous.stages.jealous_of_s_bedroom.description>Jag måste ha det bästa!</Jealous.stages.jealous_of_s_bedroom.description>
-  
+
   <!-- EN: masochist in minor pain -->
   <MasochistPain.stages.masochist_in_minor_pain.label>masochist med lite ont</MasochistPain.stages.masochist_in_minor_pain.label>
   <!-- EN: Ow... Heh heh heh... I could get used to this! -->
@@ -99,17 +99,17 @@
   <MasochistPain.stages.masochist_in_mindshattering_pain.label>masochist med extrem smärta</MasochistPain.stages.masochist_in_mindshattering_pain.label>
   <!-- EN: Ahhh... Am I in heaven? -->
   <MasochistPain.stages.masochist_in_mindshattering_pain.description>Ahhh ... Är jag i himlen?</MasochistPain.stages.masochist_in_mindshattering_pain.description>
-  
+
   <!-- EN: night owl in daytime -->
   <NightOwlDuringTheDay.stages.night_owl_in_daytime.label>nattuggla under dagtid</NightOwlDuringTheDay.stages.night_owl_in_daytime.label>
   <!-- EN: I don't like working during the day. -->
   <NightOwlDuringTheDay.stages.night_owl_in_daytime.description>Jag gillar inte att arbeta dagtid.</NightOwlDuringTheDay.stages.night_owl_in_daytime.description>
-  
+
   <!-- EN: night owl at night -->
   <NightOwlDuringTheNight.stages.night_owl_at_night.label>nattuggla under nattetid</NightOwlDuringTheNight.stages.night_owl_at_night.label>
   <!-- EN: I feel much better at night. -->
   <NightOwlDuringTheNight.stages.night_owl_at_night.description>Jag mår så mycket bättre nattetid.</NightOwlDuringTheNight.stages.night_owl_at_night.description>
-  
+
   <!-- EN: transhumanist pleased -->
   <ProsthophileHappy.stages.transhumanist_pleased.label>prostetofil nöjd</ProsthophileHappy.stages.transhumanist_pleased.label>
   <!-- EN: This artificial part is cool. I want more. -->
@@ -134,16 +134,16 @@
   <ProsthophileHappy.stages.machine_body_is_complete.label>Maskinkropp komplett</ProsthophileHappy.stages.machine_body_is_complete.label>
   <!-- EN: I asked for this. -->
   <ProsthophileHappy.stages.machine_body_is_complete.description>Jag ville detta.</ProsthophileHappy.stages.machine_body_is_complete.description>
-  
+
   <!-- EN: transhumanist frustrated -->
   <ProsthophileNoProsthetic.stages.transhumanist_frustrated.label>prostetofil saknar bionisk kroppsdel</ProsthophileNoProsthetic.stages.transhumanist_frustrated.label>
   <!-- EN: Flesh is so limiting. I wish I had some kind of artificial body part. -->
   <ProsthophileNoProsthetic.stages.transhumanist_frustrated.description>Kött är så begränsande. Jag önskar att jag hade något slags konstgjord kroppsdel.</ProsthophileNoProsthetic.stages.transhumanist_frustrated.description>
-  
+
   <!-- EN: body purist squeamish -->
   <ProsthophobeUnhappy.stages.body_purist_squeamish.label>prostetofob kinkig</ProsthophobeUnhappy.stages.body_purist_squeamish.label>
   <!-- EN: I hate having this unnatural thing attached to me. It feels so filthy! -->
-  <ProsthophobeUnhappy.stages.body_purist_squeamish.description> Jag hatar att ha denna onaturliga sak fastsatt i mig. Det känns så smutsigt.</ProsthophobeUnhappy.stages.body_purist_squeamish.description>
+  <ProsthophobeUnhappy.stages.body_purist_squeamish.description>Jag hatar att ha denna onaturliga sak fastsatt i mig. Det känns så smutsigt.</ProsthophobeUnhappy.stages.body_purist_squeamish.description>
   <!-- EN: body purist disgusted -->
   <ProsthophobeUnhappy.stages.body_purist_disgusted.label>prostetofob äcklad</ProsthophobeUnhappy.stages.body_purist_disgusted.label>
   <!-- EN: Two artificial parts are sullying my natural, pure body. It makes me sick to think of it. -->
@@ -164,10 +164,10 @@
   <ProsthophobeUnhappy.stages.I_have_become_what_I_hate.label>Jag har blivit vad jag avskyr</ProsthophobeUnhappy.stages.I_have_become_what_I_hate.label>
   <!-- EN: I asked for the exact opposite of this! -->
   <ProsthophobeUnhappy.stages.I_have_become_what_I_hate.description>Jag frågade efter raka motsatsen!</ProsthophobeUnhappy.stages.I_have_become_what_I_hate.description>
-  
+
   <!-- EN: pyromaniac has incendiary weapon -->
   <PyromaniacHappy.stages.pyromaniac_has_incendiary_weapon.label>pyroman har eldvapen weapon</PyromaniacHappy.stages.pyromaniac_has_incendiary_weapon.label>
   <!-- EN: It makes me think of flame and fire. I'm so happy. -->
-  <PyromaniacHappy.stages.pyromaniac_has_incendiary_weapon.description> Det får mig att tänka på eld och lågor, jag är så glad.</PyromaniacHappy.stages.pyromaniac_has_incendiary_weapon.description>
-  
+  <PyromaniacHappy.stages.pyromaniac_has_incendiary_weapon.description>Det får mig att tänka på eld och lågor, jag är så glad.</PyromaniacHappy.stages.pyromaniac_has_incendiary_weapon.description>
+
 </LanguageData>

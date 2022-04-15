@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN:
     <li>r_art_name(p=4)->[Artwork] [Trans] [ConceptAny]</li>
     <li>r_art_name(p=4)->[maybe_a] [maybe_adjective] [Artwork]</li>
@@ -45,7 +45,7 @@
     <li>maybe_adjective->[Color]</li>
   -->
   <NamerArtCommon.rulePack.rulesStrings>TODO</NamerArtCommon.rulePack.rulesStrings>
-  
+
   <!-- EN:
     <li>r_art_name->[ConceptBadass]</li>
     <li>r_art_name->The [AnimalBadass]</li>
@@ -63,5 +63,5 @@
   <NamerArtWeapon.rulePack.rulesStrings>
     <li>TODO</li>
   </NamerArtWeapon.rulePack.rulesStrings>
-  
+
 </LanguageData>

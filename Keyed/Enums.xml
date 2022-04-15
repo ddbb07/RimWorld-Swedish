@@ -88,7 +88,7 @@
   <QualityCategoryShort_Masterwork>mäst</QualityCategoryShort_Masterwork>
   <!-- EN: legd -->
   <QualityCategoryShort_Legendary>legn</QualityCategoryShort_Legendary>
-  
+
   <!-- Hunger -->
   <!-- EN: Starving -->
   <HungerLevel_Starving>Svälter</HungerLevel_Starving>
@@ -120,7 +120,7 @@
   <Hilliness_Mountainous>bergigt</Hilliness_Mountainous>
   <!-- EN: impassable -->
   <Hilliness_Impassable>oframkomligt</Hilliness_Impassable>
-  
+
   <!-- Steam workshop interaction -->
   <!-- EN: Creating -->
   <WorkshopInteractStage_CreatingItem>Skapar</WorkshopInteractStage_CreatingItem>
@@ -144,7 +144,7 @@
   <ContentSource_LocalFolder>lokal mapp</ContentSource_LocalFolder>
   <!-- EN: Steam Workshop -->
   <ContentSource_SteamWorkshop>Steam Workshop</ContentSource_SteamWorkshop>
-  
+
   <!-- Medical care category -->
   <!-- EN: No medical care -->
   <MedicalCareCategory_NoCare>Ingen medicinsk vård</MedicalCareCategory_NoCare>
@@ -164,7 +164,7 @@
   <HostilityResponseMode_Attack>Attackera</HostilityResponseMode_Attack>
   <!-- EN: Flee -->
   <HostilityResponseMode_Flee>Fly</HostilityResponseMode_Flee>
-  
+
   <!-- HediffGrowthMode -->
   <!-- EN: growing -->
   <HediffGrowthMode_Growing>växer</HediffGrowthMode_Growing>
@@ -202,7 +202,7 @@
   <PawnGenerationContext_PlayerStarter>spelarens startkaraktärer</PawnGenerationContext_PlayerStarter>
   <!-- EN: non-player characters -->
   <PawnGenerationContext_NonPlayer>Ej spelbara karaktärer</PawnGenerationContext_NonPlayer>
-  
+
   <!-- Animal name display mode -->
   <!-- EN: Show animal names -->
   <ShowAnimalNames>Visa djurnamn</ShowAnimalNames>
@@ -210,7 +210,7 @@
   <AnimalNameDisplayMode_TameNamed>Tama (bara döpta)</AnimalNameDisplayMode_TameNamed>
   <!-- EN: Tame (all) -->
   <AnimalNameDisplayMode_TameAll>Tama (alla)</AnimalNameDisplayMode_TameAll>
-  
+
   <!-- Temperature -->
   <!-- EN: Celsius -->
   <Celsius>Celsius</Celsius>
@@ -218,7 +218,7 @@
   <Fahrenheit>Fahrenheit</Fahrenheit>
   <!-- EN: Kelvin -->
   <Kelvin>Kelvin</Kelvin>
-  
+
   <!-- Direction8Way -->
   <!-- EN: N -->
   <Direction8Way_North_Short>N</Direction8Way_North_Short>
@@ -236,7 +236,7 @@
   <Direction8Way_West_Short>V</Direction8Way_West_Short>
   <!-- EN: NW -->
   <Direction8Way_NorthWest_Short>NV</Direction8Way_NorthWest_Short>
-  
+
   <!-- Diet category -->
   <!-- EN: Never eats -->
   <DietCategory_NeverEats>Äter aldrig</DietCategory_NeverEats>

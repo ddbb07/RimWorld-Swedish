@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: alpaca -->
   <Alpaca.label>alpacka</Alpaca.label>
   <!-- EN: A medium-sized ungulate closely related to the llama, the alpaca is usually raised for its remarkably soft and insulating wool. Alpacas have also been used as pack animals since they hauled cargo on the rugged mountain trails of ancient South America -->
@@ -11,7 +11,7 @@
   <Alpaca.tools.right_hoof.label>höger klöv</Alpaca.tools.right_hoof.label>
   <!-- EN: head -->
   <Alpaca.tools.head.label>huvud</Alpaca.tools.head.label>
-  
+
   <!-- EN: chicken -->
   <Chicken.label>höns</Chicken.label>
   <!-- EN: The most traditional farm bird, the chicken is raised for its eggs and meat. It grows very quickly and lays eggs very often. -->
@@ -22,7 +22,7 @@
   <Chicken.tools.beak.label>näbb</Chicken.tools.beak.label>
   <!-- EN: head -->
   <Chicken.tools.head.label>huvud</Chicken.tools.head.label>
-  
+
   <!-- EN: cow -->
   <Cow.label>ko</Cow.label>
   <!-- EN: A large domesticated ungulate, cows have been bred for millennia to produce huge amounts of milk, meat, and leather. They are exceptionally gentle creatures and will never seek revenge, no matter how many times they are harmed. Most of them are so adapted to farm life that they cannot survive in the wild. -->
@@ -35,7 +35,7 @@
   <Cow.tools.left_hoof.label>vänster klöv</Cow.tools.left_hoof.label>
   <!-- EN: right hoof -->
   <Cow.tools.right_hoof.label>höger klöv</Cow.tools.right_hoof.label>
-  
+
   <!-- EN: pig -->
   <Pig.label>gris</Pig.label>
   <!-- EN: The pig was one of the first animals domesticated by humans. It is commonly raised for meat, and is easy to feed because of its omnivorous diet. Though pigs are self-serving by disposition, they can be trained in complex tasks. -->
@@ -44,5 +44,5 @@
   <Pig.race.meatLabel>skinka</Pig.race.meatLabel>
   <!-- EN: head -->
   <Pig.tools.head.label>huvud</Pig.tools.head.label>
-  
+
 </LanguageData>

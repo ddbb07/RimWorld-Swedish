@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN:
     <li>physical_description_root->This furniture is engraved with a [depiction] of [image]. [desc_sentence_group]</li>
     <li>physical_description_root->This furniture bears a [depiction] of [image]. [desc_sentence_group]</li>
@@ -11,7 +11,7 @@
     <li>physical_description_root->Denna möbel bär [depiction] av [image]. [desc_sentence_group]</li>
     <li>physical_description_root->Graveringen på denna möbel [depicts] [image]. [desc_sentence_group]</li>
   </ArtDescription_Furniture.rulePack.rulesStrings>
-  
+
   <!-- EN:
     <li>physical_description_root->The sarcophagus is engraved with a [depiction] of [image]. [desc_sentence_group]</li>
     <li>physical_description_root->The sarcophagus bears a [depiction] of [image]. [desc_sentence_group]</li>
@@ -23,7 +23,7 @@
     <li>physical_description_root->Denna sarkofag bär [depiction] av [image]. [desc_sentence_group]</li>
     <li>physical_description_root->Graveringen på denna möbel [depicts] [image]. [desc_sentence_group]</li>
   </ArtDescription_SarcophagusPlate.rulePack.rulesStrings>
-  
+
   <!-- EN:
     <li>physical_description_root->This [sculpture] [depicts] [image]. [desc_sentence_group]</li>
     <li>physical_description_root->This [sculpture] bears a [depiction] of [image]. [desc_sentence_group]</li>
@@ -42,7 +42,7 @@
     <li>sculpture->pjäs</li>
     <li>sculpture->snideri</li>
   </ArtDescription_Sculpture.rulePack.rulesStrings>
-  
+
   <!-- EN:
     <li>physical_description_root->This weapon is engraved with a [depiction] of [image]. [desc_sentence_group]</li>
     <li>physical_description_root->This weapon bears a [depiction] of [image]. [desc_sentence_group]</li>
@@ -53,7 +53,7 @@
     <li>physical_description_root->Detta vapen bär [depiction] av [image]. [desc_sentence_group]</li>
     <li>physical_description_root->Gravyren på detta vapen [depicts] [image]. [desc_sentence_group]</li>
   </ArtDescription_WeaponGun.rulePack.rulesStrings>
-  
+
   <!-- EN:
     <li>physical_description_root->This weapon is engraved with a [depiction] of [image]. [desc_sentence_group]</li>
     <li>physical_description_root->This weapon bears a [depiction] of [image]. [desc_sentence_group]</li>
@@ -64,5 +64,5 @@
     <li>physical_description_root->Detta vapen bär [depiction] av [image]. [desc_sentence_group]</li>
     <li>physical_description_root->Gravyren på detta vapen [depicts] [image]. [desc_sentence_group]</li>
   </ArtDescription_WeaponMelee.rulePack.rulesStrings>
-  
+
 </LanguageData>

@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: awful hospital -->
   <HospitalPatientRoomStats.stages.awful_hospital.label>fruktansvärt sjukhus</HospitalPatientRoomStats.stages.awful_hospital.label>
   <!-- EN: This hospital is awful. -->
@@ -33,7 +33,7 @@
   <HospitalPatientRoomStats.stages.wondrously_impressive_hospital.label>underbart imponerande sjukhus</HospitalPatientRoomStats.stages.wondrously_impressive_hospital.label>
   <!-- EN: My hospital is wonderful! It makes me feel better already. -->
   <HospitalPatientRoomStats.stages.wondrously_impressive_hospital.description>Min sjukhus är underbart! Det får mig att må bättre redan.</HospitalPatientRoomStats.stages.wondrously_impressive_hospital.description>
-  
+
   <!-- EN: awful barrack -->
   <PrisonBarracks.stages.awful_barrack.label>fruktansvärd kasern</PrisonBarracks.stages.awful_barrack.label>
   <!-- EN: My prison barrack is an awful place. -->
@@ -66,7 +66,7 @@
   <PrisonBarracks.stages.wondrously_impressive_barrack.label>underbart imponerande kasern</PrisonBarracks.stages.wondrously_impressive_barrack.label>
   <!-- EN: My prison barrack is wonderful! I can't believe they are keeping me in a place like this. -->
   <PrisonBarracks.stages.wondrously_impressive_barrack.description>Min fängelsekasern är underbar! Jag kan inte tro att de håller mig i ett sådant här ställe.</PrisonBarracks.stages.wondrously_impressive_barrack.description>
-  
+
   <!-- EN: awful prison cell -->
   <PrisonCell.stages.awful_prison_cell.label>fruktansvärd fängelsecell</PrisonCell.stages.awful_prison_cell.label>
   <!-- EN: My prison cell is an awful place. -->
@@ -99,5 +99,5 @@
   <PrisonCell.stages.wondrously_impressive_prison_cell.label>underbart imponerande fängelsecell</PrisonCell.stages.wondrously_impressive_prison_cell.label>
   <!-- EN: My prison cell is the best place one can ever imagine. I can stay here forever. -->
   <PrisonCell.stages.wondrously_impressive_prison_cell.description>Min fängelsecell är den bästa platsen man kan någonsin föreställa sig. Jag kan stanna här för evigt.</PrisonCell.stages.wondrously_impressive_prison_cell.description>
-  
+
 </LanguageData>

@@ -68,7 +68,7 @@
   <Average>Medel</Average>
 
   <!-- Content generation-->
-  
+
   <!-- EN: {0} meat -->
   <MeatLabel>{0} kött</MeatLabel>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
@@ -115,14 +115,14 @@
   <SomeonesRoom>{PAWN_labelShort}s {1}</SomeonesRoom>
   <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort}'s {2} -->
   <CouplesRoom>{PAWN1_labelShort} och {PAWN2_labelShort}s {2}</CouplesRoom>
-  
+
   <!-- EN: (various) -->
   <VariousLabel>(diverse)</VariousLabel>
 
   <!-- History events -->
   <!-- EN: Colonist died -->
   <ColonistDied>Kolonist dog</ColonistDied>
-  
+
   <!-- Rotation -->
   <!-- EN: North -->
   <North>Norr</North>
@@ -132,5 +132,5 @@
   <West>Väster</West>
   <!-- EN: East -->
   <East>Öster</East>
-  
+
 </LanguageData>

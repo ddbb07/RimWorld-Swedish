@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN:
     <li>r_name(p=3)->[nearnameinitial]</li>
     <li>r_name->[nearnameinitial] [political_union_outlander]</li>
@@ -13,7 +13,7 @@
   <NamerFactionOutlander.rulePack.rulesStrings>
     <li>TODO</li>
   </NamerFactionOutlander.rulePack.rulesStrings>
-  
+
   <!-- EN:
     <li>r_name->The [AnimalBadass]s</li>
     <li>r_name->The [AnimalBadass] Men</li>
@@ -46,7 +46,7 @@
   <NamerFactionPirate.rulePack.rulesStrings>
     <li>TODO</li>
   </NamerFactionPirate.rulePack.rulesStrings>
-  
+
   <!-- EN:
     <li>r_name->[tribalworld] [political_union_tribal]</li>
     <li>r_name->The [tribalworld] [political_union_tribal]</li>
@@ -58,21 +58,21 @@
   <NamerFactionTribal.rulePack.rulesStrings>
     <li>TODO</li>
   </NamerFactionTribal.rulePack.rulesStrings>
-  
+
   <!-- EN:
     <li>r_name->Colony</li>
   -->
   <NamerInitialSettlementColony.rulePack.rulesStrings>
     <li>name->Sanhälle</li>
   </NamerInitialSettlementColony.rulePack.rulesStrings>
-  
+
   <!-- EN:
     <li>r_name->Village</li>
   -->
   <NamerInitialSettlementTribe.rulePack.rulesStrings>
     <li>name->By</li>
   </NamerInitialSettlementTribe.rulePack.rulesStrings>
-  
+
   <!-- EN:
     <li>r_name(p=12)->[townname_wordgen]</li>
     <li>r_name(p=6)->[townname_fixed]</li>
@@ -128,7 +128,7 @@
   <NamerSettlementOutlander.rulePack.rulesStrings>
     <li>TODO</li>
   </NamerSettlementOutlander.rulePack.rulesStrings>
-  
+
   <!-- EN:
     <li>r_name(p=4)->[townname_combo]</li>
     <li>r_name->[townname_wordgen]</li>
@@ -174,7 +174,7 @@
   <NamerSettlementPirate.rulePack.rulesStrings>
     <li>TODO</li>
   </NamerSettlementPirate.rulePack.rulesStrings>
-  
+
   <!-- EN:
     <li>r_name(p=2)->[WordTribal]</li>
     <li>r_name->[Color] [WordTribal]</li>
@@ -184,5 +184,5 @@
   <NamerSettlementTribal.rulePack.rulesStrings>
     <li>TODO</li>
   </NamerSettlementTribal.rulePack.rulesStrings>
-  
+
 </LanguageData>

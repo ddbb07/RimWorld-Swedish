@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: manhunter pack -->
   <Manhunters.label>människojagande flock</Manhunters.label>
   <!-- EN: A pack of manhunting animals. -->
@@ -8,7 +8,7 @@
   <!-- EN: There are manhunting animals in this area. -->
   <Manhunters.arrivedLetter>Det finns människojagande djur i detta område.</Manhunters.arrivedLetter>
   <!-- EN: there is a group of {0} manhunting {1} wandering nearby -->
-  <Manhunters.descriptionDialogue>det finns en grupp {0} som människojagar {1} som vandrar i närheten </Manhunters.descriptionDialogue>
+  <Manhunters.descriptionDialogue>det finns en grupp {0} som människojagar {1} som vandrar i närheten</Manhunters.descriptionDialogue>
 
-  
+
 </LanguageData>

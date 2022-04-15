@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: animal chat -->
   <AnimalChat.label>samtala med djur</AnimalChat.label>
   <!-- EN:
@@ -51,7 +51,7 @@
     <li>tamed->satt tålmodigt nära</li>
     <li>tamed->viskade en berättelse om [TalkTopicAny] för</li>
   </AnimalChat.logRulesInitiator.rulesStrings>
-  
+
   <!-- EN: nuzzle -->
   <Nuzzle.label>nosgos</Nuzzle.label>
   <!-- EN:
@@ -106,7 +106,7 @@
     <li>rubbedpart->sida</li>
     <li>rubbedpart->arm</li>
   </Nuzzle.logRulesInitiator.rulesStrings>
-  
+
   <!-- EN: tame attempt -->
   <TameAttempt.label>tämjningsförsök</TameAttempt.label>
   <!-- EN:
@@ -143,7 +143,7 @@
     <li>r_logentry->[INITIATOR_nameDef] pekade på marken och krävde att [RECIPIENT_nameDef] kom.</li>
     <li>r_logentry->[INITIATOR_nameDef] gav [RECIPIENT_nameDef] ett första kommando.</li>
   </TameAttempt.logRulesInitiator.rulesStrings>
-  
+
   <!-- EN: train attempt -->
   <TrainAttempt.label>träningsförsök</TrainAttempt.label>
   <!-- EN:
@@ -170,6 +170,6 @@
     <li>tried->prövade</li>
     <li>tried->försökte</li>
   </TrainAttempt.logRulesInitiator.rulesStrings>
-  
-  
+
+
 </LanguageData>

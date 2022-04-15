@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: cassowary -->
   <Cassowary.label>kasuar</Cassowary.label>
   <Cassowary.labelFemale>kasuarhöna</Cassowary.labelFemale>
@@ -27,7 +27,7 @@
   <Cassowary.lifeStages.2.labelMale>kasuar</Cassowary.lifeStages.2.labelMale>
   <Cassowary.lifeStages.2.labelMalePlural>kasuarer</Cassowary.lifeStages.2.labelMalePlural>
   <Cassowary.lifeStages.2.labelPlural>kasuarer</Cassowary.lifeStages.2.labelPlural>
-  
+
   <!-- EN: emu -->
   <Emu.label>emu</Emu.label>
   <Emu.labelFemale>emuhöna</Emu.labelFemale>
@@ -53,7 +53,7 @@
   <Emu.lifeStages.2.labelMale>emu</Emu.lifeStages.2.labelMale>
   <Emu.lifeStages.2.labelMalePlural>emuer</Emu.lifeStages.2.labelMalePlural>
   <Emu.lifeStages.2.labelPlural>emuer</Emu.lifeStages.2.labelPlural>
-  
+
   <!-- EN: ostrich -->
   <Ostrich.label>struts</Ostrich.label>
   <Ostrich.labelFemale>strutshona</Ostrich.labelFemale>
@@ -80,7 +80,7 @@
   <Ostrich.lifeStages.2.labelMale>struts</Ostrich.lifeStages.2.labelMale>
   <Ostrich.lifeStages.2.labelMalePlural>strutsar</Ostrich.lifeStages.2.labelMalePlural>
   <Ostrich.lifeStages.2.labelPlural>strutsar</Ostrich.lifeStages.2.labelPlural>
-  
+
   <!-- EN: turkey -->
   <Turkey.label>kalkon</Turkey.label>
   <Turkey.labelFemale>kalkonhona</Turkey.labelFemale>
@@ -106,5 +106,5 @@
   <Turkey.lifeStages.2.labelMale>kalkon</Turkey.lifeStages.2.labelMale>
   <Turkey.lifeStages.2.labelMalePlural>kalkoner</Turkey.lifeStages.2.labelMalePlural>
   <Turkey.lifeStages.2.labelPlural>kalkoner</Turkey.lifeStages.2.labelPlural>
-  
+
 </LanguageData>

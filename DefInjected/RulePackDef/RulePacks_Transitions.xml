@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN:
     <li>die(p=2)->die</li>
     <li>die->perish</li>
@@ -15,7 +15,7 @@
     <li>died(subject_flesh==Mechanoid)->stopped functioning</li>
   -->
   <Transition_Died.rulePack.rulesStrings>TODO</Transition_Died.rulePack.rulesStrings>
-  
+
   <!-- EN:
     <li>die(p=3)->explode [flavor]</li>
     <li>die(p=3)->explode [flavorsuffix]</li>
@@ -46,7 +46,7 @@
     <li>everywhere->far and wide</li>
   -->
   <Transition_DiedExplosive.rulePack.rulesStrings>TODO</Transition_DiedExplosive.rulePack.rulesStrings>
-  
+
   <!-- EN:
     <li>r_logentry(p=1.5)->[CULPRITHEDIFF_labelNoun] caused [SUBJECT_definite] to [die].</li>
     <li>r_logentry(p=1.5)->[CULPRITHEDIFF_labelNounPretty] caused [SUBJECT_definite] to [die].</li>
@@ -56,7 +56,7 @@
     <li>r_logentry->[SUBJECT_definite] [died] [flavorsuffix].</li>
   -->
   <Transition_DiedInclude.rulePack.rulesStrings>TODO</Transition_DiedInclude.rulePack.rulesStrings>
-  
+
   <!-- EN:
     <li>r_logentry->[CULPRITHEDIFF_labelNoun] caused [SUBJECT_definite] to [collapsemeta].</li>
     <li>r_logentry->[CULPRITHEDIFF_labelNounPretty] caused [SUBJECT_definite] to [collapsemeta].</li>
@@ -89,12 +89,12 @@
     <li>collapsedmeta(p=0.5)->[collapsed] [helplessly]</li>
   -->
   <Transition_Downed.rulePack.rulesStrings>TODO</Transition_Downed.rulePack.rulesStrings>
-  
+
   <!-- EN:
     <li>duetoa->due to</li>
     <li>duetoa(p=0.5)->because of</li>
     <li>duetoa(p=0.5)->thanks to</li>
   -->
   <Transition_Include.rulePack.rulesStrings>TODO</Transition_Include.rulePack.rulesStrings>
-  
+
 </LanguageData>

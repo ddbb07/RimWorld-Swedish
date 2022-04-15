@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: ancient concrete barrier -->
   <AncientConcreteBarrier.label>uråldrig betongbarriär</AncientConcreteBarrier.label>
   <!-- EN: A traffic management solution from long ago. -->
   <AncientConcreteBarrier.description>En trafikledningslösning från mycket länge sedan.</AncientConcreteBarrier.description>
-  
+
   <!-- EN: ancient lamppost -->
   <AncientLamppost.label>uråldrig lyktstolpe</AncientLamppost.label>
   <!-- EN: Road lighting from long ago. No longer functional. -->
   <AncientLamppost.description>Vägbelysning från mycket länge sendan. Går ej att använda längre.</AncientLamppost.description>
-  
+
 </LanguageData>

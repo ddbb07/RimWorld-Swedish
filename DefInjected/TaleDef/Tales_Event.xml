@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: collapse dodged -->
   <CollapseDodged.label>TODO</CollapseDodged.label>
   <!-- EN:
@@ -19,7 +19,7 @@
     <li>desc_sentence->[PAWN_pronoun] has lost [PAWN_possessive] balance.</li>
   -->
   <CollapseDodged.rulePack.rulesStrings>TODO</CollapseDodged.rulePack.rulesStrings>
-  
+
   <!-- EN: launched ship -->
   <LaunchedShip.label>TODO</LaunchedShip.label>
   <!-- EN:
@@ -46,7 +46,7 @@
     <li>desc_sentence->A [PersonJob] watches silently from afar.</li>
   -->
   <LaunchedShip.rulePack.rulesStrings>TODO</LaunchedShip.rulePack.rulesStrings>
-  
+
   <!-- EN: social fight -->
   <SocialFight.label>TODO</SocialFight.label>
   <!-- EN:
@@ -83,5 +83,5 @@
     <li>target->[RESPONDER_nameDef]</li>
   -->
   <SocialFight.rulePack.rulesStrings>TODO</SocialFight.rulePack.rulesStrings>
-  
+
 </LanguageData>

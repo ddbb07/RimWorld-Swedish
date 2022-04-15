@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: became lover -->
   <BecameLover.label>blev älskare</BecameLover.label>
   <!-- EN:
@@ -37,7 +37,7 @@
     <li>desc_sentence->[firstPawn_nameShortDef] är en nära-spegelbilden av [secondPawn_nameShortDef].</li>
     <li>desc_sentence->[firstPawn_nameShortDef] rör [secondPawn_nameShortDef] aggressivt.</li>
   </BecameLover.rulePack.rulesStrings>
-  
+
   <!-- EN: bond developed -->
   <BondedWithAnimal.label>band utvecklat</BondedWithAnimal.label>
   <!-- EN:
@@ -66,7 +66,7 @@
     <li>desc_sentence->[animal_nameShortDef] står högt och ser ädel ut.</li>
     <li>desc_sentence->[animal_nameShortDef] svarar positivt.</li>
   </BondedWithAnimal.rulePack.rulesStrings>
-  
+
   <!-- EN: breakup -->
   <Breakup.label>TODO</Breakup.label>
   <!-- EN:
@@ -101,7 +101,7 @@
     <li>desc_sentence->[secondPawn_nameShortDef] har kollapsat på golvet i en skälvande hög.</li>
     <li>desc_sentence->[secondPawn_nameShortDef] gestikulerade ilsket åt [firstPawn_nameShortDef].</li>
   </Breakup.rulePack.rulesStrings>
-  
+
   <!-- EN: marriage -->
   <Marriage.label>bröllop</Marriage.label>
   <!-- EN:
@@ -136,5 +136,5 @@
     <li>desc_sentence->[firstPawn_nameShortDef] är en nära-spegelbilden av [secondPawn_nameShortDef].</li>
     <li>desc_sentence->[firstPawn_nameShortDef] rör [secondPawn_nameShortDef] aggressivt.</li>
   </Marriage.rulePack.rulesStrings>
-  
+
 </LanguageData>

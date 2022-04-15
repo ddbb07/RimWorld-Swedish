@@ -2,7 +2,7 @@
 <LanguageData>
 
   <!-- ======================== Non-grouped ========================-->
-  
+
   <!-- EN: Your faction will be a {0}. -->
   <ScenPart_PlayerFaction>Din grupp kommer att vara en {0}.</ScenPart_PlayerFaction>
 
@@ -15,7 +15,7 @@
 
   <!-- EN: Start with research: {0} -->
   <ScenPart_StartingResearchFinished>Börja med forskning: {0}</ScenPart_StartingResearchFinished>
-  
+
   <!-- EN: Arrive in drop pods. -->
   <ScenPart_ArriveInDropPods>Anländer i räddningskapsel.</ScenPart_ArriveInDropPods>
 
@@ -39,7 +39,7 @@
   <ScenPart_OnPawnDeathExplode>Karaktärer och varelser exploderar när de dör ({0}, radie {1}).</ScenPart_OnPawnDeathExplode>
   <!-- EN: {0} start naked. -->
   <ScenPart_PawnsAreNaked>{0} börja naken.</ScenPart_PawnsAreNaked>
-  
+
   <!-- Pawn filters -->
   <!-- EN: Your people will be at least {0} years old. -->
   <ScenPart_StartingPawnAgeMin>Dina personer kommer att vara minst {0} år gamala.</ScenPart_StartingPawnAgeMin>

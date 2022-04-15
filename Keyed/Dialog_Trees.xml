@@ -45,8 +45,8 @@
   <!-- EN: {0} sends the requested information and wishes you good luck. -->
   <RequestAICoreInformationResult>{0} skickar den begärda informationen och önskar dig lycka till.</RequestAICoreInformationResult>
   <!-- EN: no more locations known -->
-  <NoKnownAICore>inga fler kända platser</NoKnownAICore>  
-  
+  <NoKnownAICore>inga fler kända platser</NoKnownAICore>
+
   <!-- Military aid request -->
   <!-- EN: Request immediate military aid (cost: {0} goodwill) -->
   <RequestMilitaryAid>Efterfråga ett omdelbart militärt understöd (kostar: {0} välvilja)</RequestMilitaryAid>

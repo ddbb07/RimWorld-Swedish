@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN:
     <li>r_seed(p=3)->[NamePerson]</li>
     <li>r_seed->[Animal]</li>
@@ -22,5 +22,5 @@
   <SeedGenerator.rulePack.rulesStrings>
     <li>TODO</li>
   </SeedGenerator.rulePack.rulesStrings>
-  
+
 </LanguageData>

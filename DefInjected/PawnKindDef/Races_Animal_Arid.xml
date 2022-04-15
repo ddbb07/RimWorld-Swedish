@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: dromedary -->
   <Dromedary.label>dromedar</Dromedary.label>
   <Dromedary.labelFemale>dromedarhona</Dromedary.labelFemale>
@@ -29,7 +29,7 @@
   <Dromedary.lifeStages.2.labelMale>dromedarkalv</Dromedary.lifeStages.2.labelMale>
   <Dromedary.lifeStages.2.labelMalePlural>dromedarkalvar</Dromedary.lifeStages.2.labelMalePlural>
   <Dromedary.lifeStages.2.labelPlural>dromedarkalvar</Dromedary.lifeStages.2.labelPlural>
-  
+
   <!-- EN: gazelle -->
   <Gazelle.label>gazell</Gazelle.label>
   <Gazelle.labelFemale>gazellhona</Gazelle.labelFemale>
@@ -55,7 +55,7 @@
   <Gazelle.lifeStages.2.labelMale>gazellhane</Gazelle.lifeStages.2.labelMale>
   <Gazelle.lifeStages.2.labelMalePlural>gazellhanar</Gazelle.lifeStages.2.labelMalePlural>
   <Gazelle.lifeStages.2.labelPlural>gazeller</Gazelle.lifeStages.2.labelPlural>
-  
+
   <!-- EN: iguana -->
   <Iguana.label>leguan</Iguana.label>
   <Iguana.labelFemale>leguanhona</Iguana.labelFemale>
@@ -81,7 +81,7 @@
   <Iguana.lifeStages.2.labelMale>leguanhane</Iguana.lifeStages.2.labelMale>
   <Iguana.lifeStages.2.labelMalePlural>legoanhanar</Iguana.lifeStages.2.labelMalePlural>
   <Iguana.lifeStages.2.labelPlural>leguaner</Iguana.lifeStages.2.labelPlural>
-  
+
   <!-- EN: muffalo -->
   <Muffalo.label>muffel</Muffalo.label>
   <Muffalo.labelFemale>muffelhona</Muffalo.labelFemale>
@@ -109,5 +109,5 @@
   <Muffalo.lifeStages.2.labelMale>muffelkalv</Muffalo.lifeStages.2.labelMale>
   <Muffalo.lifeStages.2.labelMalePlural>muffelkalvar</Muffalo.lifeStages.2.labelMalePlural>
   <Muffalo.lifeStages.2.labelPlural>muffelkalvar</Muffalo.lifeStages.2.labelPlural>
-  
+
 </LanguageData>

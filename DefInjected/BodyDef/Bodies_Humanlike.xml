@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: human -->
   <Human.label>människa</Human.label>
   <!-- EN: left lung -->
@@ -99,5 +99,5 @@
   <Human.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>höger andra tå</Human.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>
   <!-- EN: right big toe -->
   <Human.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>höger stortå</Human.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>
-  
+
 </LanguageData>

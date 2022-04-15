@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: person captured -->
   <Captured.label>person fångad</Captured.label>
   <!-- EN:
@@ -31,10 +31,10 @@
   <Captured.rulePack.rulesStrings>
     <li>TODO</li>
   </Captured.rulePack.rulesStrings>
-  
+
   <!-- EN: defeated hostile leader -->
   <DefeatedHostileFactionLeader.label>TODO</DefeatedHostileFactionLeader.label>
-  
+
   <!-- EN: surgery performed -->
   <DidSurgery.label>operation utförd</DidSurgery.label>
   <!-- EN:
@@ -56,7 +56,7 @@
   <DidSurgery.rulePack.rulesStrings>
     <li>TODO</li>
   </DidSurgery.rulePack.rulesStrings>
-  
+
   <!-- EN: prisoner executed -->
   <ExecutedPrisoner.label>fånge avrättad</ExecutedPrisoner.label>
   <!-- EN:
@@ -91,7 +91,7 @@
   <ExecutedPrisoner.rulePack.rulesStrings>
     <li>TODO</li>
   </ExecutedPrisoner.rulePack.rulesStrings>
-  
+
   <!-- EN: animal hunted -->
   <Hunted.label>djur jagad</Hunted.label>
   <!-- EN:
@@ -111,7 +111,7 @@
   <Hunted.rulePack.rulesStrings>
     <li>TODO</li>
   </Hunted.rulePack.rulesStrings>
-  
+
   <!-- EN: colonist kidnapped -->
   <KidnappedColonist.label>kolonist kidnappad</KidnappedColonist.label>
   <!-- EN:
@@ -138,7 +138,7 @@
   <KidnappedColonist.rulePack.rulesStrings>
     <li>TODO</li>
   </KidnappedColonist.rulePack.rulesStrings>
-  
+
   <!-- EN: death -->
   <KilledBy.label>TODO</KilledBy.label>
   <!-- EN:
@@ -172,13 +172,13 @@
   <KilledBy.rulePack.rulesStrings>
     <li>TODO</li>
   </KilledBy.rulePack.rulesStrings>
-  
+
   <!-- EN: colonist killed -->
   <KilledColonist.label>kolonist dödad</KilledColonist.label>
-  
+
   <!-- EN: colony animal killed -->
   <KilledColonyAnimal.label>kolonidjur dödat</KilledColonyAnimal.label>
-  
+
   <!-- EN: person recruited -->
   <Recruited.label>person rekryterad</Recruited.label>
   <!-- EN:
@@ -201,7 +201,7 @@
   <Recruited.rulePack.rulesStrings>
     <li>TODO</li>
   </Recruited.rulePack.rulesStrings>
-  
+
   <!-- EN: prisoner sold -->
   <SoldPrisoner.label>fånge såld</SoldPrisoner.label>
   <!-- EN:
@@ -229,7 +229,7 @@
   <SoldPrisoner.rulePack.rulesStrings>
     <li>TODO</li>
   </SoldPrisoner.rulePack.rulesStrings>
-  
+
   <!-- EN: animal tamed -->
   <TamedAnimal.label>djur tämjt</TamedAnimal.label>
   <!-- EN:
@@ -252,7 +252,7 @@
   <TamedAnimal.rulePack.rulesStrings>
     <li>TODO</li>
   </TamedAnimal.rulePack.rulesStrings>
-  
+
   <!-- EN: traded with someone -->
   <TradedWith.label>handla med någon</TradedWith.label>
   <!-- EN:
@@ -273,7 +273,7 @@
   <TradedWith.rulePack.rulesStrings>
     <li>TODO</li>
   </TradedWith.rulePack.rulesStrings>
-  
+
   <!-- EN: animal trained -->
   <TrainedAnimal.label>djur tränat</TrainedAnimal.label>
   <!-- EN:
@@ -313,5 +313,5 @@
   <TrainedAnimal.rulePack.rulesStrings>
     <li>TODO</li>
   </TrainedAnimal.rulePack.rulesStrings>
-  
+
 </LanguageData>

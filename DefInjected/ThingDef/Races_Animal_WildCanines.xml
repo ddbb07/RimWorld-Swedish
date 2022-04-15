@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: arctic fox -->
   <Fox_Arctic.label>fjällräv</Fox_Arctic.label>
   <!-- EN: A small predator adapted for cold climates. It usually hunts small game like mice and voles, sometimes burrowing through a meter of snow to reach its prey. -->
@@ -11,11 +11,11 @@
   <Fox_Arctic.tools.right_claw.label>höger klo</Fox_Arctic.tools.right_claw.label>
   <!-- EN: head -->
   <Fox_Arctic.tools.head.label>huvud</Fox_Arctic.tools.head.label>
-  
+
   <!-- EN: fennec fox -->
   <Fox_Fennec.label>fennec</Fox_Fennec.label>
   <!-- EN: A small fox originally from the northern part of Earth's Africa continent. It hunts small creatures and has very large ears for cooling itself in the heat. -->
-  <Fox_Fennec.description> En liten räv med ursprung från den norra delen av jordens afrikanska kontinent. Den jagar små varelser och har mycket stora öron för att kyla ned sig i värmen</Fox_Fennec.description>
+  <Fox_Fennec.description>En liten räv med ursprung från den norra delen av jordens afrikanska kontinent. Den jagar små varelser och har mycket stora öron för att kyla ned sig i värmen</Fox_Fennec.description>
   <!-- EN: foxmeat -->
   <Fox_Fennec.race.meatLabel>rävkött</Fox_Fennec.race.meatLabel>
   <!-- EN: left claw -->
@@ -24,18 +24,18 @@
   <Fox_Fennec.tools.right_claw.label>höger klo</Fox_Fennec.tools.right_claw.label>
   <!-- EN: head -->
   <Fox_Fennec.tools.head.label>huvud</Fox_Fennec.tools.head.label>
-  
+
   <!-- EN: red fox -->
   <Fox_Red.label>rödräv</Fox_Red.label>
   <!-- EN: A small solitary canine evolved for hunting small prey in temperate climates. Chicken farmers hate foxes because of their ability to destroy a whole coop in minutes. -->
-  <Fox_Red.description> Ett ensamjagande litet hunddjur utvecklat för att jaga små byten i tempererade klimat. Hönsägare ogillar rävar på grund av deras förmåga att förstöra ett helt hönshus på några få minuter.</Fox_Red.description>
+  <Fox_Red.description>Ett ensamjagande litet hunddjur utvecklat för att jaga små byten i tempererade klimat. Hönsägare ogillar rävar på grund av deras förmåga att förstöra ett helt hönshus på några få minuter.</Fox_Red.description>
   <!-- EN: left claw -->
   <Fox_Red.tools.left_claw.label>vänster klo</Fox_Red.tools.left_claw.label>
   <!-- EN: right claw -->
   <Fox_Red.tools.right_claw.label>höger klo</Fox_Red.tools.right_claw.label>
   <!-- EN: head -->
   <Fox_Red.tools.head.label>huvud</Fox_Red.tools.head.label>
-  
+
   <!-- EN: warg -->
   <Warg.label>jättevarg</Warg.label>
   <!-- EN: Heavily-muscled wolf-like creatures with vicious unnatural claws and an absurdly powerful bite. They will only eat meat or corpses. If disturbed in the wild, they are very likely to attack.\n\nScientists say wargs are the descendants of weaponized military animals created for population suppression. The superstitious see them as the tools of an angry god. -->
@@ -48,7 +48,7 @@
   <Warg.tools.razorfangs.label>rakbladständer</Warg.tools.razorfangs.label>
   <!-- EN: head -->
   <Warg.tools.head.label>huvud</Warg.tools.head.label>
-  
+
   <!-- EN: arctic wolf -->
   <Wolf_Arctic.label>polarvarg</Wolf_Arctic.label>
   <!-- EN: An arctic variant of the old Earth wolf. As pack hunters, wolves have a complex social life and are fiercely intelligent. -->
@@ -59,7 +59,7 @@
   <Wolf_Arctic.tools.right_claw.label>höger klo</Wolf_Arctic.tools.right_claw.label>
   <!-- EN: head -->
   <Wolf_Arctic.tools.head.label>huvud</Wolf_Arctic.tools.head.label>
-  
+
   <!-- EN: timber wolf -->
   <Wolf_Timber.label>varg</Wolf_Timber.label>
   <!-- EN: A rugged predator long feared by many ancient Earth cultures. As pack hunters, wolves have complex social lives and are fiercely intelligent. -->
@@ -72,5 +72,5 @@
   <Wolf_Timber.tools.right_claw.label>höger klo</Wolf_Timber.tools.right_claw.label>
   <!-- EN: head -->
   <Wolf_Timber.tools.head.label>huvud</Wolf_Timber.tools.head.label>
-  
+
 </LanguageData>

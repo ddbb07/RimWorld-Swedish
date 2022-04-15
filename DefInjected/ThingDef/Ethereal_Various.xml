@@ -1,22 +1,22 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: blight -->
   <Blight.label>mjöldagg</Blight.label>
-  
+
   <!-- EN: explosion -->
   <Explosion.label>explosion</Explosion.label>
-  
+
   <!-- EN: rect trigger -->
   <RectTrigger.label>avtryckare</RectTrigger.label>
-  
+
   <!-- EN: tornado -->
   <Tornado.label>tornado</Tornado.label>
-  
+
   <!-- EN: trigger unfogged -->
   <TriggerUnfogged.label>utlösare oskyddad</TriggerUnfogged.label>
-  
+
   <!-- EN: tunnel -->
   <TunnelHiveSpawner.label>tunnel</TunnelHiveSpawner.label>
-  
+
 </LanguageData>

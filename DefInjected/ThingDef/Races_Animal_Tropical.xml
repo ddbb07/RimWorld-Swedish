@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: boomalope -->
   <Boomalope.label>bombalomp</Boomalope.label>
   <!-- EN: Engineered for chemicals production, the boomalope grows a large sac of volatile chemicals on its back. Though it is weak and fragile for its size, other animals have learned to avoid it because of the huge explosion it produces when it dies. It can be milked to produce chemfuel - very carefully. -->
-  <Boomalope.description>Konstruerad för kemikalisk produktion, bombalompen  låter en stor säck av flyktiga kemikalier på ryggen. Även om det är svaga och bräcklig för sin storlek har andra djur lärt sig att undvika det på grund av den stora explosionen den orsakar när den dör. Den kan mjölkas för att producera kembränsle - mycket försiktigt.</Boomalope.description>
+  <Boomalope.description>Konstruerad för kemikalisk produktion, bombalompen låter en stor säck av flyktiga kemikalier på ryggen. Även om det är svaga och bräcklig för sin storlek har andra djur lärt sig att undvika det på grund av den stora explosionen den orsakar när den dör. Den kan mjölkas för att producera kembränsle - mycket försiktigt.</Boomalope.description>
   <!-- EN: head -->
   <Boomalope.tools.head.label>huvud</Boomalope.tools.head.label>
   <!-- EN: left hoof -->
   <Boomalope.tools.left_hoof.label>vänster hov</Boomalope.tools.left_hoof.label>
   <!-- EN: right hoof -->
   <Boomalope.tools.right_hoof.label>höger hov</Boomalope.tools.right_hoof.label>
-  
+
   <!-- EN: cobra -->
   <Cobra.label>kobra</Cobra.label>
   <!-- EN: A large predatory snake. Cobras can be highly aggressive if provoked, and their bite injects toxic venom into the victim. -->
@@ -22,7 +22,7 @@
   <Cobra.tools.venomfangs.label>gifttänder</Cobra.tools.venomfangs.label>
   <!-- EN: head -->
   <Cobra.tools.head.label>huvud</Cobra.tools.head.label>
-  
+
   <!-- EN: monkey -->
   <Monkey.label>apa</Monkey.label>
   <!-- EN: A small primate, the monkey can use its curly tail to grab on to branches, leaving its hands free to do other things. Monkeys are selfish but clever, and can be trained to carry out fairly complex tasks. -->
@@ -33,5 +33,5 @@
   <Monkey.tools.right_fist.label>höger näve</Monkey.tools.right_fist.label>
   <!-- EN: head -->
   <Monkey.tools.head.label>huvud</Monkey.tools.head.label>
-  
+
 </LanguageData>

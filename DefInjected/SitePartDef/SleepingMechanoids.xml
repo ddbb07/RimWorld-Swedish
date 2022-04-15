@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: sleeping mechanoids -->
   <SleepingMechanoids.label>sovande mekanoider</SleepingMechanoids.label>
   <!-- EN: A group of sleeping mechanoids. -->
@@ -10,5 +10,5 @@
   <!-- EN: there are {0} sleeping mechanoids in the area -->
   <SleepingMechanoids.descriptionDialogue>Det finns {0} sovande mekanoider i området.</SleepingMechanoids.descriptionDialogue>
 
-  
+
 </LanguageData>

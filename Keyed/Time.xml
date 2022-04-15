@@ -9,7 +9,7 @@
   <LetterMinute>m</LetterMinute>
   <!-- EN: s -->
   <LetterSecond>s</LetterSecond>
-  
+
   <!-- EN: days -->
   <DaysLower>dagar</DaysLower>
   <!-- EN: seconds -->
@@ -36,7 +36,7 @@
   <QuadrumSeptober>Septober</QuadrumSeptober>
   <!-- EN: Decembary -->
   <QuadrumDecembary>Decembruari</QuadrumDecembary>
-  
+
   <!-- EN: Born: {0} -->
   <Born>Född: {0}</Born>
   <!-- EN: Chronological age: {0} years, {1} quadrums, {2} days -->
@@ -73,5 +73,5 @@
   <Lasted>Varade</Lasted>
   <!-- EN: occurred {0} ago -->
   <OccurredTimeAgo>inträffade {0} sedan</OccurredTimeAgo>
-  
+
 </LanguageData>

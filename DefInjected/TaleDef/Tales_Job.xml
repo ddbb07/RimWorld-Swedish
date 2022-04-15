@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: attended party -->
   <AttendedParty.label>TODO</AttendedParty.label>
   <!-- EN:
@@ -21,7 +21,7 @@
     <li>desc_sentence->[Quantity_adjphrase] [Animal]s play nearby.</li>
   -->
   <AttendedParty.rulePack.rulesStrings>TODO</AttendedParty.rulePack.rulesStrings>
-  
+
   <!-- EN: built snowman -->
   <BuiltSnowman.label>TODO</BuiltSnowman.label>
   <!-- EN:
@@ -41,7 +41,7 @@
     <li>desc_sentence->A snow-covered [TerrainFeature] can be seen far away.</li>
   -->
   <BuiltSnowman.rulePack.rulesStrings>TODO</BuiltSnowman.rulePack.rulesStrings>
-  
+
   <!-- EN: buried corpse -->
   <BuriedCorpse.label>TODO</BuriedCorpse.label>
   <!-- EN:
@@ -66,7 +66,7 @@
     <li>desc_sentence->[Quantity_adjphrase] [Animal]s rest near the scene.</li>
   -->
   <BuriedCorpse.rulePack.rulesStrings>TODO</BuriedCorpse.rulePack.rulesStrings>
-  
+
   <!-- EN: completed long construction project -->
   <CompletedLongConstructionProject.label>TODO</CompletedLongConstructionProject.label>
   <!-- EN:
@@ -87,7 +87,7 @@
     <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s gaze in awe.</li>
   -->
   <CompletedLongConstructionProject.rulePack.rulesStrings>TODO</CompletedLongConstructionProject.rulePack.rulesStrings>
-  
+
   <!-- EN: completed long crafting project -->
   <CompletedLongCraftingProject.label>TODO</CompletedLongCraftingProject.label>
   <!-- EN:
@@ -108,7 +108,7 @@
     <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s gaze in awe.</li>
   -->
   <CompletedLongCraftingProject.rulePack.rulesStrings>TODO</CompletedLongCraftingProject.rulePack.rulesStrings>
-  
+
   <!-- EN: entered cryptosleep -->
   <EnteredCryptosleep.label>TODO</EnteredCryptosleep.label>
   <!-- EN:
@@ -129,7 +129,7 @@
     <li>desc_sentence->[Quantity_adjphrase] filled cryptosleep caskets surround the scene.</li>
   -->
   <EnteredCryptosleep.rulePack.rulesStrings>TODO</EnteredCryptosleep.rulePack.rulesStrings>
-  
+
   <!-- EN: gained master skill -->
   <GainedMasterSkillWithoutPassion.label>TODO</GainedMasterSkillWithoutPassion.label>
   <!-- EN:
@@ -151,7 +151,7 @@
     <li>desc_sentence->[Quantity_adjphrase] ethereal spirits of ancient masters watch from above.</li>
   -->
   <GainedMasterSkillWithoutPassion.rulePack.rulesStrings>TODO</GainedMasterSkillWithoutPassion.rulePack.rulesStrings>
-  
+
   <!-- EN: gained master skill with passion -->
   <GainedMasterSkillWithPassion.label>TODO</GainedMasterSkillWithPassion.label>
   <!-- EN:
@@ -175,7 +175,7 @@
     <li>desc_sentence->[Quantity_adjphrase] ethereal spirits of ancient masters watch from above.</li>
   -->
   <GainedMasterSkillWithPassion.rulePack.rulesStrings>TODO</GainedMasterSkillWithPassion.rulePack.rulesStrings>
-  
+
   <!-- EN: increased menagerie -->
   <IncreasedMenagerie.label>TODO</IncreasedMenagerie.label>
   <!-- EN:
@@ -196,7 +196,7 @@
     <li>desc_sentence->A line of uncountable [Animal]s waits to be tamed by [HUMAN_nameDef].</li>
   -->
   <IncreasedMenagerie.rulePack.rulesStrings>TODO</IncreasedMenagerie.rulePack.rulesStrings>
-  
+
   <!-- EN: meditated -->
   <Meditated.label>TODO</Meditated.label>
   <!-- EN:
@@ -216,7 +216,7 @@
     <li>desc_sentence->[Quantity_adjphrase] [Enemy]s are awestruck by the scene.</li>
   -->
   <Meditated.rulePack.rulesStrings>TODO</Meditated.rulePack.rulesStrings>
-  
+
   <!-- EN: mined valuable -->
   <MinedValuable.label>TODO</MinedValuable.label>
   <!-- EN:
@@ -239,7 +239,7 @@
     <li>desc_sentence->[PAWN_nameDef] is sweaty and dirty from work.</li>
   -->
   <MinedValuable.rulePack.rulesStrings>TODO</MinedValuable.rulePack.rulesStrings>
-  
+
   <!-- EN: played game -->
   <PlayedGame.label>TODO</PlayedGame.label>
   <!-- EN:
@@ -269,7 +269,7 @@
     <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s are slumped in defeat.</li>
   -->
   <PlayedGame.rulePack.rulesStrings>TODO</PlayedGame.rulePack.rulesStrings>
-  
+
   <!-- EN: prayed -->
   <Prayed.label>TODO</Prayed.label>
   <!-- EN:
@@ -290,7 +290,7 @@
     <li>desc_sentence->[Quantity_adjphrase] [Enemy]s are awestruck by the scene.</li>
   -->
   <Prayed.rulePack.rulesStrings>TODO</Prayed.rulePack.rulesStrings>
-  
+
   <!-- EN: put into cryptosleep -->
   <PutIntoCryptosleep.label>TODO</PutIntoCryptosleep.label>
   <!-- EN:
@@ -311,7 +311,7 @@
     <li>desc_sentence->[Quantity_adjphrase] filled cryptosleep caskets surround the scene.</li>
   -->
   <PutIntoCryptosleep.rulePack.rulesStrings>TODO</PutIntoCryptosleep.rulePack.rulesStrings>
-  
+
   <!-- EN: stripped -->
   <Stripped.label>TODO</Stripped.label>
   <!-- EN:
@@ -332,7 +332,7 @@
     <li>desc_sentence->[STRIPPED_nameDef] wears only a [AdjectiveAngsty] expression.</li>
   -->
   <Stripped.rulePack.rulesStrings>TODO</Stripped.rulePack.rulesStrings>
-  
+
   <!-- EN: visited grave -->
   <VisitedGrave.label>TODO</VisitedGrave.label>
   <!-- EN:
@@ -356,5 +356,5 @@
     <li>desc_sentence->[Quantity_adjphrase] [Animal]s rest near the scene.</li>
   -->
   <VisitedGrave.rulePack.rulesStrings>TODO</VisitedGrave.rulePack.rulesStrings>
-  
+
 </LanguageData>

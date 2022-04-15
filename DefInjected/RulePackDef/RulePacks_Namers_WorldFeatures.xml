@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN:
     <li>standardname(p=0.2)->isle [narrative_name]</li>
     <li>terrain_word(p=4)->islands</li>
@@ -14,7 +14,7 @@
     <li>terrain_word->chain</li>
   -->
   <NamerArchipelago.rulePack.rulesStrings>TODO</NamerArchipelago.rulePack.rulesStrings>
-  
+
   <!-- EN:
     <li>terrain_word(p=4)->shrubland</li>
     <li>terrain_word(p=4)->scrubland</li>
@@ -26,7 +26,7 @@
     <li>terrain_word->barrens</li>
   -->
   <NamerAridShrubland.rulePack.rulesStrings>TODO</NamerAridShrubland.rulePack.rulesStrings>
-  
+
   <!-- EN:
     <li>standardname(p=0.2)->gulf of [narrative_name]</li>
     <li>terrain_word(p=6)->bay</li>
@@ -36,7 +36,7 @@
     <li>terrain_word->cove</li>
   -->
   <NamerBay.rulePack.rulesStrings>TODO</NamerBay.rulePack.rulesStrings>
-  
+
   <!-- EN:
     <li>terrain_word(p=6)->forest</li>
     <li>terrain_word(p=3)->taiga</li>
@@ -47,7 +47,7 @@
     <li>terrain_word->thicket</li>
   -->
   <NamerBorealForest.rulePack.rulesStrings>TODO</NamerBorealForest.rulePack.rulesStrings>
-  
+
   <!-- EN:
     <li>standardname(p=0.4)->[desert_adjective] [narrative_name]</li>
     <li>desert_adjective->flat</li>
@@ -73,7 +73,7 @@
     <li>terrain_word->barrens</li>
   -->
   <NamerDesert.rulePack.rulesStrings>TODO</NamerDesert.rulePack.rulesStrings>
-  
+
   <!-- EN:
     <li>terrain_word(p=6)->forest</li>
     <li>terrain_word->grove</li>
@@ -81,7 +81,7 @@
     <li>terrain_word->thicket</li>
   -->
   <NamerForest.rulePack.rulesStrings>TODO</NamerForest.rulePack.rulesStrings>
-  
+
   <!-- EN:
     <li>terrain_word->sheet</li>
     <li>terrain_word->expanse</li>
@@ -93,7 +93,7 @@
     <li>terrain_word(p=0.3)->tract</li>
   -->
   <NamerIceSheet.rulePack.rulesStrings>TODO</NamerIceSheet.rulePack.rulesStrings>
-  
+
   <!-- EN:
     <li>standardname(p=0.2)->isle [narrative_name]</li>
     <li>terrain_word(p=4)->island</li>
@@ -105,7 +105,7 @@
     <li>terrain_word->point</li>
   -->
   <NamerIsland.rulePack.rulesStrings>TODO</NamerIsland.rulePack.rulesStrings>
-  
+
   <!-- EN:
     <li>standardname->lake [narrative_name]</li>
     <li>terrain_word(p=6)->lake</li>
@@ -118,7 +118,7 @@
     <li>terrain_word(p=0.3)->loch</li>
   -->
   <NamerLake.rulePack.rulesStrings>TODO</NamerLake.rulePack.rulesStrings>
-  
+
   <!-- EN:
     <li>standardname(p=0.2)->mount [narrative_name]</li>
     <li>terrain_word(p=5)->mountains</li>
@@ -128,7 +128,7 @@
     <li>terrain_word->cliffs</li>
   -->
   <NamerMountainRange.rulePack.rulesStrings>TODO</NamerMountainRange.rulePack.rulesStrings>
-  
+
   <!-- EN:
     <li>standardname(p=0.4)->[ocean_adjective] [narrative_name]</li>
     <li>ocean_adjective->blue</li>
@@ -149,7 +149,7 @@
     <li>terrain_word->expanse</li>
   -->
   <NamerOcean.rulePack.rulesStrings>TODO</NamerOcean.rulePack.rulesStrings>
-  
+
   <!-- EN:
     <li>standardname(p=0.2)->point [narrative_name]</li>
     <li>standardname(p=0.2)->cape [narrative_name]</li>
@@ -160,7 +160,7 @@
     <li>terrain_word->horn</li>
   -->
   <NamerPeninsula.rulePack.rulesStrings>TODO</NamerPeninsula.rulePack.rulesStrings>
-  
+
   <!-- EN:
     <li>standardname(p=0.1)->lake [narrative_name]</li>
     <li>terrain_word(p=6)->sea</li>
@@ -168,7 +168,7 @@
     <li>terrain_word->lake</li>
   -->
   <NamerSea.rulePack.rulesStrings>TODO</NamerSea.rulePack.rulesStrings>
-  
+
   <!-- EN:
     <li>standardname(p=0.1)->fen [narrative_name]</li>
     <li>standardname(p=0.3)->[swamp_adjective] [narrative_name]</li>
@@ -190,7 +190,7 @@
     <li>terrain_word->fen</li>
   -->
   <NamerSwamp.rulePack.rulesStrings>TODO</NamerSwamp.rulePack.rulesStrings>
-  
+
   <!-- EN:
     <li>standardname(p=0.3)->[rainforest_adjective] [narrative_name]</li>
     <li>rainforest_adjective->wet</li>
@@ -208,7 +208,7 @@
     <li>terrain_word->tangle</li>
   -->
   <NamerTropicalRainforest.rulePack.rulesStrings>TODO</NamerTropicalRainforest.rulePack.rulesStrings>
-  
+
   <!-- EN:
     <li>terrain_word(p=4)->plateau</li>
     <li>terrain_word(p=4)->barrens</li>
@@ -224,7 +224,7 @@
     <li>terrain_word->flats</li>
   -->
   <NamerTundra.rulePack.rulesStrings>TODO</NamerTundra.rulePack.rulesStrings>
-  
+
   <!-- EN:
     <li>r_name->[metaprefix] [standardname]</li>
     <li>r_name(p=0.05)->[storyname] [terrain_word]</li>
@@ -299,5 +299,5 @@
     <li>story_result->fraud</li>
   -->
   <WorldFeatureNamerCommon.rulePack.rulesStrings>TODO</WorldFeatureNamerCommon.rulePack.rulesStrings>
-  
+
 </LanguageData>

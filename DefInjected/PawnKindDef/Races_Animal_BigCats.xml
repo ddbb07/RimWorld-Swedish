@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: cougar -->
   <Cougar.label>puma</Cougar.label>
   <Cougar.labelFemale>puma</Cougar.labelFemale>
@@ -26,7 +26,7 @@
   <Cougar.lifeStages.2.labelMale>puma</Cougar.lifeStages.2.labelMale>
   <Cougar.lifeStages.2.labelMalePlural>pumor</Cougar.lifeStages.2.labelMalePlural>
   <Cougar.lifeStages.2.labelPlural>pumor</Cougar.lifeStages.2.labelPlural>
-  
+
   <!-- EN: lynx -->
   <Lynx.label>lodjur</Lynx.label>
   <Lynx.labelFemale>lodjur</Lynx.labelFemale>
@@ -54,7 +54,7 @@
   <Lynx.lifeStages.2.labelMale>lodjur</Lynx.lifeStages.2.labelMale>
   <Lynx.lifeStages.2.labelMalePlural>lodjur</Lynx.lifeStages.2.labelMalePlural>
   <Lynx.lifeStages.2.labelPlural>lodjur</Lynx.lifeStages.2.labelPlural>
-  
+
   <!-- EN: panther -->
   <Panther.label>panter</Panther.label>
   <Panther.labelFemale>panter</Panther.labelFemale>
@@ -80,5 +80,5 @@
   <Panther.lifeStages.2.labelMale>panter</Panther.lifeStages.2.labelMale>
   <Panther.lifeStages.2.labelMalePlural>pantrar</Panther.lifeStages.2.labelMalePlural>
   <Panther.lifeStages.2.labelPlural>pantrar</Panther.lifeStages.2.labelPlural>
-  
+
 </LanguageData>

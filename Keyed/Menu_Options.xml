@@ -96,7 +96,7 @@
   <SelectMod>Välj modd...</SelectMod>
   <!-- EN: No configurable mods loaded. -->
   <NoConfigurableMods>Inga konfigureringsbara moddar laddade.</NoConfigurableMods>
-  
+
   <!-- Options reset -->
   <!-- EN: Restore to default settings -->
   <RestoreToDefaultSettings>Återställ till standardinställningarna</RestoreToDefaultSettings>

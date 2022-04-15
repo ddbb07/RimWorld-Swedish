@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: beer -->
   <Beer.label>öl</Beer.label>
   <!-- EN: The first beverage besides water ever consumed by mankind. Beer can taste good, but its main effect is intoxication. Excessive consumption can lead to alcohol blackouts and, over time, addiction. -->
@@ -13,10 +13,10 @@
   <Beer.tools.bottle.label>flaska</Beer.tools.bottle.label>
   <!-- EN: neck -->
   <Beer.tools.neck.label>flaskhals</Beer.tools.neck.label>
-  
+
   <!-- EN: wort -->
   <Wort.label>vört</Wort.label>
   <!-- EN: Un-fermented beer. This substance needs to ferment in a fermenting barrel before it becomes drinkable beer. -->
   <Wort.description>Öl före jäsning. Detta ämne måste få jäsa i en bryggtunna innan det blir drickbart öl.</Wort.description>
-  
+
 </LanguageData>

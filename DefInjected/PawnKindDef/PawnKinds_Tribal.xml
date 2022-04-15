@@ -1,35 +1,35 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: archer -->
   <Tribal_Archer.label>pilbågsskytt</Tribal_Archer.label>
   <Tribal_Archer.labelPlural>pilbågsskyttar</Tribal_Archer.labelPlural>
-  
+
   <!-- EN: berserker -->
   <Tribal_Berserker.label>bärsärk</Tribal_Berserker.label>
-  
+
   <!-- EN: berserker chief -->
   <Tribal_ChiefMelee.label>ledande bärsärk</Tribal_ChiefMelee.label>
-  
+
   <!-- EN: archer chief -->
   <Tribal_ChiefRanged.label>ledande bågskytt</Tribal_ChiefRanged.label>
   <Tribal_ChiefRanged.labelPlural>ledande bågskyttar</Tribal_ChiefRanged.labelPlural>
-  
+
   <!-- EN: heavy archer -->
   <Tribal_HeavyArcher.label>tung pilbågsskytt</Tribal_HeavyArcher.label>
-  
+
   <!-- EN: hunter -->
   <Tribal_Hunter.label>jägare</Tribal_Hunter.label>
-  
+
   <!-- EN: penitent -->
   <Tribal_Penitent.label>botgörare</Tribal_Penitent.label>
-  
+
   <!-- EN: trader -->
   <Tribal_Trader.label>handlare</Tribal_Trader.label>
   <Tribal_Trader.labelPlural>handlare</Tribal_Trader.labelPlural>
-  
+
   <!-- EN: warrior -->
   <Tribal_Warrior.label>krigare</Tribal_Warrior.label>
   <Tribal_Warrior.labelPlural>krigare</Tribal_Warrior.labelPlural>
-  
+
 </LanguageData>

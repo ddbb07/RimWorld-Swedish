@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: downed -->
   <Downed.label>TODO</Downed.label>
   <!-- EN:
@@ -41,7 +41,7 @@
     <li>desc_sentence->[KILLER_nameDef] looks triumphant.</li>
   -->
   <Downed.rulePack.rulesStrings>TODO</Downed.rulePack.rulesStrings>
-  
+
   <!-- EN: exhausted -->
   <Exhausted.label>TODO</Exhausted.label>
   <!-- EN:
@@ -62,7 +62,7 @@
     <li>desc_sentence->The scene takes place inside a newly-built [Community].</li>
   -->
   <Exhausted.rulePack.rulesStrings>TODO</Exhausted.rulePack.rulesStrings>
-  
+
   <!-- EN: gave birth -->
   <GaveBirth.label>TODO</GaveBirth.label>
   <!-- EN:
@@ -84,7 +84,7 @@
     <li>desc_sentence->The scene takes place inside a newly-built [Community].</li>
   -->
   <GaveBirth.rulePack.rulesStrings>TODO</GaveBirth.rulePack.rulesStrings>
-  
+
   <!-- EN: heatstroke revealed -->
   <HeatstrokeRevealed.label>TODO</HeatstrokeRevealed.label>
   <!-- EN:
@@ -108,7 +108,7 @@
     <li>desc_sentence->[Quantity_adjphrase] dying [Animal]s lay on the ground.</li>
   -->
   <HeatstrokeRevealed.rulePack.rulesStrings>TODO</HeatstrokeRevealed.rulePack.rulesStrings>
-  
+
   <!-- EN: hypothermia revealed -->
   <HypothermiaRevealed.label>TODO</HypothermiaRevealed.label>
   <!-- EN:
@@ -132,7 +132,7 @@
     <li>desc_sentence->[Quantity_adjphrase] dying [Animal]s lay on the ground.</li>
   -->
   <HypothermiaRevealed.rulePack.rulesStrings>TODO</HypothermiaRevealed.rulePack.rulesStrings>
-  
+
   <!-- EN: illness revealed -->
   <IllnessRevealed.label>TODO</IllnessRevealed.label>
   <!-- EN:
@@ -157,7 +157,7 @@
     <li>desc_sentence->[Quantity_adjphrase] dying [Animal]s lay on the ground.</li>
   -->
   <IllnessRevealed.rulePack.rulesStrings>TODO</IllnessRevealed.rulePack.rulesStrings>
-  
+
   <!-- EN: killed -->
   <KilledCapacity.label>TODO</KilledCapacity.label>
   <!-- EN:
@@ -192,7 +192,7 @@
     <li>desc_sentence->[KILLER_nameDef] looks triumphant.</li>
   -->
   <KilledCapacity.rulePack.rulesStrings>TODO</KilledCapacity.rulePack.rulesStrings>
-  
+
   <!-- EN: killed at distance -->
   <KilledLongRange.label>TODO</KilledLongRange.label>
   <!-- EN:
@@ -231,7 +231,7 @@
     <li>desc_sentence->[KILLER_nameDef] looks triumphant.</li>
   -->
   <KilledLongRange.rulePack.rulesStrings>TODO</KilledLongRange.rulePack.rulesStrings>
-  
+
   <!-- EN: killed major threat -->
   <KilledMajorThreat.label>TODO</KilledMajorThreat.label>
   <!-- EN:
@@ -273,7 +273,7 @@
     <li>desc_sentence->[KILLER_nameDef] is glowing with a heroic aura.</li>
   -->
   <KilledMajorThreat.rulePack.rulesStrings>TODO</KilledMajorThreat.rulePack.rulesStrings>
-  
+
   <!-- EN: killed in melee -->
   <KilledMelee.label>TODO</KilledMelee.label>
   <!-- EN:
@@ -315,7 +315,7 @@
     <li>desc_sentence->[KILLER_nameDef] wears a feral expression.</li>
   -->
   <KilledMelee.rulePack.rulesStrings>TODO</KilledMelee.rulePack.rulesStrings>
-  
+
   <!-- EN: killed with mortar -->
   <KilledMortar.label>TODO</KilledMortar.label>
   <!-- EN:
@@ -341,7 +341,7 @@
     <li>desc_sentence->[KILLER_nameDef] looks triumphant.</li>
   -->
   <KilledMortar.rulePack.rulesStrings>TODO</KilledMortar.rulePack.rulesStrings>
-  
+
   <!-- EN: toxicity revealed -->
   <ToxicityRevealed.label>TODO</ToxicityRevealed.label>
   <!-- EN:
@@ -367,7 +367,7 @@
     <li>desc_sentence->[Quantity_adjphrase] dying [Animal]s lay on the ground.</li>
   -->
   <ToxicityRevealed.rulePack.rulesStrings>TODO</ToxicityRevealed.rulePack.rulesStrings>
-  
+
   <!-- EN: wounded -->
   <Wounded.label>TODO</Wounded.label>
   <!-- EN:
@@ -413,5 +413,5 @@
     <li>desc_sentence->[KILLER_nameDef] looks triumphant.</li>
   -->
   <Wounded.rulePack.rulesStrings>TODO</Wounded.rulePack.rulesStrings>
-  
+
 </LanguageData>

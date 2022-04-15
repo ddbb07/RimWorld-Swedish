@@ -1,25 +1,25 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: category -->
   <Category.label>kategori</Category.label>
-  
+
   <!-- EN: hit points percentage -->
   <HitPointsPercentage.label>skadepoäng i procent</HitPointsPercentage.label>
-  
+
   <!-- EN: market value -->
   <MarketValue.label>marknadsvärde</MarketValue.label>
-  
+
   <!-- EN: mass -->
   <Mass.label>vikt</Mass.label>
-  
+
   <!-- EN: name -->
   <Name.label>namn</Name.label>
-  
+
   <!-- EN: none -->
   <None.label>ingen</None.label>
-  
+
   <!-- EN: quality -->
   <Quality.label>kvalitet</Quality.label>
-  
+
 </LanguageData>
